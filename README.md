@@ -1,3 +1,4 @@
 # Audio y Creacion Sonora
 
-por Matias Macias Gomez, 2020
+
+© [https://github.com/Matmac945] (Matias Macias Gomez) 2021

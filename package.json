@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "bulma": "^0.9.1"
+  },
+  "devDependencies": {
+    "@creativebulma/bulma-collapsible": "^1.0.4"
   }
 }
