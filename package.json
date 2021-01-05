@@ -1,0 +1,14 @@
+{
+  "name": "creacion-sonora",
+  "version": "1.0.0",
+  "description": "class resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Macias",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.1"
+  }
+}
