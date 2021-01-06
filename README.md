@@ -10,7 +10,7 @@
 - [Ableton Live](https://www.ableton.com/)
 - [Reaper](https://www.reaper.fm/)
 
-# Recursos Gratuitos
+## Recursos Gratuitos
 ### Instrumentos
 - [Piano One](https://neovst.com/piano-one/) VST de piano 
 - [Surge](https://surge-synthesizer.github.io/) Sintetizador
@@ -30,9 +30,9 @@
 
 ### Páginas web
 - [Freesound.org](https://freesound.org/) Pagina web desde la cual pueden descargar sonidos y samples de manera gratuita
-- [bpb bedroomproducerblog](https://bedroomproducersblog.com/)(*Ingles*) Blog en el cual pueden encontrar vst, daws, samples gratuitos asi como reviews y noticias sobre productos y tecnicas de producción musical y audio profesional 
+- [bpb Bedroom Producer blog](https://bedroomproducersblog.com/) (***Ingles***) Blog en el cual pueden encontrar vst, daws, samples gratuitos asi como reviews y noticias sobre productos y tecnicas de producción musical y audio profesional 
 
-# Clases
+## Clases
 El samana a de las clases esta disponible en https://matmac945.github.io/audio-creacion-sonora/class.html
 
 Todos los los contenidos referenciados en esta página web pertenencen a sus respectivos dueños
