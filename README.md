@@ -11,6 +11,20 @@
 - [Reaper](https://www.reaper.fm/)
 
 ## Recursos Gratuitos
+Esta es una lista de los VST gratuitos que yo utilizo y siempre recomiendo a mis estudiantes. 
+Para que un VST entre en la lista debe cumplir ciertas condiciones: 
+1. Debe de estar disponibles para macOSX y Windows
+2. Debe de ser completamente gratuito todo el año y no solo por un periodo de tiempo específico
+3. Debe ser un pluging que yo mismo haya probado y conozca su funcionamiento para poder ofrecer a mis estudiantes guía al momento de utilizarlos
+
+
+En caso de necesitar mas opciones de VST gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/) a la sección de "FREE" o a [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista mas completa de VST gratuitos.
+
+### Drivers
+En caso de utilizar Windows para evitar latencia y tener una mejor experiencia al momento de producir o trabajar con DAWS recomiendo instalar: 
+- [ASIO4ALL](https://www.asio4all.org/) y descargar la última version
+
+
 ### Instrumentos
 - [Piano One](https://neovst.com/piano-one/) VST de piano 
 - [Surge](https://surge-synthesizer.github.io/) Sintetizador
@@ -24,6 +38,7 @@
 - [Saturation Knob](https://www.softube.com/saturationknob) Plugin the Saturacion
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) EQ y [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) Compresor
 - [Izotope Vinyl](https://www.izotope.com/en/products/vinyl.html) efecto para crear sonidos "Lo-Fi", [Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html) para aumentar la profundidad de las voces o instrumentos, [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html) para darle mas dimension a la mezcla
+- []()
 
 ### Diseño de sonido
 - [Pitchproof](https://aegeanmusic.com/pitchproof-specs) Pitchshifter y Armonizador
@@ -33,7 +48,7 @@
 - [bpb Bedroom Producer blog](https://bedroomproducersblog.com/) (***Ingles***) Blog en el cual pueden encontrar vst, daws, samples gratuitos asi como reviews y noticias sobre productos y tecnicas de producción musical y audio profesional 
 
 ## Clases
-El samana a de las clases esta disponible en https://matmac945.github.io/audio-creacion-sonora/class.html
+El samana a semana de las clases esta disponible en https://matmac945.github.io/audio-creacion-sonora/class.html
 
 Todos los los contenidos referenciados en esta página web pertenencen a sus respectivos dueños
 © [Matias Macias Gomez](https://github.com/Matmac945) 2021
