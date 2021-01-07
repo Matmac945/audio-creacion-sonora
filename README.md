@@ -1,11 +1,11 @@
-# Audio y Creación Sonora
+# Creación Sonora
 
 ## Tabla de contenidos
 - [DAWS Recomendados](#DAWS-Recomendados)
 - [Recursos Gratuitos](#Recursos-Gratuitos)
 - [Clases](#Clases)
 
-# DAWS Recomendados
+## DAWS Recomendados
 - [Ableton Live](https://www.ableton.com/)
 - [Reaper](https://www.reaper.fm/)
 
