@@ -2,7 +2,7 @@
 
 ## Tabla de contenidos
 - [T]()
-- [Recursos Gratuitos](#recursos-gratuitos)
+- [Recursos Gratuitos](#Recursos-Gratuitos)
 - [Clases]()
 - [FAQ]()
 
@@ -10,7 +10,7 @@
 - [Ableton Live](https://www.ableton.com/)
 - [Reaper](https://www.reaper.fm/)
 
-## recursos gratuitos
+## Recursos Gratuitos
 Esta es una lista de los VST gratuitos que yo utilizo y siempre recomiendo a mis estudiantes. 
 Para que un VST entre en la lista debe cumplir ciertas condiciones: 
 1. Debe de estar disponibles para macOSX y Windows
