@@ -10,102 +10,108 @@
   </head>
   <body>
     <!--NAV BAR-->
-    <nav class="navbar is-light is-fixed-top" role="navigation" aria-label="main navigation">
-        <div class="container">
-        <div class="navbar-brand">
-          <!-- <a class="navbar-item" href="index.html">
-            <img src="img/TDAxis_LOGO_5.png" alt="logo">
-          </a> -->
-          <a role="button" class="navbar-burger" id="burger" aria-label="menu" aria-expanded="false" onclick="toggleBurger()">
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
+    <nav class="navbar is-danger is-fixed-top" role="navigation" aria-label="main navigation">
+      <div class="container">
+      <div class="navbar-brand">
+        <!-- <a class="navbar-item" href="index.html">
+          <img src="img/TDAxis_LOGO_5.png" alt="logo">
+        </a> -->
+        <a role="button" class="navbar-burger" id="burger" aria-label="menu" aria-expanded="false" onclick="toggleBurger()">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+    
+      <div id="nav-menu" class="navbar-menu">
+        <div class="navbar-start">
+          <a class="navbar-item" href="index.html">
+            <strong>Inicio</strong>
           </a>
-        </div>
-        <div id="nav-menu" class="navbar-menu">
-          <div class="navbar-start">
-            <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link" href="tutorials.html">
-                  Tutoriales
-                </a>
-                <div class="navbar-dropdown">
-                  <a class="navbar-item">
-                    Ableton Live
-                  </a>
-                  <a class="navbar-item">
-                    Reaper
-                  </a>
-                  <a class="navbar-item">
-                    Audacity
-                  </a>
-                  <a class="navbar-item">
-                    Garage Band
-                  </a>
-                  <a class="navbar-item">
-                    Plugins
-                  </a>
-                  <hr class="navbar-divider">
-                  <div class="navbar-item">
-                    Version 0.9.1
-                  </div>
-                </div>
-              </div>
-            <div class="navbar-item has-dropdown is-hoverable" href="">
-              <a href="resources.html" class="navbar-link">
-                Recursos
+          <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link" href="tutorials.html">
+                <strong>Tutoriales</strong>
               </a>
               <div class="navbar-dropdown">
-                  <a href="" class="navbar-item">
-                    Instrumentos
-                  </a>
-                  <a href="" class="navbar-item">
-                    Mezcla & Master
-                  </a>
-                  <a href="" class="navbar-item">
-                    Videos y Lecturas
-                  </a>
+                <a class="navbar-item">
+                  Ableton Live
+                </a>
+                <a class="navbar-item">
+                  Reaper
+                </a>
+                <a class="navbar-item">
+                  Audacity
+                </a>
+                <a class="navbar-item">
+                  Garage Band
+                </a>
+                <a class="navbar-item">
+                  Plugins
+                </a>
               </div>
             </div>
-            <a class="navbar-item" href="class.html">
-              Clases
+          <div class="navbar-item has-dropdown is-hoverable" href="">
+            <a href="resources.html" class="navbar-link">
+              <strong>Recursos</strong>
             </a>
-            <a class="navbar-item" href="FAQ.html">
-              FAQ
-            </a>
+            <div class="navbar-dropdown">
+                <a href="" class="navbar-item">
+                  Instrumentos
+                </a>
+                <a href="" class="navbar-item">
+                  Mezcla & Master
+                </a>
+                <a href="" class="navbar-item">
+                  Videos y Lecturas
+                </a>
+            </div>
           </div>
-          <div class="navbar-end">
+          <a class="navbar-item" href="class.html">
+            <strong>Clases</strong>
+          </a>
+        </div>
+        <div class="navbar-end">
+        </div>
+      </div>
+    </div>
+    </nav>
+    <!---->
+    <section class="section">
+      <div class="container">
+        <h1 class="title">
+          Recursos Gratuitos
+        </h1>
+        <div class="tile is-ancestor">
+          <div class="tile is-4 is-vertical is-parent">
+            <div class="tile is-child box">
+              <a href="index.html">
+                <p class="title is-4">Instrumentos Virtuales Gratis</p>
+                <figure class="image">
+                  <img src="img/music studio.svg" alt="Instrumentos">
+                </figure>
+              </a>
+            </div>
+            <div class="tile is-child box">
+              <a href="index.html">
+                <p class="title is-4">Mezcla y Master</p>
+                <figure class="image">
+                  <img src="img/undraw_compose_music.svg" alt="Mezca">
+                </figure>
+              </a>
+            </div>
+          </div>
+          <div class="tile is-parent">
+            <div class="tile is-child box">
+              <a href="index.html">
+                <p class="title is-4">Videos, blogs y lecturas</p>
+                <figure class="image">
+                  <img src="img/undraw_lecturas.svg" alt="Blogs y lecturas">
+                </figure>
+              </a>
+            </div>
           </div>
         </div>
       </div>
-    </nav>
-    <!---->
-  <section class="section">
-    <div class="container is-dark">
-      <h1 class="title">
-        Recursos
-      </h1>
-      <p class="subtitle">
-        Plugins, lecturas y videos recomendados.
-      </p>
-    </div>
-    <div class="content">
-      <div class="container">
-        <ul>
-          <li>Intrumentos</li>
-          <li>Mezcla y Master</li>
-          <li>Videos, blogs y lecturas</li>
-        </ul>
-      </div>
-    </div>
-  </section>
+    </section>
   </body>
-  <footer class="footer">
-    <div class="content has-text-centered">
-      <p>
-        <strong>Audio y Creación Sonora</strong> by <a href="https://jgthms.com">Matías Macías</a>. The source code is licensed
-        <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
-        is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
-      </p>
-    </div>
-  </footer>
 </html>

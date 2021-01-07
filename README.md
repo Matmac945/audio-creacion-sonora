@@ -1,10 +1,9 @@
 # Audio y Creación Sonora
 
 ## Tabla de contenidos
-- [T]()
+- [DAWS Recomendados](#DAWS-Recomendados)
 - [Recursos Gratuitos](#Recursos-Gratuitos)
-- [Clases]()
-- [FAQ]()
+- [Clases](#Clases)
 
 # DAWS Recomendados
 - [Ableton Live](https://www.ableton.com/)
@@ -22,7 +21,7 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 
 
 *Todos los articulos marcados con ⚡ es porque su idioma original **NO** es español*
-### drivers
+### Drivers
 En caso de utilizar Windows para evitar latencia y tener una mejor experiencia al momento de producir o trabajar con DAWS recomiendo instalar: 
 - [ASIO4ALL](https://www.asio4all.org/). Descargar e instalar la última versión
 
@@ -39,7 +38,7 @@ En caso de utilizar Windows para evitar latencia y tener una mejor experiencia a
 - [Saturation Knob](https://www.softube.com/saturationknob) Plugin the Saturacion
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) EQ y [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) Compresor
 - [Izotope Vinyl](https://www.izotope.com/en/products/vinyl.html) efecto para crear sonidos "Lo-Fi", [Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html) para aumentar la profundidad de las voces o instrumentos, [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html) para darle mas dimension a la mezcla
-- []()
+- [Coffee The Pun](https://www.acustica-audio.com/store/t/acqua/free), [Titanium 3 Basstard](https://www.acustica-audio.com/store/t/acqua/free) y [Tan Free Compressor](https://www.acustica-audio.com/store/t/acqua/free). 2 Ecualizadores y un compresor
 
 ### Diseño de sonido
 - [Pitchproof](https://aegeanmusic.com/pitchproof-specs) Pitchshifter y Armonizador
@@ -53,4 +52,4 @@ En caso de utilizar Windows para evitar latencia y tener una mejor experiencia a
 El samana a semana de las clases esta disponible en https://matmac945.github.io/audio-creacion-sonora/class.html
 
 Todos los los contenidos referenciados en esta página web pertenencen a sus respectivos dueños
-© [Matias Macias Gomez](https://github.com/Matmac945) 2021
+© [Matias Macias Gomez](https://github.com/Matmac945), 2021

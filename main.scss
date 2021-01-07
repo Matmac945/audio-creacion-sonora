@@ -1,1 +1,25 @@
+$primary:#51EBD7;
+$danger:#7049D6;
+$warning:#F75848;
+// $link:#B2D43D;
+$success:#F5AB5F;
 @import "node_modules/bulma/bulma.sass";
+.is-attribution{
+    padding-top: 0px;
+    font-style: italic;
+    font-size:0.7em;
+    color:lightgrey;
+    text-decoration: none;
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px){
+    .bg-img{
+        background-image: url(img/undraw_happy_music.svg) ;
+        background-position: center center;
+        background-repeat:  no-repeat;
+        background-attachment: fixed;
+        background-size:contain;
+        background-color: #FFFF;
+    }
+}
