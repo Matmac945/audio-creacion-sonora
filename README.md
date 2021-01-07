@@ -1,16 +1,16 @@
 # Audio y Creación Sonora
 
 ## Tabla de contenidos
-- [Tutoriales]()
-- [Recursos Gratuitos]()
+- [T]()
+- [Recursos Gratuitos](#recursos-gratuitos)
 - [Clases]()
 - [FAQ]()
 
-# Tutoriales
+# DAWS Recomendados
 - [Ableton Live](https://www.ableton.com/)
 - [Reaper](https://www.reaper.fm/)
 
-## Recursos Gratuitos
+## recursos gratuitos
 Esta es una lista de los VST gratuitos que yo utilizo y siempre recomiendo a mis estudiantes. 
 Para que un VST entre en la lista debe cumplir ciertas condiciones: 
 1. Debe de estar disponibles para macOSX y Windows
@@ -22,7 +22,7 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 
 
 *Todos los articulos marcados con ⚡ es porque su idioma original **NO** es español*
-### Drivers
+### drivers
 En caso de utilizar Windows para evitar latencia y tener una mejor experiencia al momento de producir o trabajar con DAWS recomiendo instalar: 
 - [ASIO4ALL](https://www.asio4all.org/). Descargar e instalar la última versión
 
@@ -45,7 +45,7 @@ En caso de utilizar Windows para evitar latencia y tener una mejor experiencia a
 - [Pitchproof](https://aegeanmusic.com/pitchproof-specs) Pitchshifter y Armonizador
 
 ### Samples
-- [Freesound.org](https://freesound.org/) Pagina web desde la cual pueden descargar sonidos y samples de manera gratuita
+- [Freesound.org](https://freesound.org/) Libreria de sonidos gratuita
 - [Cymatics](https://cymatics.fm/pages/free-download-vault) Todos los paquetes de samples gratuitos
 - ⚡[Point Blank School](https://plus.pointblankmusicschool.com/7-essential-sites-to-download-high-quality-free-samples/) Articulo sobre diferentes maneras de conseguir samples gratuitos
 
