@@ -1,4 +1,4 @@
-# Audio y Creacion Sonora
+# Audio y Creación Sonora
 
 ## Tabla de contenidos
 - [Tutoriales]()
@@ -15,15 +15,16 @@ Esta es una lista de los VST gratuitos que yo utilizo y siempre recomiendo a mis
 Para que un VST entre en la lista debe cumplir ciertas condiciones: 
 1. Debe de estar disponibles para macOSX y Windows
 2. Debe de ser completamente gratuito todo el año y no solo por un periodo de tiempo específico
-3. Debe ser un pluging que yo mismo haya probado y conozca su funcionamiento para poder ofrecer a mis estudiantes guía al momento de utilizarlos
+3. Debe ser un pluging que yo mismo haya probado.
 
 
-En caso de necesitar mas opciones de VST gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/) a la sección de "FREE" o a [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista mas completa de VST gratuitos.
+En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/) a la sección de "FREE" o a [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista más completa de VST y DAW gratuitos.
 
+
+*Todos los articulos marcados con ⚡ es porque su idioma original **NO** es español*
 ### Drivers
 En caso de utilizar Windows para evitar latencia y tener una mejor experiencia al momento de producir o trabajar con DAWS recomiendo instalar: 
-- [ASIO4ALL](https://www.asio4all.org/) y descargar la última version
-
+- [ASIO4ALL](https://www.asio4all.org/). Descargar e instalar la última versión
 
 ### Instrumentos
 - [Piano One](https://neovst.com/piano-one/) VST de piano 
@@ -43,9 +44,10 @@ En caso de utilizar Windows para evitar latencia y tener una mejor experiencia a
 ### Diseño de sonido
 - [Pitchproof](https://aegeanmusic.com/pitchproof-specs) Pitchshifter y Armonizador
 
-### Páginas web
+### Samples
 - [Freesound.org](https://freesound.org/) Pagina web desde la cual pueden descargar sonidos y samples de manera gratuita
-- [bpb Bedroom Producer blog](https://bedroomproducersblog.com/) (***Ingles***) Blog en el cual pueden encontrar vst, daws, samples gratuitos asi como reviews y noticias sobre productos y tecnicas de producción musical y audio profesional 
+- [Cymatics](https://cymatics.fm/pages/free-download-vault) Todos los paquetes de samples gratuitos
+- ⚡[Point Blank School](https://plus.pointblankmusicschool.com/7-essential-sites-to-download-high-quality-free-samples/) Articulo sobre diferentes maneras de conseguir samples gratuitos
 
 ## Clases
 El samana a semana de las clases esta disponible en https://matmac945.github.io/audio-creacion-sonora/class.html
