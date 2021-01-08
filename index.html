@@ -6,78 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Creación Sonora</title>
     <script defer src="https://kit.fontawesome.com/ebb858355d.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="main.css">
+    <link rel="shortcut icon" type="image/jpg" href="img/birdie.svg"/>
     <script src="app.js"></script>
   </head>
   <body>
     <section class="hero is-fullheight">
     <div class="hero-head">
       <!--NAV BAR-->
-      <nav class="navbar" role="navigation" aria-label="main navigation">
-      <div class="container">
-      <div class="navbar-brand">
-        <!-- <a class="navbar-item" href="index.html">
-          <img src="img/TDAxis_LOGO_5.png" alt="logo">
-        </a> -->
-        <a role="button" class="navbar-burger" id="burger" aria-label="menu" aria-expanded="false" onclick="toggleBurger()">
-          <span aria-hidden="true"></span>
-          <span aria-hidden="true"></span>
-          <span aria-hidden="true"></span>
-        </a>
-      </div>
-    
-      <div id="nav-menu" class="navbar-menu">
-        <div class="navbar-start">
-          <a class="navbar-item" href="index.html">
-            <strong>Inicio</strong>
-          </a>
-          <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link" href="tutorials.html">
-                <strong>Tutoriales</strong>
-              </a>
-              <div class="navbar-dropdown">
-                <a class="navbar-item">
-                  Ableton Live
-                </a>
-                <a class="navbar-item">
-                  Reaper
-                </a>
-                <a class="navbar-item">
-                  Audacity
-                </a>
-                <a class="navbar-item">
-                  Garage Band
-                </a>
-                <a class="navbar-item">
-                  Plugins
-                </a>
-              </div>
-            </div>
-          <div class="navbar-item has-dropdown is-hoverable" href="">
-            <a href="resources.html" class="navbar-link">
-              <strong>Recursos</strong>
-            </a>
-            <div class="navbar-dropdown">
-                <a href="" class="navbar-item">
-                  Instrumentos
-                </a>
-                <a href="" class="navbar-item">
-                  Mezcla & Master
-                </a>
-                <a href="" class="navbar-item">
-                  Videos y Lecturas
-                </a>
-            </div>
-          </div>
-          <a class="navbar-item" href="class.html">
-            <strong>Clases</strong>
-          </a>
-        </div>
-      
-        <div class="navbar-end">
-        </div>
-      </div>
-    </div>
+      <nav class="navbar" id="nav-placeholder" role="navigation" aria-label="main navigation">
       </nav>
       <!---->
     </div>
@@ -97,10 +35,12 @@
                 <div class="tile">
                   <div class="tile is-parent is-vertical">
                     <article class="tile is-child box">
-                      <p class="title is-4">Clases</p>
-                      <figure class="image">
-                        <img src="img/undraw_clases.svg" alt="">
-                      </figure>
+                      <a href="class.html">
+                        <p class="title is-4">Clases</p>
+                        <figure class="image">
+                          <img src="img/undraw_clases.svg" alt="">
+                        </figure>
+                      </a>
                     </article>
                     <article class="tile is-child box">
                       <a href="resources.html">
@@ -114,10 +54,12 @@
                 </div>
                 <div class="tile is-parent is-vertical">
                   <article class="tile is-child box">
-                    <p class="title is-4">Tutoriales</p>
-                    <figure class="image">
-                      <img src="img/undraw_youtube_tutorial.svg">
-                    </figure>
+                    <a href="tutorials.html">
+                      <p class="title is-4">Tutoriales</p>
+                      <figure class="image">
+                        <img src="img/undraw_youtube_tutorial.svg">
+                      </figure>
+                    </a>
                   </article>
                   <article class="tile is-child box">
                     <a href="videos_lecturas.html">
@@ -146,7 +88,7 @@
     <div class="hero-foot">
       <div class="content has-text-centered">
         <p>
-          <strong>Creación Sonora</strong> by <a href="https://jgthms.com">Matías Macías</a>. The source code is licensed
+          <strong>Creación Sonora</strong> by <a href="https://github.com/Matmac945">Matías Macías</a>. The source code is licensed
           <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
           is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
         </p>
