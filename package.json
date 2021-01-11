@@ -13,5 +13,6 @@
   },
   "devDependencies": {
     "@creativebulma/bulma-collapsible": "^1.0.4"
-  }
+  },
+  "homepage": "https://company.github.io/my-static-website"
 }
