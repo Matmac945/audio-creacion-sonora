@@ -1,3 +1,7 @@
+.no-underline {
+  text-decoration: none;
+}
+
 /*! bulma.io v0.9.1 | MIT License | github.com/jgthms/bulma */
 /* Bulma Utilities */
 @-webkit-keyframes spinAround {

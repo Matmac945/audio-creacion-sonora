@@ -1,9 +1,11 @@
 $primary:#51EBD7;
 $danger:#7049D6;
 $warning:#F75848;
-// $link:#B2D43D;
+//$link:#B2D43D;
 $success:#F5AB5F;
-$link: $text-invert;
+.no-underline{
+    text-decoration: none;
+}
 @import "node_modules/bulma/bulma.sass";
 .is-attribution{
     padding-top: 0px;
