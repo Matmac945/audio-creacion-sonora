@@ -5,5 +5,5 @@ function toggleBurger() {
     dropMenu.classList.toggle('is-active');
 }
 $(function(){
-    $("#nav-placeholder").load("/nav.html");
+    $("#nav-placeholder").load("nav.html");
 });
