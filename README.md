@@ -3,6 +3,7 @@
 ## Tabla de contenidos
 
 - [DAWS Recomendados](#DAWS-Recomendados)
+- [Drivers para Windows](#Drivers-para-Windows)
 - [Recursos Gratuitos](#Recursos-Gratuitos)
 - [Clases y recursos](#Clases)
 
@@ -10,6 +11,12 @@
 
 - [Ableton Live](https://www.ableton.com/)
 - [Reaper](https://www.reaper.fm/)
+
+## Drivers para Windows
+
+En caso de utilizar Windows para evitar latencia y tener una mejor experiencia al momento de producir o trabajar con DAWS recomiendo instalar:
+
+- [ASIO4ALL](https://www.asio4all.org/). Descargar e instalar la última versión
 
 ## Recursos Gratuitos
 
@@ -20,15 +27,9 @@ Para que un VST entre en la lista debe cumplir ciertas condiciones:
 2. Debe de ser completamente gratuito todo el año y no solo por un periodo de tiempo específico
 3. Debe ser un pluging que yo mismo haya probado.
 
-En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/) a la sección de "FREE" o a [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista más completa de VST y DAW gratuitos.
+En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/) a la sección de "FREE" o a [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista completa de todos los VST y DAW gratuitos disponibles.
 
 _Todos los articulos marcados con ⚡ es porque su idioma original **NO** es español_
-
-### Drivers
-
-En caso de utilizar Windows para evitar latencia y tener una mejor experiencia al momento de producir o trabajar con DAWS recomiendo instalar:
-
-- [ASIO4ALL](https://www.asio4all.org/). Descargar e instalar la última versión
 
 ### Instrumentos
 
@@ -39,23 +40,33 @@ En caso de utilizar Windows para evitar latencia y tener una mejor experiencia a
 - [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
 - [Komplete Start](https://www.native-instruments.com/es/products/komplete/bundles/komplete-start/) Suite de instrumentos y efectos para la producción músical
 
-### Mezcla y Masters
+### Efectos
 
-- [Super Massive](), [FreqEcho]() y [Space Modulator]() diferentes efectos de reverberacion y delay
+- [Valhalla DSP](https://valhalladsp.com/):
+  - [Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+  - [FreqEcho](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
+  - [Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) diferentes efectos de reverberacion y delay muy útiles para diseño de sonido
 - [Saturation Knob](https://www.softube.com/saturationknob) Plugin the Saturacion
-- [TDR Nova](https://www.tokyodawn.net/tdr-nova/) EQ y [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) Compresor
-- [Izotope Vinyl](https://www.izotope.com/en/products/vinyl.html) efecto para crear sonidos "Lo-Fi", [Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html) para aumentar la profundidad de las voces o instrumentos, [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html) para darle mas dimension a la mezcla
-- [Coffee The Pun](https://www.acustica-audio.com/store/t/acqua/free), [Titanium 3 Basstard](https://www.acustica-audio.com/store/t/acqua/free) y [Tan Free Compressor](https://www.acustica-audio.com/store/t/acqua/free). 2 Ecualizadores y un compresor
-
-### Diseño de sonido
-
+- [Tokyo Dawn Records](https://www.tokyodawn.net/):
+  - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) EQ
+  - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) Compresor
+- [Izotope](https://www.izotope.com/):
+  - [Izotope Vinyl](https://www.izotope.com/en/products/vinyl.html) efecto para crear sonidos "Lo-Fi"
+  - [Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html) para aumentar la profundidad de las voces o instrumentos
+  - [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html) para darle mas dimension a la mezcla
+- [Acustica Audio](https://www.acustica-audio.com/store):
+  - [Coffee The Pun](https://www.acustica-audio.com/store/t/acqua/free) Ecualizador
+  - [Titanium 3 Basstard](https://www.acustica-audio.com/store/t/acqua/free) Ecualizador
+  - [Tan Free Compressor](https://www.acustica-audio.com/store/t/acqua/free) Compresor
 - [Pitchproof](https://aegeanmusic.com/pitchproof-specs) Pitchshifter y Armonizador
 
-### Samples
+### Samples gratuitos y música creative commons
 
-- [Freesound.org](https://freesound.org/) Libreria de sonidos gratuita
+- [Freesound.org](https://freesound.org/) Libreria de sonidos gratuitos
+- [Soundible](https://soundbible.com/) Libreria de sonidos gratuitos
+- [Free Music Archive](https://freemusicarchive.org/) Música creative commons
 - [Cymatics](https://cymatics.fm/pages/free-download-vault) Todos los paquetes de samples gratuitos
-- ⚡[Point Blank School](https://plus.pointblankmusicschool.com/7-essential-sites-to-download-high-quality-free-samples/) Articulo sobre diferentes maneras de conseguir samples gratuitos
+- [Point Blank School](https://plus.pointblankmusicschool.com/7-essential-sites-to-download-high-quality-free-samples/) Articulo sobre diferentes maneras de conseguir samples gratuitos
 
 ## Clases y recursos
 
