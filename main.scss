@@ -3,9 +3,6 @@ $danger: #7049d6;
 $warning: #f75848;
 //$link:#B2D43D;
 $success: #f5ab5f;
-.no-underline {
-	text-decoration: none;
-}
 @import 'node_modules/bulma/bulma.sass';
 .is-attribution {
 	padding-top: 0px;
@@ -21,7 +18,12 @@ $success: #f5ab5f;
 	color: black;
 	text-decoration: none;
 }
-
+.no-underline {
+	text-decoration: none;
+}
+.underlined {
+	text-decoration: underline;
+}
 @media only screen and (min-width: 768px) {
 	.bg-img {
 		background-image: url(img/undraw_happy_music.svg);
