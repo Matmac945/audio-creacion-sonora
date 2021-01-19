@@ -44,10 +44,10 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 
 ### Efectos
 
-- [Valhalla DSP](https://valhalladsp.com/):
+- [Valhalla DSP](https://valhalladsp.com/): diferentes efectos de reverberacion y delay muy útiles para diseño de sonido
   - [Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
   - [FreqEcho](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
-  - [Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) diferentes efectos de reverberacion y delay muy útiles para diseño de sonido
+  - [Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
 - [Saturation Knob](https://www.softube.com/saturationknob) Plugin the Saturacion
 - [Tokyo Dawn Records](https://www.tokyodawn.net/):
   - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) EQ
