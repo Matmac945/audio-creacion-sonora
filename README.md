@@ -59,9 +59,10 @@ En caso de utilizar Windows para evitar latencia y tener una mejor experiencia a
 
 ## Clases y recursos
 
-El samana a semana de las clases esta disponible **[AQUÍ](https://matmac945.github.io/audio-creacion-sonora/paginas/class.html)**
+- El samana a semana de las clases esta disponible **[AQUÍ](https://matmac945.github.io/audio-creacion-sonora/paginas/class.html)**
 
 - Tambien puede descargar las diapositivas de las clases **[AQUÍ]()**
 
 Todos los los contenidos referenciados en esta página web pertenencen a sus respectivos dueños
+
 © [Matias Macias Gomez](https://github.com/Matmac945), 2021
