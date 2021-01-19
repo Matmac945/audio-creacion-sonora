@@ -29,16 +29,14 @@ Para que un VST entre en la lista debe cumplir ciertas condiciones:
 
 En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/) a la sección de "FREE" o a [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista completa de todos los VST y DAW gratuitos disponibles.
 
-_Todos los articulos marcados con ⚡ es porque su idioma original **NO** es español_
-
 ### Instrumentos
 
-- [Piano One](https://neovst.com/piano-one/) VST de piano
-- [Surge](https://surge-synthesizer.github.io/) Sintetizador
-- [Tyrell N6](https://u-he.com/products/tyrelln6/) Sintetizador
-- [LABS](https://labs.spitfireaudio.com/) Librerias de samples con diferentes instrumentos
-- [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
-- [Komplete Start](https://www.native-instruments.com/es/products/komplete/bundles/komplete-start/) Suite de instrumentos y efectos para la producción músical
+⚡ [Piano One](https://neovst.com/piano-one/) VST de piano
+⚡ [Surge](https://surge-synthesizer.github.io/) Sintetizador
+⚡ [Tyrell N6](https://u-he.com/products/tyrelln6/) Sintetizador
+⚡ [LABS](https://labs.spitfireaudio.com/) Librerias de samples con diferentes instrumentos
+⚡ [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
+⚡ [Komplete Start](https://www.native-instruments.com/es/products/komplete/bundles/komplete-start/) Suite de instrumentos y efectos para la producción músical
 
 ### Efectos
 
