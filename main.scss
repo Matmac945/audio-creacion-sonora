@@ -1,34 +1,42 @@
-$primary:#51EBD7;
-$danger:#7049D6;
-$warning:#F75848;
+$primary: #51ebd7;
+$danger: #7049d6;
+$warning: #f75848;
 //$link:#B2D43D;
-$success:#F5AB5F;
-.no-underline{
-    text-decoration: none;
+$success: #f5ab5f;
+.no-underline {
+	text-decoration: none;
 }
-@import "node_modules/bulma/bulma.sass";
-.is-attribution{
-    padding-top: 0px;
-    font-style: italic;
-    font-size:0.7em;
-    color:lightgrey;
-    text-decoration: none;
-    text-align: center;
+@import 'node_modules/bulma/bulma.sass';
+.is-attribution {
+	padding-top: 0px;
+	font-style: italic;
+	font-size: 0.7em;
+	color: lightgrey;
+	text-decoration: none;
+	text-align: center;
 }
-.control{
-    text-align: center;
-    text-emphasis: none;
-    color: black;
-    text-decoration: none;
+.control {
+	text-align: center;
+	text-emphasis: none;
+	color: black;
+	text-decoration: none;
 }
 
-@media only screen and (min-width: 768px){
-    .bg-img{
-        background-image: url(img/undraw_happy_music.svg) ;
-        background-position: center center;
-        background-repeat:  no-repeat;
-        background-attachment: fixed;
-        background-size:contain;
-        background-color: #FFFF;
-    }
+@media only screen and (min-width: 768px) {
+	.bg-img {
+		background-image: url(img/undraw_happy_music.svg);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: contain;
+		background-color: #ffff;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	/* <== You can change this break point as per your  needs */
+	.reverse-columns {
+		flex-direction: column-reverse;
+		display: flex;
+	}
 }
