@@ -12,6 +12,10 @@
 - [Ableton Live](https://www.ableton.com/)
 - [Reaper](https://www.reaper.fm/)
 
+#### Editor de audio
+
+- [Audacity](https://www.audacityteam.org/)
+
 ## Drivers para Windows
 
 En caso de utilizar Windows para evitar latencia y tener una mejor experiencia al momento de producir o trabajar con DAWS recomiendo instalar:
