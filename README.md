@@ -63,6 +63,8 @@ En caso de utilizar Windows para evitar latencia y tener una mejor experiencia a
 
 - Tambien puede descargar las diapositivas de las clases **[AQUÍ]()**
 
+---
+
 Todos los los contenidos referenciados en esta página web pertenencen a sus respectivos dueños
 
 © [Matias Macias Gomez](https://github.com/Matmac945), 2021
