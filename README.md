@@ -38,6 +38,7 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 - [Piano One](https://neovst.com/piano-one/) VST de piano
 - [Surge](https://surge-synthesizer.github.io/) Sintetizador
 - [Tyrell N6](https://u-he.com/products/tyrelln6/) Sintetizador
+- [Vital](https://vital.audio/) Spectral warping wavetable synth
 - [LABS](https://labs.spitfireaudio.com/) Librerias de samples con diferentes instrumentos
 - [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
 - [Komplete Start](https://www.native-instruments.com/es/products/komplete/bundles/komplete-start/) Suite de instrumentos y efectos para la producción músical
