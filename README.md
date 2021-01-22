@@ -39,8 +39,7 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 #### IOS
 
 - [midiBox](https://apps.apple.com/us/app/midibox/id1520136358) Incluye pads y un teclado de una 8va con conectividad por Bluetooth
-  - [Tutorial] para poder utilizar Bluetooth Midi en Windows
-- [Midi Controller Pro](https://apps.apple.com/us/app/midi-controller-pro/id594785451) Ofrece diferentes superficies de control
+  - [Tutorial](#) para poder utilizar Bluetooth Midi en Windows
 - [midimittr](http://www.s-r-n.de/midile/) Para utilizar midi por USB
 
 #### Android
