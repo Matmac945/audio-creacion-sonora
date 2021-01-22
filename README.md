@@ -21,6 +21,7 @@
 En caso de utilizar Windows para evitar latencia y tener una mejor experiencia al momento de producir o trabajar con DAWS recomiendo instalar:
 
 - [ASIO4ALL](https://www.asio4all.org/). Descargar e instalar la última versión
+- [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) software para crear puertos MIDI virtuales en Windows
 
 ## Recursos Gratuitos
 
@@ -33,12 +34,27 @@ Para que un VST entre en la lista debe cumplir ciertas condiciones:
 
 En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/) a la sección de "FREE" o a [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista completa de todos los VST y DAW gratuitos disponibles.
 
+### App de controladores MIDI
+
+#### IOS
+
+- [midiBox](https://apps.apple.com/us/app/midibox/id1520136358) Incluye pads y un teclado de una 8va con conectividad por Bluetooth
+  - [Tutorial] para poder utilizar Bluetooth Midi en Windows
+- [Midi Controller Pro](https://apps.apple.com/us/app/midi-controller-pro/id594785451) Ofrece diferentes superficies de control
+- [midimittr](http://www.s-r-n.de/midile/) Para utilizar midi por USB
+
+#### Android
+
+- [Pocket MIDI controller](https://play.google.com/store/apps/details?id=com.humtools.midikontrol&hl=es_419&gl=US) La version incluye teclado, pads y knobs mapeables
+- [Teclado MIDI](https://play.google.com/store/apps/details?id=com.dreamhoundstudios.keyboard&hl=es_419&gl=US) Teclado MIDI completamente funcional
+
 ### Instrumentos
 
 - [Piano One](https://neovst.com/piano-one/) VST de piano
 - [Surge](https://surge-synthesizer.github.io/) Sintetizador
 - [Tyrell N6](https://u-he.com/products/tyrelln6/) Sintetizador
 - [Vital](https://vital.audio/) Spectral warping wavetable synth
+- [PG-8X](https://sites.google.com/site/mlvst0/) Virtual analog synthesizer basado en el Roland JX-8P
 - [LABS](https://labs.spitfireaudio.com/) Librerias de samples con diferentes instrumentos
 - [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
 - [Komplete Start](https://www.native-instruments.com/es/products/komplete/bundles/komplete-start/) Suite de instrumentos y efectos para la producción músical
