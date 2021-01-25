@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,node
 
@@ -153,4 +152,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Custom
+templates/
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node
