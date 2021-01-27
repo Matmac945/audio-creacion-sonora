@@ -84,11 +84,11 @@ del computador controlador midi y afortunadamente tanto Reaper como Ableton Live
   1. Oprimir la tecla `M` para activar o desactivar el teclado virtual.
   2. Ir a `opciones > teclado MIDI del Computador` para activar o desactivar el teclado virtual.
   3. Hacer click en el símbolo de teclado en la esquina superior derecha junto al botón de `key`
-     ![Ableton-key-button](/img/faq/ableton-virtualkeyboard-button.jpg)
+     ![Ableton-key-button](img/faq/ableton-virtualkeyboard-button.jpg)
 
   Con cualquiera de estas opciones ya tenemos disponible un teclado de una octava al cual se le puede variar la altura con las
   teclas `X` y `Z` respectivamente
-  ![Ableton-keymap](/img/faq/key-map.png)
+  ![Ableton-keymap](img/faq/key-map.png)
 
   <sub><sup>Imagen tomada de [soundfly.com](https://flypaper.soundfly.com/produce/make-your-first-beat-in-ableton-live-making-sound-recording-midi/)</sup></sub>
 
@@ -105,7 +105,7 @@ del computador controlador midi y afortunadamente tanto Reaper como Ableton Live
   1. Ir a `View > Virtual Midi Keybooard`
   2. Oprimir la combinación`Alt+B`
 
-  ![Reaper-keymap](/img/faq/reaper_keymap.jpg)<br />
+  ![Reaper-keymap](img/faq/reaper_keymap.jpg)<br />
   <sub><sup>Imagen tomada de [Cockos Forum](https://forum.cockos.com/showthread.php?t=222635)</sup></sub>
 
 {% include notification.html

@@ -3,12 +3,12 @@ layout: post
 title: 'Kit de producción musical para principiantes'
 author: Matías Macías Gómez
 date: 2021-01-26 11:17:00
-hero_image: /img/jpg/ableton_small.jpg
+hero_image: /audio-creacion-sonora/img/jpg/ableton_small.jpg
 hero_darken: true
-image: /img/jpg/ableton_small.jpg
+image: ../img/jpg/ableton_small.jpg
 menubar_toc: true
 toc_title: INDICE
-categories: music-production daw free
+categories: music-production
 description: 'En el internet hay muchas guías y recursos 
 para iniciarce en el mundo de la producción músical. Esta 
 es una recopilación de lo que para mi son los mejores plugins, 

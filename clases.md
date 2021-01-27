@@ -6,13 +6,13 @@ menubar: entregas_menubar
 show_sidebar: true
 ---
 
-#### [Semana 1](/clases/semana_1)
+#### [Semana 1](semana_1)
 
 - Presentacion del curso
 - El sonido la música y sus características físicas y
   psico-acústicas
 
-#### [Semana 2](/clases/semana_2)
+#### [Semana 2](semana_2)
 
 - Historia y revision técnica del audio, la grabación y la
   edición
@@ -25,7 +25,7 @@ show_sidebar: true
 
 #### [Semana 4]()
 
-**[ENTREGA 1: RETRATO SONORO](/clases/entregas/retrato_sonoro)**
+**[ENTREGA 1: RETRATO SONORO](entregas/retrato_sonoro)**
 
 - Asesoria previa a la entrega
 - Revisión de la entrega y feedback

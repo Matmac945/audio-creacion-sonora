@@ -38,7 +38,7 @@ author: Matías Macías Gómez
 # Add a copyright. Acoppyright Symbol and year will be added automatically
 # copyright: Company Name, Inc.
 copyright: 'Matías Macías Gómez'
-title-logo: /img/title-logo.svg
+title-logo: img/title-logo.svg
 
 # Build settings
 #theme: bulma-clean-theme

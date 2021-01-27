@@ -2,7 +2,7 @@
 layout: page
 title: Digital Audio Workstations
 subtitle: Gratuitos
-hero_image: /recursos/img/radio_banner.jpg
+hero_image: ../img/jpg/radio_banner.jpg
 hero_darken: true
 show_sidebar: true
 toc: true
