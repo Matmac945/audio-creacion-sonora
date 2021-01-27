@@ -1,18 +1,16 @@
 {
-  "name": "creacion-sonora",
+  "name": "bulma-clean-theme",
+  "description": "This is a clean and simple Jekyll Theme built with the Bulma framework, providing a modern looking site to start with.",
   "version": "1.0.0",
-  "description": "class resources",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Matias Macias",
-  "license": "ISC",
+  "author": "chrisrhymes",
+  "license": "MIT",
   "dependencies": {
-    "bulma": "^0.9.1"
-  },
-  "devDependencies": {
-    "@creativebulma/bulma-collapsible": "^1.0.4"
-  },
-  "homepage": "https://company.github.io/my-static-website"
+    "bulma": "^0.9.1",
+    "bulma-block-list": "^0.4.1"
+  }
 }

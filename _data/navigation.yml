@@ -1,0 +1,13 @@
+- name: Tutoriales
+  link: /blog/
+  # dropdown:
+  #   - name: Ableton Live
+  #     link: /ableton/
+  #   - name: Reaper
+  #     link: /reaper/
+- name: Clases
+  link: /clases/
+- name: Recursos
+  link: /recursos_gratuitos/
+- name: FAQ
+  link: /faq/

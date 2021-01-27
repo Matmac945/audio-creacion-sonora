@@ -1,82 +1,77 @@
+---
+title: Creacion
+subtitle: This is the demo site for Bulma Clean Theme
+hide_hero: true
+hide_footer: true
+---
+
+{% if page.menubar or page.menubar_toc %} 
+	{% assign has_left_sidebar = true %}
+{% endif %} 
+
+{% if page.show_sidebar and has_left_sidebar %} 
+	{% assign content_width = 'is-4' %} 
+{% elsif page.show_sidebar or has_left_sidebar %} 
+	{% assign content_width = 'is-8' %} 
+{% else %} 
+	{% assign content_width = 'is-12' %}
+{% endif %}
+
 <!DOCTYPE html>
-<!-- <html class="has-navbar-fixed-top"> -->
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>Creación Sonora</title>
-		<base href="/audio-creacion-sonora/" />
-		<!-- <base href="/"> -->
-		<script
-			defer
-			src="https://kit.fontawesome.com/ebb858355d.js"
-			crossorigin="anonymous"
-		></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-		<script type="text/javascript" src="js/app.js"></script>
-		<link rel="stylesheet" href="main.css" />
-		<link rel="shortcut icon" type="image/jpg" href="img/birdie.svg" />
-	</head>
+<html {% if site.fixed_navbar %} class="has-navbar-fixed-{{ site.fixed_navbar }}" {%endif%}>
+	{% include head.html %}
+	<script src="{{ site.baseurl }}/assets/js/app.js" type="text/javascript"></script>
 	<body>
-		<section class="hero is-fullheight">
-			<div class="hero-head">
-				<!--NAV BAR-->
-				<nav
-					class="navbar"
-					id="nav-placeholder"
-					role="navigation"
-					aria-label="main navigation"
-				></nav>
-				<!---->
-			</div>
+		{% include header.html %} 
+		{% unless page.hide_hero %} 
+			 {% include hero.html%} 
+		{% endunless %} 
+		{% include callouts.html %}
+		<div class="hero is-fullheight-with-navbar">
 			<!-- Hero content -->
 			<div class="hero-body bg-img">
 				<div class="container">
 					<div class="columns">
-						<div class="column">
-							<!-- <h1 class="title has-text-centered">
-              Creación Sonora
-            </h1> -->
+						<div class="column is-half">
 							<figure class="image">
-								<img src="img/title_image.svg" alt="" />
+								<img src="/img/title_image.svg" alt="" />
 							</figure>
-							<br />
 							<div class="tile is-ancestor">
 								<div class="tile">
 									<div class="tile is-parent is-vertical">
 										<article class="tile is-child box">
-											<a href="paginas/class.html">
-												<p class="title is-4">Clases</p>
+											<a href="/clases/">
+												<p class="title is-size-5">Clases</p>
 												<figure class="image">
-													<img src="img/undraw_clases.svg" alt="" />
+													<img src="/img/undraw_clases.svg" alt="" />
 												</figure>
 											</a>
 										</article>
 										<article class="tile is-child box">
-											<a href="paginas/resources.html">
-												<p class="title is-4">Software y contenido</p>
-												<p class="subtitle is-6">gratuito</p>
+											<a href="/recursos_gratuitos/">
+												<p class="title is-size-5">Software y contenido</p>
+												<p class="subtitle is-size-6">gratuito</p>
 												<figure class="image">
-													<img src="img/undraw_compose_music.svg" alt="" />
+													<img src="/img/undraw_compose_music.svg" alt="" />
 												</figure>
 											</a>
 										</article>
 									</div>
 									<div class="tile is-parent is-vertical">
 										<article class="tile is-child box">
-											<a href="paginas/tutorials.html">
-												<p class="title is-4">Tutoriales</p>
+											<a href="/blog/">
+												<p class="title is-size-5">Tutoriales</p>
 												<figure class="image">
-													<img src="img/undraw_youtube_tutorial.svg" />
+													<img src="/img/undraw_youtube_tutorial.svg" />
 												</figure>
 											</a>
 										</article>
 										<article class="tile is-child box">
-											<a href="paginas/preguntas.html">
-												<p class="title is-4">Preguntas y problemas</p>
-												<p class="subtitle is-6">comunes</p>
+											<a href="/faq/">
+												<p class="title is-size-5">Preguntas y problemas</p>
+												<p class="subtitle is-size-6">frecuentes</p>
 												<figure class="image">
-													<img src="img/undraw_lecturas.svg" alt="" />
+													<img src="/img/undraw_lecturas.svg" alt="" />
 												</figure>
 											</a>
 										</article>
@@ -84,18 +79,12 @@
 								</div>
 							</div>
 						</div>
-						<div class="column">
-							<!-- <img class="img is-large" src="img/Vector-Studio.png" alt=""> -->
-							<!-- <figure class="image">
-              <img src="img/undraw_happy_music.svg" alt="happy bird">
-            </figure> -->
-						</div>
 					</div>
 				</div>
 			</div>
 			<!-- Hero Footer -->
 			<div class="hero-foot">
-				<div class="content has-text-centered">
+				<div class="content has-text-centered is-small">
 					<p>
 						<strong>Creación Sonora</strong> by
 						<a href="https://github.com/Matmac945">Matías Macías</a>. The source
@@ -108,6 +97,6 @@
 					</p>
 				</div>
 			</div>
-		</section>
+		</div>
 	</body>
 </html>

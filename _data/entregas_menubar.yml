@@ -1,0 +1,8 @@
+- label: Entregas
+  items:
+    - name: Retrato Sonoro
+      link: /clases/entregas/retrato_sonoro
+    - name: Armonía y melodía
+      link: /clases/entregas/armonia_melodia
+    - name: Final
+      link: /clases/entregas/final

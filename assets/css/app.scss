@@ -1,0 +1,16 @@
+---
+---
+
+// Import Main CSS file from theme
+@import 'main';
+
+@media only screen and (min-width: 768px) {
+	.bg-img {
+		background-image: url(/img/undraw_happy_music.svg);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: contain;
+		background-color: #ffff;
+	}
+}

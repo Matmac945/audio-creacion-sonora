@@ -1,0 +1,18 @@
+- label: Índice Faq
+  items:
+    - name: Inicio
+      link: #
+    - name: Latencia
+      link: #
+      items:
+        - name: Windows
+          link: #
+        - name: OSX
+          link: #
+    - name: No encuentro mis plugins
+      link: #
+      items:
+        - name: Windows
+          link: #
+        - name: OSX
+          link:

@@ -1,0 +1,33 @@
+<footer class="footer">
+	<div class="container">
+		{% if site.footer_menu %}
+		<div class="columns is-multiline">
+			{% for item in site.data[site.footer_menu] %}
+			<div class="column has-text-centered">
+				<div>
+					<a href="{{ item.link | relative_url }}" class="link"
+						>{{ item.name }}</a
+					>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+		{% endif %}
+
+		<div class="content is-small has-text-centered">
+			<p>
+				<strong>Creación Sonora</strong> by
+				<a href="https://github.com/Matmac945">Matías Macías</a>. The source
+				code is licensed
+				<a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The
+				website content is licensed
+				<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+					>CC BY NC SA 4.0</a
+				>.
+			</p>
+			{%- if site.copyright -%}
+			<p>&copy; {{ site.copyright }} {{ 'now' | date: "%Y"}}</p>
+			{%- endif -%}
+		</div>
+	</div>
+</footer>
