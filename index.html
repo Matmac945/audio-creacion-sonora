@@ -5,29 +5,30 @@ hide_hero: true
 hide_footer: true
 ---
 
-{% if page.menubar or page.menubar_toc %} 
-	{% assign has_left_sidebar = true %}
-{% endif %} 
-
-{% if page.show_sidebar and has_left_sidebar %} 
-	{% assign content_width = 'is-4' %} 
-{% elsif page.show_sidebar or has_left_sidebar %} 
-	{% assign content_width = 'is-8' %} 
-{% else %} 
-	{% assign content_width = 'is-12' %}
+{% if page.menubar or page.menubar_toc %} {% assign has_left_sidebar = true %}
+{% endif %} {% if page.show_sidebar and has_left_sidebar %} {% assign
+content_width = 'is-4' %} {% elsif page.show_sidebar or has_left_sidebar %} {%
+assign content_width = 'is-8' %} {% else %} {% assign content_width = 'is-12' %}
 {% endif %}
 
 <!DOCTYPE html>
-<html {% if site.fixed_navbar %} class="has-navbar-fixed-{{ site.fixed_navbar }}" {%endif%}>
+<html
+	{%
+	if
+	site.fixed_navbar
+	%}
+	class="has-navbar-fixed-{{ site.fixed_navbar }}"
+	{%endif%}
+>
 	{% include head.html %}
-	<script src="{{ site.baseurl }}/assets/js/app.js" type="text/javascript"></script>
+	<script
+		src="{{ site.baseurl }}/assets/js/app.js"
+		type="text/javascript"
+	></script>
 	<body>
-		{% include header.html %} 
-		{% unless page.hide_hero %} 
-			 {% include hero.html%} 
-		{% endunless %} 
-		{% include callouts.html %}
-		<div class="hero is-fullheight-with-navbar">
+		{% include header.html %} {% unless page.hide_hero %} {% include hero.html%}
+		{% endunless %} {% include callouts.html %}
+		<div id="swup" class="hero is-fullheight-with-navbar transition-fade">
 			<!-- Hero content -->
 			<div class="hero-body bg-img">
 				<div class="container">
@@ -40,7 +41,7 @@ hide_footer: true
 								<div class="tile">
 									<div class="tile is-parent is-vertical">
 										<article class="tile is-child box">
-											<a href="clases/">
+											<a href="{{ site.baseurl }}/clases/">
 												<p class="title is-size-5">Clases</p>
 												<figure class="image">
 													<img src="img/undraw_clases.svg" alt="" />
@@ -48,7 +49,7 @@ hide_footer: true
 											</a>
 										</article>
 										<article class="tile is-child box">
-											<a href="recursos_gratuitos/">
+											<a href="{{ site.baseurl }}/recursos_gratuitos/">
 												<p class="title is-size-5">Software y contenido</p>
 												<p class="subtitle is-size-6">gratuito</p>
 												<figure class="image">
@@ -59,7 +60,7 @@ hide_footer: true
 									</div>
 									<div class="tile is-parent is-vertical">
 										<article class="tile is-child box">
-											<a href="blog/">
+											<a href="{{ site.baseurl }}/blog/">
 												<p class="title is-size-5">Tutoriales</p>
 												<figure class="image">
 													<img src="img/undraw_youtube_tutorial.svg" />
@@ -67,7 +68,7 @@ hide_footer: true
 											</a>
 										</article>
 										<article class="tile is-child box">
-											<a href="faq/">
+											<a href="{{ site.baseurl }}/faq/">
 												<p class="title is-size-5">Preguntas y problemas</p>
 												<p class="subtitle is-size-6">frecuentes</p>
 												<figure class="image">
@@ -98,5 +99,7 @@ hide_footer: true
 				</div>
 			</div>
 		</div>
+		<script src="https://unpkg.com/swup@latest/dist/swup.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/myapp.js" type="module"></script>
 	</body>
 </html>
