@@ -116,6 +116,9 @@ La mejor opción en caso de estar teniendo problemas con la instalación de un p
 
 - ### Spitfire
 
+  En caso de recibir la el mensaje `Error #'X' Something went wrong" in Spitfire instrument` al momento de cargar plugins en **Spitfire LABS**:
+  ![error-1-spitfire](img/faq/labs-problem.jpg)
+
   [Guia oficial](https://spitfireaudio.zendesk.com/hc/en-us/sections/200995409-LABS) de spitfire para solucion de los problemas posibles con la libreria de labs
 
 <!-- ### Smartphone como controlador midi
