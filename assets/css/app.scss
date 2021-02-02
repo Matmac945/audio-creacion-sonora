@@ -10,6 +10,9 @@
 html.is-animating .transition-fade {
 	opacity: 0;
 }
+.absolute{
+	position: fixed;
+}
 @media only screen and (min-width: 768px) {
 	.bg-img {
 		background-image: url('{{ site.baseurl }}/img/undraw_happy_music.svg');

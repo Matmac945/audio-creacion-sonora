@@ -6,7 +6,7 @@ menubar_toc: true
 toc_title: INDICE
 ---
 
-## **Latencia**
+## Latencia
 
 Si esta teniendo problemas de latencia _(un retardo en el tiempo entre oprimir una tecla del piano o hablar por el micrófono y el momento en el cual se reproduce el sonido a traves de los audifonos o parlantes)_. Si esta utilizando windows y no tiene una interface de audio lo más probable es que este problema sea a causa de los drivers de que esta utilizando, por suerte tiene una solucion sencilla y solo reuiqere instalar un driver gratuito y configurarlo correctamente.
 
@@ -30,6 +30,8 @@ Por otro lado si utilizando OSX lo mas probables es que el problema este en la c
   <br />
 
 - ### Windows sin interface
+
+  {: #windows-sin-interface}
 
   En el caso de no tener una interface de audio lo primero que debe hacer es descargar e instalar la versión más reciente de [ASIO4ALL](https://www.asio4all.org/),
   una vez finalizada la instalación reinicie el equipo.
@@ -59,13 +61,11 @@ status="is-success"%}
 
 ---
 
-## **No tengo un controlador midi. ¿Qué puedo hacer?**
+## Controladores MIDI virtuales
 
-<br />
+En algunas ocasiones nos vemos en la necesidad de querer explorar un nuevo vst, una idea melodica o una armonia sin tener que crear un clip midi e introducir la informacion de manera manual, pero no tenemos un controlador MIDI al alcance. Para estas situaciones siempre podemos utilizar el **Teclado MIDI Virtual** incluido en el DAW.
 
-### Teclado del computador
-
-En caso de necesitar una mejor herramienta para crear melodías y armonías una opcion que todos tenemos disponible es utilizar el teclado del computador controlador midi y afortunadamente tanto Reaper como Ableton Live nos permiten hacer esto.
+Como activarlo:
 
 - ### Ableton Live
 
@@ -99,6 +99,24 @@ En caso de necesitar una mejor herramienta para crear melodías y armonías una 
   message = "Para que el ***'piano'*** en Reaper funcione correctamente hay que **enfocar/seleccionar** la ventana flotante de este al momento de ir a tocar, ya que si no se hace esto el teclado virtual **NO** funcionara "
   status = "is-warning"
 %}
+
+## Problemas al instalar plugins
+
+La mejor opción en caso de estar teniendo problemas con la instalación de un plugin es seguir la guia oficial del fabricante.
+
+- ### Komplete Start
+
+  En caso de recibir la el mensaje `Loading Issue` al momento de cargar plugins en **Komplete Kontrol**:
+
+  ![komplete-problem](img/faq/komplete-problem.jpg)
+
+  [Guia oficial de Native instruments para solucionar este problema](https://support.native-instruments.com/hc/es/articles/210276165-Mensaje-de-error-de-KOMPLETE-KONTROL-Loading-Issue-Could-not-load-Plug-in-Windows-)
+
+  <br /> <br />
+
+- ### Spitfire
+
+  [Guia oficial](https://spitfireaudio.zendesk.com/hc/en-us/sections/200995409-LABS) de spitfire para solucion de los problemas posibles con la libreria de labs
 
 <!-- ### Smartphone como controlador midi
 

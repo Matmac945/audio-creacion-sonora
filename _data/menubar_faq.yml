@@ -1,0 +1,15 @@
+- label: INDICE
+  items:
+    - name: Latencia
+      link: audio-creacion-sonora/faq/#latencia
+    - name: Controladores MIDI virtuales
+      link: /faq#controladore-midi-virtuales
+      items:
+        - name: Page With Sidebar
+          link: /page-1/
+        - name: Page Without Sidebar
+          link: /page-2/
+        - name: Page With Menubar
+          link: /page-3/
+    - name: Blog
+      link: /blog/
