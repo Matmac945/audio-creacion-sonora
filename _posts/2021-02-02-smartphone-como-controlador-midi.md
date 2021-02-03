@@ -10,7 +10,7 @@ menubar_toc: true
 toc_title: INDICE
 categories: midi
 description: ''
-published: true
+published: false
 canonical_url: https://matmac945.github.io/audio-creacion-sonora/midi-controllers/2021/02/02/smartphone-como-controlador-midi/
 summary: |-
   Aplicaciones moviles y como configurarlas para utilizar un smartphone como controlador MIDI
