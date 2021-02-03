@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Kit de producción musical para principiantes'
+title: 'Windows BLE'
 author: Matías Macías Gómez
-date: 2021-01-26 11:17:00
+date: 2021-02-4 9:17:00
 hero_image: /audio-creacion-sonora/img/jpg/ableton_small.jpg
 hero_darken: true
 image: ../img/jpg/ableton_small.jpg
@@ -15,6 +15,7 @@ es una recopilación de lo que para mi son los mejores plugins,
 DAWS, y Equipos para comenzar a trabajar con audio digital y 
 música desde tu casa '
 published: true
+canonical_url: https://matmac945.github.io/audio-creacion-sonora/music-production/2021/01/26/kit-de-inicio-para-produccion-musical/
 summary: |-
   Guía para principiantes de los softwares gratuitos que yo 
   recomiendo para comenzar a producir música 
@@ -73,6 +74,7 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 - [Surge](https://surge-synthesizer.github.io/) Sintetizador
 - [Tyrell N6](https://u-he.com/products/tyrelln6/) Sintetizador
 - [Vital](https://vital.audio/) Spectral warping wavetable synth
+- [Exakt](https://www.sonicbits.com/exakt-lite.html) Exakt Lite es un sintetizador FM
 - [PG-8X](https://sites.google.com/site/mlvst0/) Virtual analog synthesizer basado en el Roland JX-8P
 - [LABS](https://labs.spitfireaudio.com/) Librerias de samples con diferentes instrumentos
 - [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
@@ -105,5 +107,3 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 - [Free Music Archive](https://freemusicarchive.org/) Música creative commons
 - [Cymatics](https://cymatics.fm/pages/free-download-vault) Todos los paquetes de samples gratuitos
 - [Point Blank School](https://plus.pointblankmusicschool.com/7-essential-sites-to-download-high-quality-free-samples/) Articulo sobre diferentes maneras de conseguir samples gratuitos
-
-## Videos

@@ -120,7 +120,7 @@ La mejor opción en caso de estar teniendo problemas con la instalación de un p
 
   ![error-1-spitfire](img/faq/labs-problem.jpg)
 
-  [Guia oficial](https://spitfireaudio.zendesk.com/hc/en-us/sections/200995409-LABS) de spitfire para solucion de los problemas posibles con la libreria de labs
+  [Guia oficial](https://spitfireaudio.zendesk.com/hc/en-us/sections/200995409-LABS) de spitfire para solucion de los problemas posibles con la libreria de LABS
 
 <!-- ### Smartphone como controlador midi
 
