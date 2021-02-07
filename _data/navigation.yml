@@ -9,5 +9,12 @@
   link: /clases/
 - name: Recursos
   link: /recursos_gratuitos/
+  dropdown:
+    - name: Videos
+      link: /youtube/
+    - name: DAW Gratuitos
+      link: /daws/
+    # - name: Plugins
+    #   link: /plugins/
 - name: FAQ
   link: /faq/

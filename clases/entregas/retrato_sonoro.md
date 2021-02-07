@@ -1,5 +1,5 @@
 ---
-layout: page_entregas
+layout: page_mod_wide
 title: Retrato Sonoro
 hide_hero: true
 menubar: entregas_menubar
@@ -22,25 +22,27 @@ visual, este componente es completamente libre (puede ser una
 imagen negra) y solo es necesario para la plataforma por la cual
 se realiza la entrega.
 
-{% include notification.html 
-message= "Esta entrega vale el **20%** de la nota final del curso"
-status = "is-primary"
-icon = "fas fa-exclamation-triangle"
+{% include notification.html
+message = "Esta entrega vale el **20%** de la nota final del curso"
+status="is-primary"
+icon="fas fa-rocket"
 %}
 
 ---
 
 ### Fecha
 
-Miercoles 10 de Febrero hasta las 11:59. a.m
+Miercoles 17 de Febrero hasta las 11:59. A.M - **ANTES DE LA CLASE!**
 
 {% include notification.html
 message= "**RECORDAR** en caso de
 **NO** entregar el trabajo luego de esta fecha se le
-calificara sobre 4 hasta las 11:59 p.m del Miercoles 17 de
+calificara sobre 4 hasta las 11:59 p.m del Miercoles 24 de
 febrero. En caso de no subir la entrega para esa fecha el trabajo
 queda en **0**"
-status="is-danger" %}
+status="is-danger"
+icon="fas fa-exclamation-triangle"
+%}
 
 ### Formato
 
@@ -56,7 +58,6 @@ respecto a la tabla de excel y no conrespecto a se subio el
 video a YouTube, así mismo se considera que la eestá
 terminada una vez se publica el link del videotabla, y no
 cuando el video es subido a la plataforma."
-icon = "false"
 status="is-warning" %}
 
 ---

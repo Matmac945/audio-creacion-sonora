@@ -1,5 +1,5 @@
 ---
-layout: page_entregas
+layout: page_mod_wide
 title: Preguntas frecuentes
 subtitle: con respecto al DAW, plugins y producción musical en general
 menubar_toc: true
@@ -12,6 +12,8 @@ Si esta teniendo problemas de latencia _(un retardo en el tiempo entre oprimir u
 
 Por otro lado si utilizando OSX lo mas probables es que el problema este en la configuración de su DAW y la solución es aun más sencilla ya que no requiere descargar ningún software externo y es solo cambiar un par de opciones dentro de las preferencias de su DAW.
 
+En caso de quere saber sobre latencia puede leer el post de [audiomidilab](https://audiomidilab.com/que-es-la-latencia/) al respecto.
+
 - ### Windows con interface
 
   Si esta utilizando una interface de audio primero debe hacer es asegurarse de de estar utilizando la versión más reciente de los drivers de la interface. para esto busque en google el nombre de su interface mas la palabra **drivers** y asegurese de descargarlos desde la página oficial Ejemplo: `focusrite 2i2 drivers`.
@@ -19,8 +21,9 @@ Por otro lado si utilizando OSX lo mas probables es que el problema este en la c
   Una vez instalados los drivers abrir el panel de configuración de la interface y en la pestaña de selección de tamaño de buffer **(Buffer Size)** seleccionar un valor igual o menor a **512** samples.
 
 {% include notification.html
-  message ="Mientras más **pequeño** sea este número **menor** sera la latencia, pero **mayor** sera la carga en la CPU del computador y mientras más **grande** sea este valor **mayor** sera la latencia pero **menor** sera la carga en la CPU, permitiendo utilizar más plugins sin necesidad de congelar o renderizar pistas"
-  status = "is-warning"%}
+message ="Mientras más **pequeño** sea este número **menor** sera la latencia, pero **mayor** sera la carga en la CPU del computador y mientras más **grande** sea este valor **mayor** sera la latencia pero **menor** sera la carga en la CPU, permitiendo utilizar más plugins sin necesidad de congelar o renderizar pistas"
+icon = ""
+%}
 <br />
 
 - Mi recomendación es utilizar un **Buffer Size** entre **64** y **128** samples para grabar y componer, pero al momento de hacer la mezcla y el master utilizar un **Buffer Size** de **2048** o el valor más alto que el driver permita elegir para aprovechar al máximo los recursos del computacionales del equipo.
@@ -30,8 +33,6 @@ Por otro lado si utilizando OSX lo mas probables es que el problema este en la c
   <br />
 
 - ### Windows sin interface
-
-  {: #windows-sin-interface}
 
   En el caso de no tener una interface de audio lo primero que debe hacer es descargar e instalar la versión más reciente de [ASIO4ALL](https://www.asio4all.org/),
   una vez finalizada la instalación reinicie el equipo.
@@ -43,6 +44,7 @@ Por otro lado si utilizando OSX lo mas probables es que el problema este en la c
 {% include notification.html
   message= "El driver de **ASIO4ALL** se apodera del sonido del equipo por lo cual es **NORMAL** que **NO** funcione el audio en ninguna otra aplicación excepto el DAW en el cual se esta trabajando, tambien es normal que los videos de youtube no se reproduzcan más y muestren un error. Todo volvera a la normalidad una vez cierre el DAW o cambie el Driver de Audio"
   status = "is-warning"
+  icon = ""
 %}
 
 - ### OSX
@@ -57,7 +59,9 @@ Por otro lado si utilizando OSX lo mas probables es que el problema este en la c
 
 {% include notification.html
 message="**RECORDAR** entre **MENOR** sea el **Buffer Size**, menor sera la latencia pero **MAYOR** sera la carga sobre la **CPU**. Siempre buscar un balance entreresponsividad y calidad del sonido"
-status="is-success"%}
+status="is-primary"
+icon="fas fa-balance-scale"
+%}
 
 ---
 
@@ -98,6 +102,7 @@ Como activarlo:
 {% include notification.html
   message = "Para que el ***'piano'*** en Reaper funcione correctamente hay que **enfocar/seleccionar** la ventana flotante de este al momento de ir a tocar, ya que si no se hace esto el teclado virtual **NO** funcionara "
   status = "is-warning"
+  icon=""
 %}
 
 ## Problemas al instalar plugins
@@ -106,7 +111,15 @@ La mejor opción en caso de estar teniendo problemas con la instalación de un p
 
 - ### Komplete Start
 
-  En caso de recibir la el mensaje `Loading Issue` al momento de cargar plugins en **Komplete Kontrol**:
+  Antes de de visitar la guía de solucion de problemas de Native Instruments pruebe:
+
+  1. Cierre el DAW
+  2. Ejecutar el **Komplete Kontrol** por fuera del DAW como un standalone y esperar a que el plugin cargue todas las dependencias
+  3. Probar cargando algun preset del buscador y verificar que carga sin problemas
+  4. Cerrar el **Komplete Kontrol** y reabrirlo desde el DAW
+  5. Probar si este procedimiento arreglo el problema cargando un preset del navegador y verificando su correcto funcionamiento
+
+  En caso de que el paso anterior no funcione y recibir el mensaje `Loading Issue` al momento de cargar presets y plugins en **Komplete Kontrol**:
 
   ![komplete-problem](img/faq/komplete-problem.jpg)
 
@@ -120,7 +133,7 @@ La mejor opción en caso de estar teniendo problemas con la instalación de un p
 
   ![error-1-spitfire](img/faq/labs-problem.jpg)
 
-  [Guia oficial](https://spitfireaudio.zendesk.com/hc/en-us/sections/200995409-LABS) de spitfire para solucion de los problemas posibles con la libreria de LABS
+  Hacer click en el botón `LET'S FIX IT` o visitar la [guía oficial](https://spitfireaudio.zendesk.com/hc/en-us/sections/200995409-LABS) de spitfire para solucion de los problemas posibles con la libreria de LABS
 
 <!-- ### Smartphone como controlador midi
 

@@ -10,8 +10,13 @@
 html.is-animating .transition-fade {
 	opacity: 0;
 }
-.absolute{
+.absolute {
 	position: fixed;
+}
+.download-link {
+	color: $primary;
+	text-decoration: underline;
+	font-size: large;
 }
 @media only screen and (min-width: 768px) {
 	.bg-img {

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smartphone como controlador MIDI gratuito'
+title: 'Smartphone como controlador MIDI'
 author: Matías Macías Gómez
 date: 2021-02-02 11:17:00
 hero_image: /audio-creacion-sonora/img/jpg/post-smartphone-banner.jpg

@@ -1,0 +1,10 @@
+<div x-data="{visible: true}" markdown="0">
+	<div
+		class="{{ include.style | default: '' }} "
+		x-show.transition.duration.300ms="visible"
+	>
+		<div class="{{ include.container | default: '' }}">
+			{{ include.content | markdownify }}
+		</div>
+	</div>
+</div>

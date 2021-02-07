@@ -1,0 +1,16 @@
+<div x-data="{visible: true}" markdown="0">
+	<div x-show.transition.duration.300ms="visible">
+		<a href="{{ include.link | defaul: ''}}" target="_blank">
+    		<button class="button {{ include.style |default: 'is-outlined' }} {{ include.status | default: 'is-info' }} ">  
+				{% if include.icon %}
+				<span class="icon"
+					><i
+						class="{{ include.icon | default: 'fas fa-download' }} fa-lg"
+					></i
+				></span>
+				{% endif %}
+    		  	<span>{{include.message | markdownify}}</span>
+    		</button>
+  		</a>
+	</div>
+</div>

@@ -57,10 +57,11 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 
 ### App de controladores MIDI
 
+- [Tutorial](/{{ site.baseurl }}/midi/2021/02/02/smartphone-como-controlador-midi/) para poder configurar el celular correctamente como controlador midi
+
 #### IOS
 
 - [midiBox](https://apps.apple.com/us/app/midibox/id1520136358) Incluye pads y un teclado de una 8va con conectividad por Bluetooth
-  - [Tutorial](#) para poder utilizar Bluetooth Midi en Windows
 - [midimittr](http://www.s-r-n.de/midile/) Para utilizar midi por USB
 
 #### Android
@@ -76,12 +77,17 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 - [Vital](https://vital.audio/) Spectral warping wavetable synth
 - [Exakt](https://www.sonicbits.com/exakt-lite.html) Exakt Lite es un sintetizador FM
 - [PG-8X](https://sites.google.com/site/mlvst0/) Virtual analog synthesizer basado en el Roland JX-8P
-- [LABS](https://labs.spitfireaudio.com/) Librerias de samples con diferentes instrumentos
-- [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
+- [SyndtSphere](https://klevgrand.se/products/syndtsphere) Sintetizador en el cual pueden mezclar diferentes presets para obtener nuevos sonidos.
+- Spitfire
+  - [LABS](https://labs.spitfireaudio.com/) Librerias de samples con diferentes instrumentos
+  - [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
 - [Komplete Start](https://www.native-instruments.com/es/products/komplete/bundles/komplete-start/) Suite de instrumentos y efectos para la producción músical
 
 ### Efectos
 
+- [Klevgrand](https://klevgrand.se/)
+  - [FreeAmp](https://klevgrand.se/products/freeamp) Saturador y compresor
+  - [Svep](https://klevgrand.se/products/svep) Phaser, flanger y chorus mezclados en un solo plugin
 - [Valhalla DSP](https://valhalladsp.com/): diferentes efectos de reverberacion y delay muy útiles para diseño de sonido
   - [Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
   - [FreqEcho](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
@@ -99,11 +105,14 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
   - [Titanium 3 Basstard](https://www.acustica-audio.com/store/t/acqua/free) Ecualizador
   - [Tan Free Compressor](https://www.acustica-audio.com/store/t/acqua/free) Compresor
 - [Pitchproof](https://aegeanmusic.com/pitchproof-specs) Pitchshifter y Armonizador
+- [Orilriver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) Reverb
+- [TAL-Vocoder](https://tal-software.com/products/tal-vocoder) Emulador de vocoder vintage
 
 ### Samples gratuitos y música creative commons
 
 - [Freesound.org](https://freesound.org/) Libreria de sonidos gratuitos
 - [Soundible](https://soundbible.com/) Libreria de sonidos gratuitos
 - [Free Music Archive](https://freemusicarchive.org/) Música creative commons
+- [Looperman](https://www.looperman.com/) Libreria de loops gratuita
 - [Cymatics](https://cymatics.fm/pages/free-download-vault) Todos los paquetes de samples gratuitos
 - [Point Blank School](https://plus.pointblankmusicschool.com/7-essential-sites-to-download-high-quality-free-samples/) Articulo sobre diferentes maneras de conseguir samples gratuitos
