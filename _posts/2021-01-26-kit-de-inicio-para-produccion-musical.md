@@ -53,7 +53,7 @@ Para que un VST entre en la lista debe cumplir ciertas condiciones:
 2. Debe de ser completamente gratuito todo el año y no solo por un periodo de tiempo específico
 3. Debe ser un pluging que yo mismo haya probado.
 
-En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/) a la sección de "FREE" o a [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista completa de todos los VST y DAW gratuitos disponibles.
+En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin boutique](https://www.pluginboutique.com/), a la sección de "FREE", [VST4free](https://vst4free.com/instruments/) toda la p'agina esta dedicada a plugins gratuitos o [Bedroom producer blog](https://bedroomproducersblog.com/) por una lista completa de todos los VST y DAW gratuitos disponibles.
 
 ### App de controladores MIDI
 
@@ -73,7 +73,10 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
 
 - [Piano One](https://neovst.com/piano-one/) VST de piano
 - [Surge](https://surge-synthesizer.github.io/) Sintetizador
-- [Tyrell N6](https://u-he.com/products/tyrelln6/) Sintetizador
+- u-he:
+  - [Podolski](https://u-he.com/products/podolski/) Sintetizador
+  - [Tyrell N6](https://u-he.com/products/tyrelln6/) Sintetizador
+  - [Zebralette](https://u-he.com/products/zebralette/) Sintetizador
 - [Vital](https://vital.audio/) Spectral warping wavetable synth
 - [Exakt](https://www.sonicbits.com/exakt-lite.html) Exakt Lite es un sintetizador FM
 - [PG-8X](https://sites.google.com/site/mlvst0/) Virtual analog synthesizer basado en el Roland JX-8P

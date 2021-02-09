@@ -10,7 +10,12 @@ hide_hero: true
 
 #### Clase 1 - 18/01/2021
 
-- **[Link a la grabación de la clase](https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210118_120431-Meeting%20Recording.mp4?web=1)**
+{% include button.html
+message="Grabación de la clase"
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210118_120431-Meeting%20Recording.mp4?web=1"
+icon="fas fa-file-video"
+%}
+<br />
 
 #### Resumen
 
@@ -23,17 +28,23 @@ hide_hero: true
 
 #### Clase 2 - 20/01/2021
 
-- **[Link a la grabación de la clase](https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Clase%202%20-%20El%20sonido%20y%20la%20m%C3%BAsica-20210120_120440-Meeting%20Recording.mp4?web=1)**
-- **[Link a las diapositivas de la clase](https://www.canva.com/design/DAETxDTmZH4/8vPmFfJMbyGxPhVJ2LSynQ/view?utm_content=DAETxDTmZH4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)**
+{% include button.html
+message="Grabación de la clase"
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Clase%202%20-%20El%20sonido%20y%20la%20m%C3%BAsica-20210120_120440-Meeting%20Recording.mp4?web=1"
+icon="fas fa-file-video"
+%}
+<br />
+{% include button.html
+message="Diapositivas de la clase"
+link="https://www.canva.com/design/DAETxDTmZH4/8vPmFfJMbyGxPhVJ2LSynQ/view?utm_content=DAETxDTmZH4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+icon=""
+%}
+<br />
 
 #### Resumen
 
 Introducción al sonido y a la música
 
-- Características del sonido que seran más relevantes en este curso
-  - Frecuencia
-  - Amplitud
-  - Longitud de Onda
-  - Espectro de Frecuencia
-  - Fase
-  - Envolvente
+- Características del sonido
+
+#### Videos

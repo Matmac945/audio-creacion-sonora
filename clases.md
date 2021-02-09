@@ -12,26 +12,37 @@ show_sidebar: true
 - El sonido la música y sus características físicas y
   psico-acústicas
 
-#### [Semana 2](semana_2)
+#### Semana 2
 
-- Historia y revision técnica del audio, la grabación y la
-  edición
-- Ejercicios de edición en un DAW
+{% include notification.html
+message=" Las clases esta semana fueron canceladas"
+status="is-danger"
+icon=""
+%}
+<br />
 
-#### [Semana 3]()
+#### [Semana 3](semana_3)
 
-- Historia del MIDI, como funciona y como utilizarlo en el DAW
-- Ejercicios de creación con MIDI en un DAW
+- Primer acercamiento al DAW, tips de creación para los retratos sonoros
+- Como planear una pieza sonora, flujo de trabajo desde lo creativo y la planeación hasta el producti final.
 
-#### [Semana 4]()
+#### [Semana 4](semana_4)
+
+- Produciendo una pieza sonora:
+  - El audio, la grabación y el midi
+  - Como grabar un sonido, y los parametros de la grabación
+  - _Signal path_ de una señal de audio, desde lo acustico hasta lo digital
+  - Qué es midi y que información comunica
+  - MPE y midi polyphonic aftertouch
+- Introducción a la música occidental
+
+#### [Semana 5](semana_5)
 
 **[ENTREGA 1: RETRATO SONORO](entregas/retrato_sonoro)**
 
-- Asesoria previa a la entrega
-- Revisión de la entrega y feedback
+- Asesorias previas a la entrega
+- ENTREGA!
 
-<!-- #### [Semana 5]() -->
-<!--  -->
 <!-- #### [Semana 6]() -->
 <!--  -->
 <!-- #### [Semana 7]() -->

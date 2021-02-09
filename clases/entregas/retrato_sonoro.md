@@ -50,7 +50,14 @@ Publicar video con el Retrato Sonoro en YouTube y pegar el link
 del video en la celda correspondiente junto a su nombre en la
 siguiente tabla.
 
-### [TABLA PARA LA ENTREGA](https://docs.google.com/spreadsheets/d/1uuZOdC44RGaI8P29ksCaNb9oMW98HtTNmmQ2bfCSdvk/edit?usp=sharing)
+{% include button.html
+message="TABLA PARA LA ENTREGA"
+link="https://docs.google.com/spreadsheets/d/1uuZOdC44RGaI8P29ksCaNb9oMW98HtTNmmQ2bfCSdvk/edit?usp=sharing"
+icon="fas fa-link"
+style="is-outlined is-fullwidth is-danger"
+%}
+
+<br />
 
 {% include notification.html
 message= "💡 **NOTA!** El tiempo de entrega se cuenta con
