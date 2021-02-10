@@ -6,6 +6,21 @@ menubar_toc: true
 toc_title: INDICE
 ---
 
+## No puedo cargar samples en Ableton Live
+
+En algunas ocasiones cuando intentamos cargar archivos de musica a Ableton Live recibiremos el siguiente mensaje:
+
+![ableton error no puede cargar archivo](img/faq/ableton_samples_not_loading.png)
+
+En este caso lo mejor es seguir la [guía](https://help.ableton.com/hc/en-us/articles/209774325--The-file-could-not-be-read-It-may-be-corrupt-or-not-licensed-) creada por Ableton para la solucion de este problema, en ella encontrara lo que necesita hacer teniendo en cuenta el sistema operativo desde el cual este trabajando.
+
+{% include button.html
+  message="Guía oficial"
+  link="https://help.ableton.com/hc/en-us/articles/209774325--The-file-could-not-be-read-It-may-be-corrupt-or-not-licensed-"
+  icon="fab fa-link"
+  status="is-dark"
+%}
+
 ## Latencia
 
 Si esta teniendo problemas de latencia _(un retardo en el tiempo entre oprimir una tecla del piano o hablar por el micrófono y el momento en el cual se reproduce el sonido a traves de los audifonos o parlantes)_. Si esta utilizando windows y no tiene una interface de audio lo más probable es que este problema sea a causa de los drivers de que esta utilizando, por suerte tiene una solucion sencilla y solo reuiqere instalar un driver gratuito y configurarlo correctamente.

@@ -77,6 +77,16 @@ icon="far fa-thumbs-down"
   style="is-outlined is-fullwidth"
 %}
 
+<br />
+
+{% include button.html
+  message="Playlist de tutoriales"
+  link="https://www.youtube.com/playlist?list=PLaNjetabjrNoWj0ZCETvPEzAnrRQF6OmE"
+  icon='fab fa-youtube'
+  status="is-dark"
+  style="is-outlined is-fullwidth"
+%}
+
 ---
 
 ### Ohmstudio

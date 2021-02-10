@@ -28,11 +28,14 @@ style=""
 #### Resumen
 
 - Produciendo una pieza sonora:
+
   - El audio, la grabación y el midi
   - Como grabar un sonido, y los parametros de la grabación
   - _Signal path_ de una señal de audio, desde lo acustico hasta lo digital
-  - Qué es midi y que información comunica
+  - Que es y porque se produce la altencia
+  - Que es midi y que información comunica
   - MPE y midi polyphonic aftertouch
+
 - Introducción a la música occidental
 
 #### Videos

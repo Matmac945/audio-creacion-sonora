@@ -85,6 +85,7 @@ En caso de necesitar mas opciones de VST o DAW gratuitos recomiendo ir a [plugin
   - [LABS](https://labs.spitfireaudio.com/) Librerias de samples con diferentes instrumentos
   - [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) sampler de orquesta
 - [Komplete Start](https://www.native-instruments.com/es/products/komplete/bundles/komplete-start/) Suite de instrumentos y efectos para la producción músical
+- [Sine Player](https://www.orchestraltools.com/sinefactory) Sampler de orquesta, hay que subscribirse para obtener los plugins
 
 ### Efectos
 
