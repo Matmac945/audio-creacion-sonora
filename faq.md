@@ -17,7 +17,7 @@ En este caso lo mejor es seguir la [guía](https://help.ableton.com/hc/en-us/art
 {% include button.html
   message="Guía oficial"
   link="https://help.ableton.com/hc/en-us/articles/209774325--The-file-could-not-be-read-It-may-be-corrupt-or-not-licensed-"
-  icon="fab fa-link"
+  icon="fas fa-link"
   status="is-dark"
 %}
 
