@@ -17,23 +17,40 @@ toc_title: INDICE
 
 ![lmms](../img/recursos/lmms.png)
 
+En mi opinion LMMS es un software opensource cuyos instrumentos virtuales ofrecen buenas posibilidades a la hora de hacer musica de "8 bits" o chiptune, pero a la hora de hacer producciones más complejas presenta limitaciones en el flujo de trabajo ya que si se requiere grabar sonidos tiene que hacerse desde un software externo y luego importar las grabaciones a la sesion.
+
+Ofrece un buen sequenciador midi y aunque en mi opinion la interface podria mejorar y no se ajusta muy bien a monitores HPI, luego de unos minutos usando el programa es facil saber donde se encuentran las cosas, siempre y cuando se tenga experiencia previa trabajando con otros DAW.
+
+#### Conclusion
+
+si lo unico que se requiere es un secuenciador midi es una buena opcion que vale la pena explorar especialmente si se quiere componer musica para videojuegos estilo 8bits/chiptune
+
 {% include notification.html
 message= " **Pros**:
 
-"
-status="is-success"
-modifier="is-light"
-icon="far fa-thumbs-up"
-%}
-<br />
-{% include notification.html
-message= " **Cons**:
+- Los instrumentos virtuales incluidos son excelente para hacer chiptune
+- Flujo de trabajo parecido a FL-Studio
+- Excelente para música chiptune/8-bits
+- Buen sequenciador midi
 
-"
-modifier="is-light"
-status="is-danger"
-icon="far fa-thumbs-down"
-%}
+  "
+  status="is-success"
+  modifier="is-light"
+  icon="far fa-thumbs-up"
+  %}
+  <br />
+  {% include notification.html
+  message= " **Cons**:
+
+- No permite grabar audio
+- Los intrumentos virtuales incluidos no tienen gran variedad de sonidos
+- El pianoroll podria ser mejor a la hora de facilitar trasposiciones de varias notas al mismo tiempo
+- Se siente limitado a la hora de hacer producciones más complejas
+  "
+  modifier="is-light"
+  status="is-danger"
+  icon="far fa-thumbs-down"
+  %}
 
 <br />
 
@@ -96,20 +113,25 @@ icon="far fa-thumbs-down"
 {% include notification.html
 message= " **Pros**:
 
-"
-status="is-success"
-modifier="is-light"
-icon="far fa-thumbs-up"
-%}
-<br />
+- Único que ofrece trabajo colaborativo en **Tiempo Real**
+  "
+  status="is-success"
+  modifier="is-light"
+  icon="far fa-thumbs-up"
+  %}
+  <br />
+
 {% include notification.html
 message= " **Cons**:
 
-"
-modifier="is-light"
-status="is-danger"
-icon="far fa-thumbs-down"
-%}
+- Hay que crear una cuenta para poderlo utilizar, no permite el trabajo offline
+- La página web se siente desactualizada y el proyecto se siente abandonado
+- La version de UVI Worstation que sugieren instalar es una version muy antigüa y el soundabank no es compatible con las versiones más modernas de UVI Workstation
+  "
+  modifier="is-light"
+  status="is-danger"
+  icon="far fa-thumbs-down"
+  %}
 
 <br />
 
@@ -359,22 +381,44 @@ message= " **Cons**:
 
 ---
 
+<!-- prettier-ignore-start -->
+# Menciones importantes
+{: .has-text-centered}
+<!-- prettier-ignore-end -->
+
 ## GarageBand
 
 ![garageband](../img/recursos/garageband.jpg)
 
+Lo más probables es que si tienes un MacBook, iPad o iPhone lo más probable es que ya tengas GarageBand instalado en tu dispositivo o la hayas tenido instalada en el en algún momento.
+
+GarageBand es probablemente la aplicaciones multiplataforma gratuita más completa del mercado, permite utilizar interfaces de audio y controladores midi, por usb o bluetooth sin importar el dispositivo en el cual se este ejecutando. Tiene una gran seleccion de instrumentos virtuales de fabrica y se puede expandir aun más descargando paquetes oficiales ofrecidos por apple.
+
+Tiene un flujo de trabajo muy parecido al de Logic Pro X siendo este el siguiente paso obvio para cualquier persona que utilice garageBand y quiera migrar a un software más "profesional"
+
+Realmente el único problema es que no permite la integración con plugins VST, pero con la seleccion de instrumentos y de efectos que ofrece no creo que esto sea ningun problema para principiantes que se esten iniciando en el mundo de la producción musical o músicos experimentados que quieran hacer demos y componer ideas rapidas en su celular o tablet.
+
 {% include notification.html
 message= " **Pros**:
+
+- Gran libreria de sonidos disponible
+- Muy buenos intrumentos virtuales incluidos
+- Multiplataforma
+- Excelentes efectos incluidos
+- Compatible con MPE, midi-BLE y una gran variedad de hardware
   "
   status="is-success"
   modifier="is-light"
   icon="far fa-thumbs-up"
   %}
-<br />
+  <br />
+
 {% include notification.html
 message= " **Cons**:
 
 - Exclusivo para macOS
+- Muchos efectos solo permiten utilizar presets
+- No compatible con VSTs
   "
   modifier="is-light"
   status="is-danger"
@@ -385,7 +429,7 @@ message= " **Cons**:
 
 {% include button.html
   message="GarageBand macOS AppStore"
-  link="https://www.bandlab.com/products/cakewalk"
+  link="https://www.apple.com/mac/garageband/"
   icon=''
   style="is-outlined is-fullwidth"
 %}
