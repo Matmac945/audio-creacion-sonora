@@ -102,4 +102,12 @@ de música y audio digital.
             y songwritting</a
         >
     </li>
+    <li>
+        <a
+            class="has-text-dark"
+            href="https://www.youtube.com/c/Bedroomproducersblog/videos"
+            target="_blank"
+            ><strong>Bedroom Producers Blog:</strong> Reviews y tutoriales de los mejores softwares y VST gratuitos</a
+        >
+    </li>
 </ul>

@@ -7,6 +7,15 @@
   #     link: /reaper/
 - name: Clases
   link: /clases/
+
+- name: Entregas
+  dropdown:
+    - name: Retrato Sonoro
+      link: /clases/entregas/retrato_sonoro
+    - name: Armonia Melodia
+      link: /clases/entregas/armonia_melodia
+    - name: Final
+      link: /clases/entregas/final
 - name: Recursos
   link: /recursos_gratuitos/
   dropdown:
@@ -14,7 +23,7 @@
       link: /youtube/
     - name: DAW Gratuitos
       link: /daws/
-    # - name: Plugins
-    #   link: /plugins/
+    - name: Plugins VST
+      link: /plugins/
 - name: FAQ
   link: /faq/

@@ -1,0 +1,46 @@
+- label: Semanas
+  items:
+    - name: Semana 1
+      link: /clases/semana_1
+    - name: Semana 2
+      link: /clases/semana_2
+    - name: Semana 3
+      link: /clases/semana_3
+    - name: Semana 4
+      link: /clases/semana_4
+    - name: Semana 5
+      link: /clases/semana_5
+    - name: Semana 6
+      link: /clases/semana_6
+    # - name: Semana 7
+    #   link: /clases/semana_7
+    # - name: Semana 8
+    #   link: /clases/semana_8
+    # - name: Semana 9
+    #   link: /clases/semana_9
+    # - name: Semana 10
+    #   link: /clases/semana_10
+    # - name: Semana 11
+    #   link: /clases/semana_11
+    # - name: Semana 12
+    #   link: /clases/semana_12
+    # - name: Semana 13
+    #   link: /clases/semana_13
+    # - name: Semana 14
+    #   link: /clases/semana_14
+    # - name: Semana 15
+    #   link: /clases/semana_15
+    # - name: Semana 16
+    #   link: /clases/semana_16
+    # - name: Semana 17
+    #   link: /clases/semana_17
+    # - name: Semana 18
+    #   link: /clases/semana_18
+- label: Entregas
+  items:
+    - name: Retrato Sonoro
+      link: /clases/entregas/retrato_sonoro
+    - name: Armonía y melodía
+      link: /clases/entregas/armonia_melodia
+    - name: Final
+      link: /clases/entregas/final
