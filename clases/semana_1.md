@@ -33,9 +33,12 @@ icon="fas fa-file-video"
 
 ### Resumen
 
-Introducción al sonido y a la música
+Introducción al sonido y a la música.
 
-- Características del sonido
+- Características físicas del sonido
+- Caracteristicas fisicas de los sonidos músicales
+- Caracteristicas de la música
+- Qué es la música y como la diferenciamos del ruido.
 
 <div class='columns'>
 <div class='column'>

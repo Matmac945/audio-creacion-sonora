@@ -10,7 +10,7 @@ menubar_toc: true
 toc_title: INDICE
 categories: produccion-musical
 description: ''
-published: true
+published: false
 canonical_url: https://matmac945.github.io/audio-creacion-sonora/produccion-musical/2021/02/17/procesamiento-con-plugins-guitarra/
 summary: |-
   Compilación de los mejores Instrumentos VST para emular pianos, y pianos electricos como el rhodes o el wurlitzer
