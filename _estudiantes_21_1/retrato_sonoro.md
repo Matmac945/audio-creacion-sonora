@@ -30,7 +30,7 @@ icon='far fa-eye'
 %}
 <br />
 {%include button.html
-message='enunciado de la entrega'
+message='Enunciado Completo'
 link='/audio-creacion-sonora/entregas/retrato_sonoro/'
 status='is-success'
 icon='fas fa-external-link-alt'%}

@@ -94,15 +94,15 @@ icon="far fa-file-powerpoint"
 
 ---
 
-##### Entrevista a Hanz Zimmer y Christopher Nolan sobre el proceso de la composición del tema principal para Interstellar
+Entrevista a Hanz Zimmer y Christopher Nolan sobre el proceso de la composición del tema principal para Interstellar
 
 {% include  youtube.html video='L_8t2VlwK4w' %}
 
-##### Making of de la banda Sonora para DOOM 2016
+Making of de la banda Sonora para DOOM 2016
 
 {% include  youtube.html video='ua-f0ypVbPA'%}
 
-##### Documental de RIOT games sobre el proceso de la composicion de la música para los personajes de League of Legends
+Documental de RIOT games sobre el proceso de la composicion de la música para los personajes de League of Legends
 
 {% include  youtube.html video='4bQBmAO0hk4'%}
 

@@ -61,7 +61,7 @@ message= " **Pros**:
 
 ---
 
-### **Tracktion Waveform Free** ⭐
+### ⭐ **Tracktion Waveform Free**
 
 ![waveform](../img/recursos/waveform.png)
 

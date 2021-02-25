@@ -1,7 +1,52 @@
-# Creación Sonora
+# Creación Sonora Website
 
-Página para el curso de Creación Sonora de la UPB.
-Setup utilizado para crear la página
+Página Web para el curso de Creación Sonora.
+
+Esta página web es generada con Jekyll y utiliza una versión modificada de [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
+
+## Modificaciones
+
+_Febrero 25 2021_
+
+- Inclusión de un template para insertar y personalizar botones con markdown.
+- Inclusión de nuevos Layouts dedicados al funcionamiento específico de la página web
+- Solución del problema al intentar incluir iconos en las notificaciones
+- Traducción al español de varios Layouts
+
+### Botones
+
+Para incluir botones personalizados
+
+```liquid
+{% include button.html message='Download'%}
+```
+
+Botón con icono
+
+```liquid
+{% include button.html message='Download' icon='fas fa-download' status='is-success'%}
+```
+
+El boton recibe iconos de font awesome, y utiliza los "estados" y "estilos" de la clase botones de **[BULMA.IO](https://bulma.io/documentation/elements/button/)**
+
+```liquid
+{% include button.html message='Download'
+icon='fas fa-download'
+status='is-success'
+style='is-outlined'%}
+```
+
+El boton tambien recibe la clase de html "disabled" para desactivar las funciones interactivas del botón
+
+```liquid
+{% include button.html message='Download'
+icon='fas fa-download'
+status='is-success'
+style='is-outlined'
+disabled='true'%}
+```
+
+---
 
 # bulma-clean-theme
 
