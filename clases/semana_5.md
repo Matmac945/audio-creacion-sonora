@@ -9,7 +9,14 @@ menubar: menubar_semana
 
 ---
 
-#### Clase 1 - 15/02/2021
+### Lunes - clase 7
+
+<!-- ignore-prettier-start -->
+
+_15 de febrero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 #### Resumen
 
@@ -60,7 +67,14 @@ Este video de Paul Davis explica la diferencia entre escala y tonalidad. Es un c
 
 ---
 
-#### Clase 2 - 17/02/2021
+### Miercoles
+
+<!-- ignore-prettier-start -->
+
+_17 de febrero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 {% include notification.html
 message="**Clase cancelada**"

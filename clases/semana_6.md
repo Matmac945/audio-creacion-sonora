@@ -9,50 +9,46 @@ menubar: menubar_semana
 
 ---
 
-#### Clase 1 - 22/02/2021
+### Lunes
 
-#### Resumen
+<!-- ignore-prettier-start -->
 
-Primera entrega del semestre **Retrato Sonoro**
+_22 de febrero del 2021_
+{: .has-text-grey-light}
 
-<br />
-{% include button.html
-message="Grabación de la clase"
-link=""
-icon="fas fa-file-video"
-style=""
-disabled="true"
+<!-- ignore-prettier-end -->
+
+{% include notification.html
+message='Clase CANCELADA   :('
+status='is-danger'
+icon=''
 %}
-<br />
 
 ---
 
-#### Clase 2 - 24/01/2021
+### Miercoles - clase 8
+
+<!-- ignore-prettier-start -->
+
+_24 de febrero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 #### Resumen
 
-<div class='columns'>
-    <div class='column'>
+Primera entrega **Retrato Sonoro**
+
+Revisión de las entregas de los **Retratos Sonoros** producidos por los estudiantes a lo largo de las primeras semanas de clase.
+
+<br />
 {% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Entrega%201%20Retrato%20SOnoro-20210224_120458-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
-disabled="true"
 %}
-</div>
-    <div class='column'>
-{% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled="true"
-%}
-</div>
-</div>
-
-#### Videos
+<br />
 
 ---
 

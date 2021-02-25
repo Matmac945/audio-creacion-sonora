@@ -9,13 +9,14 @@
   link: /clases/
 
 - name: Entregas
+  link: /entregas/
   dropdown:
     - name: Retrato Sonoro
-      link: /clases/entregas/retrato_sonoro
+      link: /entregas/retrato_sonoro/
     - name: Armonia Melodia
-      link: /clases/entregas/armonia_melodia
+      link: /entregas/armonia_melodia/
     - name: Final
-      link: /clases/entregas/final
+      link: /entregas/final/
 - name: Recursos
   link: /recursos_gratuitos/
   dropdown:

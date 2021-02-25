@@ -9,7 +9,14 @@ menubar: menubar_semana
 
 ---
 
-#### Clase 1 - 1/02/2021
+### Lunes - clase 3
+
+<!-- ignore-prettier-start -->
+
+_1 de febrero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 #### Resumen
 
@@ -51,7 +58,14 @@ icon='far fa-lightbulb'%}
 
 ---
 
-#### Clase 2 - 3/02/2021
+### Miercoles - clase 4
+
+<!-- ignore-prettier-start -->
+
+_3 de febrero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 #### Resumen
 

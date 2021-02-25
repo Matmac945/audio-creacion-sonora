@@ -10,7 +10,7 @@ menubar: menubar_semana
 ---
 
 {% include notification.html
-message='CLASES CANCELADAS'
+message='CLASES CANCELADAS :('
 style='is-big'
 status='is-danger'
 icon=''%}

@@ -52,10 +52,16 @@ icon=""
 
 #### [Semana 6](semana_6)
 
+{% include notification.html
+message=" La clase del dia 22 de febrero fue cancelada"
+status="is-danger"
+icon=""
+%}<br />
+
 - **[ENTREGA 1: RETRATO SONORO](entregas/retrato_sonoro)**
 
-<!-- #### [Semana 7](semana_7) -->
-<!--  -->
+#### [Semana 7](semana_7)
+
 <!-- #### [Semana 8](semana_8) -->
 <!--  -->
 <!-- #### [Semana 9](semana_9) -->

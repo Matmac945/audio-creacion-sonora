@@ -1,8 +1,11 @@
 ---
-layout: page_mod_wide
 title: Retrato Sonoro
+subtitle: Entrega 1
+layout: page_mod_wide
+description: creacion libre de una pieza sonora
 hide_hero: true
 menubar: entregas_menubar
+image: /audio-creacion-sonora/img/jpg/retrato_sonoro.jpg
 ---
 
 # Entrega 1 - Retrato Sonoro
@@ -15,7 +18,7 @@ Crear una pieza sonora libre con una duración aproximada de 3
 minutos. La pieza puede ser pero no esta limitada a una
 composición músical, un paisaje sonoro, una compilación de
 canciones o cualquier otro tipo de expresion sonora que se pueda
-digitlizar y se pueda exportar en formato **.mp3 o .Wav**
+digitalizar y exportar en formato **.mp3 o .Wav**
 
 El retrato sonoro ademas estara acompañado de un componente
 visual, este componente es completamente libre (puede ser una
@@ -32,13 +35,13 @@ icon="fas fa-rocket"
 
 ### Fecha
 
-Miercoles 17 de Febrero hasta las 11:59. A.M - **ANTES DE LA CLASE!**
+Miercoles 24 de Febrero hasta las 11:59. A.M - **ANTES DE LA CLASE!**
 
 {% include notification.html
 message= "**RECORDAR** en caso de
 **NO** entregar el trabajo luego de esta fecha se le
-calificara sobre 4 hasta las 11:59 p.m del Miercoles 24 de
-febrero. En caso de no subir la entrega para esa fecha el trabajo
+calificara sobre 4 hasta las 11:59 p.m del Miercoles 3 de
+marzo. En caso de no subir la entrega para esa fecha el trabajo
 queda en **0**"
 status="is-danger"
 icon="fas fa-exclamation-triangle"

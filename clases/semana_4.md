@@ -9,7 +9,14 @@ menubar: menubar_semana
 
 ---
 
-#### Clase 1 - 8/02/2021
+### Lunes - clase 5
+
+<!-- ignore-prettier-start -->
+
+_8 de febrero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 #### Resumen
 
@@ -50,7 +57,14 @@ Produciendo una pieza sonora:
 
 ---
 
-#### Clase 2 - 10/02/2021
+### Miercoles - clase 6
+
+<!-- ignore-prettier-start -->
+
+_10 de febrero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 #### Resumen
 

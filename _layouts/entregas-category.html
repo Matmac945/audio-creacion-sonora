@@ -1,0 +1,83 @@
+---
+layout: default
+show_sidebar: false
+---
+
+<div class="columns is-multiline">
+  
+  <div class="column is-12">
+    <h1 class="title">Entregas</h1>
+    <h3 class="subtitle is-italic has-text-grey-light">Enero - Mayo 2021</h3>
+    {{ page.content }}
+  </div>
+
+  {% assign sorted_entregas = site.entregas | sort:page.sort %}
+
+  {% for entrega in sorted_entregas %}
+  <div class="column is-4-desktop is-6-tablet">
+
+    <a href="{{ entrega.url | relative_url }}">
+
+      <div class="card">
+
+        {% if entrega.image %}
+        <div class="card-image">
+          <figure class="image is-4by3">
+            <img src="{{ entrega.image }}" alt="{{ entrega.title }}" />
+          </figure>
+        </div>
+        {% endif %}
+        <div class="card-content">
+
+          <p class="title is-4">{{ entrega.title }}</h2>
+          <p class="subtitle is-4">{{ entrega.subtitle }}</p>  
+
+        </div>
+      </div>
+
+    </a>
+
+  </div>
+{% endfor %}
+</div>
+
+<hr>
+
+<!-- Entregas 2021-Semestre 1  -->
+
+<div class="columns is-multiline">
+  
+  <div class="column is-12">
+    <h1 class="title">Trabajos creados por los estudiantes</h1>
+    <h3 class="subtitle is-italic has-text-grey-light">Enero - Mayo 2021</h3>
+  </div>
+
+  {% assign sorted_estudiantes_21_1 = site.estudiantes_21_1 | sort:page.sort %}
+
+  {% for estudiante_21_1 in sorted_estudiantes_21_1 %}
+  <div class="column is-4-desktop is-6-tablet">
+
+    <a href="{{ estudiante_21_1.url | relative_url }}">
+
+      <div class="card">
+
+        {% if estudiante_21_1.image %}
+        <div class="card-image">
+          <figure class="image is-4by3">
+            <img src="{{ estudiante_21_1.image }}" alt="{{ estudiante_21_1.title }}" />
+          </figure>
+        </div>
+        {% endif %}
+        <div class="card-content">
+
+          <p class="title is-4">{{ estudiante_21_1.title }}</h2>
+          <p class="subtitle is-4">{{ estudiante_21_1.subtitle }}</p>  
+
+        </div>
+      </div>
+
+    </a>
+
+  </div>
+{% endfor %}
+</div>

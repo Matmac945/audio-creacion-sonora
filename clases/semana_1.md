@@ -9,7 +9,14 @@ menubar: menubar_semana
 
 ---
 
-#### Clase 1 - 18/01/2021
+### Lunes - clase 1
+
+<!-- ignore-prettier-start -->
+
+_18 de enero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 #### Resumen
 
@@ -29,7 +36,14 @@ icon="fas fa-file-video"
 
 ---
 
-### Clase 2 - 20/01/2021
+### Miercoles - clase 2
+
+<!-- ignore-prettier-start -->
+
+_20 de enero del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
 
 ### Resumen
 
