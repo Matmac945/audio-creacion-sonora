@@ -58,7 +58,7 @@ status="is-danger"
 icon=""
 %}<br />
 
-- **[ENTREGA 1: RETRATO SONORO](entregas/retrato_sonoro)**
+- **ENTREGA 1: RETRATO SONORO**
 
 #### [Semana 7](semana_7)
 

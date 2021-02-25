@@ -48,5 +48,5 @@ Durante la muestra de sus piezas cada estudiante se toma unos minutos para conta
 {% include button.html
 message='Playlist de los Retratos Sonoros'
 link='https://www.youtube.com/playlist?list=PL86vQHuRh3K0aa-sFa9u8jbPACLSxPsmt'
-status='is-primary'
+status='is-danger'
 icon='fab fa-youtube'%}

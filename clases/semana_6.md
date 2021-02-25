@@ -37,18 +37,36 @@ _24 de febrero del 2021_
 
 #### Resumen
 
-Primera entrega **Retrato Sonoro**
+Revisión de los **Retratos Sonoros** producidos por los estudiantes a lo largo de las primeras semanas del curso.
 
-Revisión de las entregas de los **Retratos Sonoros** producidos por los estudiantes a lo largo de las primeras semanas de clase.
-
-<br />
+<div class='columns'>
+<div class='column'>
 {% include button.html
 message="Grabación de la clase"
 link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Entrega%201%20Retrato%20SOnoro-20210224_120458-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
 %}
-<br />
+</div>
+<div class='column'>
+{% include button.html
+message="Playlist Retratos Sonoros"
+link="https://www.youtube.com/playlist?list=PL86vQHuRh3K0aa-sFa9u8jbPACLSxPsmt"
+icon="fab fa-youtube"
+status='is-danger'
+style=""
+%}
+</div>
+<div class='column'>
+{% include button.html
+message="Entregas"
+link="/entregas/estudiantes_21_1/retrato_sonoro"
+icon="fas fa-seedling"
+status='is-success'
+style=""
+%}
+</div>
+</div>
 
 ---
 
