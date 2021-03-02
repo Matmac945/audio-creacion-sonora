@@ -30,7 +30,8 @@ Botón con icono
 El boton recibe iconos de font awesome, y utiliza los "estados" y "estilos" de la clase botones de **[BULMA.IO](https://bulma.io/documentation/elements/button/)**
 
 ```liquid
-{% include button.html message='Download'
+{% include button.html
+message='Download'
 icon='fas fa-download'
 status='is-success'
 style='is-outlined'%}
