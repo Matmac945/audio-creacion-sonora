@@ -17,7 +17,7 @@ image: /audio-creacion-sonora/img/jpg/armonia_melodia.jpg
 Para la segunda entrega del curso deben de componer una melodía y su armonía correspondiente.
 Pueden utilizar el DAW o editor midi de su preferencia, pero deben de tener en cuenta al momento de componer que lo que se estara revisando en esta entrega es la calidad de la melodia y de la armonia y no de la producción por lo cual ambas deben de funcionar independiente del instrumento con el cual se reproduzcan.
 
-#### Qué se estara calificando:
+#### Qué se estará calificando:
 
 - Desarrollo melódico - 25%
 - Uso funcional de la armonía - 25%

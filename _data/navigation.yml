@@ -5,14 +5,16 @@
 - name: Entregas
   link: /entregas/
   dropdown:
-    - name: Retrato Sonoro
+    - name: Retrato sonoro
       link: /entregas/retrato_sonoro/
+    - name: Armonia melodia
+      link: /entregas/armonia_melodia/
+    - name: Variaciones
+      link: /entregas/variaciones/
+    - name: Final
+      link: /entregas/final/
     - name: Retratos sonoros de los estudiantes
       link: /estudiantes_21_1/retrato_sonoro/
-    # - name: Armonia Melodia
-    #   link: /entregas/armonia_melodia/
-    # - name: Final
-    #   link: /entregas/final/
 - name: Recursos
   link: /recursos_gratuitos/
   dropdown:
