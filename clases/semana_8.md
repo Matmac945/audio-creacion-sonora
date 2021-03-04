@@ -1,19 +1,19 @@
 ---
 layout: page_mod
-title: Semana 7
+title: Semana 6
 hide_hero: true
 menubar: menubar_semana
 ---
 
-## Semana 7
+## Semana 8
 
 ---
 
-### Lunes - clase 9
+### Lunes - clase 11
 
 <!-- ignore-prettier-start -->
 
-_1 de marzo del 2021_
+_7 de marzo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
@@ -40,11 +40,11 @@ disabled='true'
 </div>
 ---
 
-### Miercoles - clase 10
+### Miercoles - clase 12
 
 <!-- ignore-prettier-start -->
 
-_3 de marzo del 2021_
+_9 de marzo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->

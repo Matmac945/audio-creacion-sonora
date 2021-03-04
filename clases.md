@@ -62,10 +62,18 @@ icon=""
 
 #### [Semana 7](semana_7)
 
-<!-- #### [Semana 8](semana_8) -->
-<!--  -->
-<!-- #### [Semana 9](semana_9) -->
-<!--  -->
+- Melodia
+- Acordes y tonalidades
+
+#### [Semana 8](semana_8)
+
+- Acordes II y Armonización
+- Introduccion a los modos
+
+#### [Semana 9](semana_9)
+
+- **Entrega Armonia y Melodía**
+
 <!-- #### [Semana 10](semana_10) -->
 <!--  -->
 <!-- #### [Semana 11](semana_11) -->

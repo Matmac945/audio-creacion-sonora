@@ -27,7 +27,8 @@ se realiza la entrega.
 
 {% include notification.html
 message = "Esta entrega vale el **20%** de la nota final del curso"
-status="is-primary"
+status="is-info"
+modifier="is-light"
 icon="fas fa-rocket"
 %}
 
@@ -64,7 +65,7 @@ style="is-outlined is-fullwidth is-danger"
 
 {% include notification.html
 message= "💡 **NOTA!** El tiempo de entrega se cuenta con
-respecto a la tabla de excel y no conrespecto a se subio el
+respecto a la tabla de excel y no con respecto a la fecha de subida del
 video a YouTube, así mismo se considera que la eestá
 terminada una vez se publica el link del videotabla, y no
 cuando el video es subido a la plataforma."

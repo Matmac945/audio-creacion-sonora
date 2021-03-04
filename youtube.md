@@ -110,4 +110,12 @@ de música y audio digital.
             ><strong>Bedroom Producers Blog:</strong> Reviews y tutoriales de los mejores softwares y VST gratuitos</a
         >
     </li>
+        <li>
+        <a
+            class="has-text-dark"
+            href="https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw"
+            target="_blank"
+            ><strong>8 Bit Music Theory:</strong>Decomposicion y análisis de la teoria musical detras de las bandas sonoras de videojuegos</a
+        >
+    </li>
 </ul>

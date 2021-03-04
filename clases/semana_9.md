@@ -1,22 +1,26 @@
 ---
 layout: page_mod
-title: Semana 7
+title: Semana 6
 hide_hero: true
 menubar: menubar_semana
 ---
 
-## Semana 7
+## Semana 9
 
 ---
 
-### Lunes - clase 9
+### Lunes - clase 13
 
 <!-- ignore-prettier-start -->
 
-_1 de marzo del 2021_
+_15 de marzo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
+
+#### Resumen
+
+- Entrega melodias y Armonias
 
 <div class='columns'>
     <div class='column'>
@@ -38,13 +42,14 @@ disabled='true'
 %}
     </div>
 </div>
+
 ---
 
-### Miercoles - clase 10
+### Miercoles - clase 14
 
 <!-- ignore-prettier-start -->
 
-_3 de marzo del 2021_
+_17 de marzo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
