@@ -6,11 +6,9 @@ Esta página web es generada con Jekyll y utiliza una versión modificada de [bu
 
 ## Contenidos del curso
 
-Creación sonoro es un curso introductorio a la producción musical. 
+Creación Sonora es un curso introductorio a la producción musical, enfocado a principiantes o personas que quieran estructurar conocimientos previos en el area. 
+
 Los contenidos del curso incluyen:
-
-Dada la naturaleza introductoria y generalista del curso los estudiantes pueden utilizar el DAW de su preferencia pero, las actividades y demostraciones en clase se realizan con la última versión Ableton Live o Reaper.
-
 - Visión generla a que es el audio y el sonido
 - Qué es el midi
 - Qué es un DAW
@@ -32,6 +30,9 @@ Dada la naturaleza introductoria y generalista del curso los estudiantes pueden 
   - Compresión
   - Efectos   
 - Master
+
+
+**NOTA**: *Dada la naturaleza introductoria y generalista del curso los estudiantes pueden utilizar el DAW de su preferencia pero, las actividades y demostraciones en clase se realizan con la última versión Ableton Live o Reaper.*
 
 ---
 
