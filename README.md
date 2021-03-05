@@ -1,10 +1,41 @@
-# Creación Sonora Website
+# Creación Sonora
 
 Página Web para el curso de Creación Sonora.
 
 Esta página web es generada con Jekyll y utiliza una versión modificada de [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
 
-## Modificaciones
+## Contenidos del curso
+
+Creación sonoro es un curso introductorio a la producción musical. 
+Los contenidos del curso incluyen:
+
+Dada la naturaleza introductoria y generalista del curso los estudiantes pueden utilizar el DAW de su preferencia pero, las actividades y demostraciones en clase se realizan con la última versión Ableton Live o Reaper.
+
+- Visión generla a que es el audio y el sonido
+- Qué es el midi
+- Qué es un DAW
+- Teoria músical básica:
+  - Rítmo
+  - Melodía
+  - Armonía
+  - Tonalidades 
+  - Escalas
+  - Modos
+- Síntesis y diseño de sonido:
+  - Substractiva
+  - Aditiva
+  - FM
+- Sampling 
+- Grabación 
+- Mezcla:
+  - Ecualización
+  - Compresión
+  - Efectos   
+- Master
+
+---
+
+## Modificaciones al tema
 
 _Febrero 25 2021_
 
