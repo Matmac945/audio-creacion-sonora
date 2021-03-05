@@ -46,7 +46,7 @@ siguiente tabla.
 
 {% include button.html
 message="TABLA PARA LA ENTREGA"
-link="https://docs.google.com/spreadsheets/d/1uuZOdC44RGaI8P29ksCaNb9oMW98HtTNmmQ2bfCSdvk/edit?usp=sharing"
+link="https://docs.google.com/spreadsheets/d/1k0dTZTnIsHELf4R5Ziu10da8uDB56Nanr6HXfO58KLM/edit?usp=sharing"
 icon="fas fa-link"
 style="is-outlined is-fullwidth is-danger"
 disabled='true'

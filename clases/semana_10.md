@@ -1,22 +1,26 @@
 ---
 layout: page_mod
-title: Semana 8
+title: Semana 10
 hide_hero: true
 menubar: menubar_semana
 ---
 
-## Semana 8
+## Semana 10
 
 ---
 
-### Lunes - clase 11
+### Lunes - clase 13
 
 <!-- ignore-prettier-start -->
 
-_7 de marzo del 2021_
+_15 de marzo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
+
+#### Resumen
+
+- Entrega melodias y Armonias
 
 <div class='columns'>
     <div class='column'>
@@ -38,13 +42,14 @@ disabled='true'
 %}
     </div>
 </div>
+
 ---
 
-### Miercoles - clase 12
+### Miercoles - clase 14
 
 <!-- ignore-prettier-start -->
 
-_9 de marzo del 2021_
+_17 de marzo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->

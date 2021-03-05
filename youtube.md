@@ -14,19 +14,14 @@ de posibilidades para la produccion de audio y musica es
 aprendiendo de otros productores.
 
 Por suerte ya no tenemos que visitar estudios, o la casa de
-otros musicos para poder aprender de ellos, como utilizan sus
-herramientas y sus trucos y secretos para conseguir ese sonido
+otros músicos para poder aprender de ellos como utilizan sus
+herramientas, sus trucos y sus "secretos" para conseguir ese sonido
 que los caracteriza.
 
-Esta es una lista en ningun orden especifico de mis canales de
-youtube favoritos sobre: Sintesis, produccion musical, teoria
-musical, ingenieria de sonido, diseño de sonido y cualquier otro
-tema relacionado con la creacion y manipulacion de sonidos.
-
-La siguiente lista no está en ningun orden específico y es solo una
-pequeña selección de canales de YouTube cuyo contenido me ha ayudado
-a lo largo de los años en mi proceso de aprendizaje sobre producción
-de música y audio digital.
+Esta es una lista (no tiene un orden específico) de mis canales de
+youtube favoritos sobre: síntesis, producción musical, teoria
+músical, ingenieria de sonido, diseño de sonido y cualquier otro
+tema relacionado con la creación y manipulación audio y sonidos.
 
 <ul>
     <li>

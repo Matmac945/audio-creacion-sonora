@@ -1,6 +1,6 @@
 ---
 layout: page_mod
-title: Semana 6
+title: Semana 9
 hide_hero: true
 menubar: menubar_semana
 ---

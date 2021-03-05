@@ -58,21 +58,38 @@ status="is-danger"
 icon=""
 %}<br />
 
-- **ENTREGA 1: RETRATO SONORO**
+- **Entrega I Retrato Sonoro**
 
 #### [Semana 7](semana_7)
 
-- Melodia
-- Acordes y tonalidades
+- Melodía
+- Acordes y funciones:
+  - Construcción de acordes
+  - La escala mayor
+  - Progresiones
 
 #### [Semana 8](semana_8)
 
-- Acordes II y Armonización
-- Introduccion a los modos
+- Acordes II:
+  - Escala Menor natural
+  - Escala menor armónica
+  - Escala menor melódica
+  - Progresiones
+- Introducción a los modos MAYORES:
+  - Jónico
+  - Lidio
+  - Mixolidio
 
 #### [Semana 9](semana_9)
 
-- **Entrega Armonia y Melodía**
+- **Entrega II Melodía y Armonia**
+
+- Introducción a los modos MENORES:
+
+  - Dórico
+  - Frigio
+  - Eólico
+  - _Locrio_\*
 
 <!-- #### [Semana 10](semana_10) -->
 <!--  -->
