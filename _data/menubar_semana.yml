@@ -14,10 +14,10 @@
       link: /clases/semana_6/
     - name: Semana 7
       link: /clases/semana_7/
-    # - name: Semana 8
-    #   link: /clases/semana_8
-    # - name: Semana 9
-    #   link: /clases/semana_9
+    - name: Semana 8
+      link: /clases/semana_8
+    - name: Semana 9
+      link: /clases/semana_9
     # - name: Semana 10
     #   link: /clases/semana_10
     # - name: Semana 11

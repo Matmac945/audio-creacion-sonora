@@ -24,13 +24,13 @@ Ademas tiene un modo de prueba _"ilimitado"_ (es importante aclarar que REAPER *
 Esta serie de video tutoriales fueron creados para acompañar el curso de Audio 1 en la Universidad Pontifica Bolivariana por el profesor [Jose Ricardo Zapata Phd.](https://joserzapata.github.io/)
 
 {% include button.html
-message="Link a la playlist de los tutoriales"
+message="Playlist de los tutoriales"
 link="https://www.youtube.com/playlist?list=PLW2bAKkMAGl6DTqEqEEGKnNExeAuMM1yb"
 icon='fab fa-youtube'
 status='is-danger'%}
 <br />
 {% include button.html
-message='Link a la página de con los contenidos'
+message='Página de Jose'
 link="https://joserzapata.github.io/post/produccion-audio-reaper/"
 icon='fas fa-link'
 status='is-info'%}
