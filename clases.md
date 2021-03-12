@@ -159,7 +159,7 @@ icon='fas fa-info'%}
 #### [Semana 11](semana_11)
 
 <!-- prettier-ignore-start -->
-_Marzo 5 a abril 9_
+_Abril 5 al 9_
 {: .has-text-grey-light}
 <!-- prettier-ignore-end -->
 

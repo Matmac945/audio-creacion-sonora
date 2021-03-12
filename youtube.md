@@ -113,4 +113,12 @@ tema relacionado con la creación y manipulación audio y sonidos.
             ><strong>8 Bit Music Theory:</strong>Decomposicion y análisis de la teoria musical detras de las bandas sonoras de videojuegos</a
         >
     </li>
+    </li>
+        <li>
+        <a
+            class="has-text-dark"
+            href="https://www.youtube.com/channel/UCcscSHEC5tA1aypzmKvcN0A"
+            target="_blank"
+            ><strong>Music Radar Clan:</strong>Análisis del impacto, influencias e historia de generos y artistas</a>
+    </li>
 </ul>
