@@ -12,11 +12,21 @@ show_sidebar: true
 
 #### [Semana 1](semana_1)
 
+<!-- prettier-ignore-start -->
+_Enero 18 al 22_
+{: .has-text-gray-light}
+<!-- prettier-ignore-end -->
+
 - Presentacion del curso
 - El sonido la música y sus características físicas y
   psico-acústicas
 
 #### Semana 2
+
+<!-- prettier-ignore-start -->
+_Enero 25 al 29_
+{: .has-text-gray-light}
+<!-- prettier-ignore-end -->
 
 {% include notification.html
 message=" Las clases esta semana fueron canceladas"
@@ -27,10 +37,20 @@ icon=""
 
 #### [Semana 3](semana_3)
 
+<!-- prettier-ignore-start -->
+_Febrero 1 al 5_
+{: .has-text-gray-light}
+<!-- prettier-ignore-end -->
+
 - Primer acercamiento al DAW y tips para la creación de los retratos sonoros
 - Como planear una pieza sonora, flujo de trabajo desde lo creativo y la planeación hasta el producti final.
 
 #### [Semana 4](semana_4)
+
+<!-- prettier-ignore-start -->
+_Febrero 8 al 12_
+{: .has-text-gray-light}
+<!-- prettier-ignore-end -->
 
 - Produciendo una pieza sonora:
   - El audio, la grabación y el midi
@@ -42,6 +62,11 @@ icon=""
 
 #### [Semana 5](semana_5)
 
+<!-- prettier-ignore-start -->
+_Febrero 15 al 19_
+{: .has-text-gray-light}
+<!-- prettier-ignore-end -->
+
 - Notación musical, compases y ritmo
 
 {% include notification.html
@@ -51,6 +76,11 @@ icon=""
 %}<br />
 
 #### [Semana 6](semana_6)
+
+<!-- prettier-ignore-start -->
+_Febrero 22 al 26_
+{: .has-text-grey-light}
+<!-- prettier-ignore-end -->
 
 {% include notification.html
 message=" La clase del dia 22 de febrero fue cancelada"
@@ -62,6 +92,11 @@ icon=""
 
 #### [Semana 7](semana_7)
 
+<!-- prettier-ignore-start -->
+_Marzo 1 al 5_
+{: .has-text-grey-light}
+<!-- prettier-ignore-end -->
+
 - Melodía
 - Acordes y funciones:
   - Construcción de acordes
@@ -70,19 +105,42 @@ icon=""
 
 #### [Semana 8](semana_8)
 
+<!-- prettier-ignore-start -->
+_Marzo 8 al 12_
+{: .has-text-grey-light}
+<!-- prettier-ignore-end -->
+
 - Acordes II:
+
   - Escala Menor natural
   - Escala menor armónica
   - Escala menor melódica
   - Progresiones
+
+- Ejercicios de armonización:
+  - Continuación con los ejercicios de armonización sobre las melodias de los estudiantes.
+  - Consejos para comenzar a armonizar las melodías, y mejorar el manejo ritmico de las mismas.
+
+#### [Semana 9](semana_9)
+
+<!-- prettier-ignore-start -->
+_Marzo 15 al 19_
+{: .has-text-grey-light}
+<!-- prettier-ignore-end -->
+
+- **Entrega II Melodía y Armonia**
+
 - Introducción a los modos MAYORES:
   - Jónico
   - Lidio
   - Mixolidio
 
-#### [Semana 9](semana_9)
+#### [Semana 10](semana_10)
 
-- **Entrega II Melodía y Armonia**
+<!-- prettier-ignore-start -->
+_Marzo 22 al 26_
+{: .has-text-grey-light}
+<!-- prettier-ignore-end -->
 
 - Introducción a los modos MENORES:
 
@@ -91,9 +149,20 @@ icon=""
   - Eólico
   - _Locrio_\*
 
-<!-- #### [Semana 10](semana_10) -->
-<!--  -->
-<!-- #### [Semana 11](semana_11) -->
+{% include notification.html
+message=' **_Marzo 29 al 2 de abril_**  receso por semana santa **NO** hay clases!. Descansen :)'
+status='is-info'
+modifier='is-light'
+icon='fas fa-info'%}
+<br />
+
+#### [Semana 11](semana_11)
+
+<!-- prettier-ignore-start -->
+_Marzo 5 a abril 9_
+{: .has-text-grey-light}
+<!-- prettier-ignore-end -->
+
 <!--  -->
 <!-- #### [Semana 12](semana_12) -->
 <!--  -->

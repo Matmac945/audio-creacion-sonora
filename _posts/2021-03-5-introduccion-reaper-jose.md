@@ -13,7 +13,7 @@ description: 'Introducción A REAPER por Jose Ricardo Zapata Phd '
 published: true
 canonical_url: https://matmac945.github.io/audio-creacion-sonora/music-production/2021/03/05/introduccion-reaper-jose/
 summary: |-
-  Guía para principiantes para utilizar REAPER a cargo del Jose Ricardo Zapata Phd.
+  Guía para principiantes para utilizar REAPER a cargo del profesor Jose Ricardo Zapata Phd.
 ---
 
 # Introducción a REAPER

@@ -5,7 +5,7 @@ layout: page_mod_wide
 description: variaciones rítmicas, melódicas y armónicas sobre las melodías y armonias previamente creadas
 hide_hero: true
 menubar: entregas_menubar
-image: /audio-creacion-sonora/img/jpg/variaciones.jpg
+image: /audio-creacion-sonora/img/jpg/variaciones.png
 ---
 
 # Entrega 3 - Variaciones
@@ -13,6 +13,23 @@ image: /audio-creacion-sonora/img/jpg/variaciones.jpg
 ---
 
 ### Enunciado:
+
+Componer 3 variaciones rítmicas y tonales de las melodías y armonías previamente creadas.
+Las melodías tienen que ser reconocibles, pero se deben percibir los cambios y las diferencias entre las 3 variaciones.
+
+#### Tips:
+
+- Utilizar los modos
+- Cambiar la métrica
+- Cambiar ritmo armónico
+- Hacer modulaciones y mixturas
+  pero más que nada **EXPERIMENTAR MUCHO!**
+
+#### Rubricas de calificación:
+
+- Buen manejo del ritmo y hace uso de este recurso para generar variaciones **30%**
+- Buen manejo de la tonalidad y las escalas y hace un uso apropiado de estos recursos **30%**
+- Describe y entiende con propiedad las diferencias entre tonalidad y escala y puede explicar con confianza las variaciones realizadas a la melodía y armonía **40%**
 
 {% include notification.html
 message = "Esta entrega vale el **20%** de la nota final del curso"
@@ -25,23 +42,24 @@ icon="fas fa-rocket"
 
 ### Fecha
 
-_Por definir_
+Lunes 29 de marzo del 2019
 
 <!-- Miercoles 24 de Febrero hasta las 11:59. A.M - **ANTES DE LA CLASE!** -->
 
-<!-- {% include notification.html
+{% include notification.html
 message= "**RECORDAR** en caso de
 **NO** entregar el trabajo luego de esta fecha se le
-calificara sobre 4 hasta las 11:59 p.m del Miercoles 3 de
-marzo. En caso de no subir la entrega para esa fecha el trabajo
+calificara sobre 4 hasta las 11:59 p.m del lunes 5 de
+abril. En caso de no subir la entrega para esa fecha el trabajo
 queda en **0**"
 status="is-danger"
 icon="fas fa-exclamation-triangle"
-%} -->
+modifier='is-light'
+%}
 
 ### Formato
 
-Subir un archivo **.zip** el cual debe de contener las 3 variaciones y la melodia y armonia originales en **.mid** a la sección de la tarea del teams de la clase.
+Subir un archivo **.zip** el cual debe de contener las 3 variaciones y la melodia y armonia originales en **.mid** a la carpeta _"Variaciones"_ en la sección de archivos del teams de la clase.
 
 La archivos deben de estar nombrados en el siguiente formato:
 
