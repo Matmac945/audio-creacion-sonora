@@ -42,14 +42,14 @@ icon="fas fa-rocket"
 
 ### Fecha
 
-Lunes 29 de marzo del 2019
+Lunes 5 de abril del 2019
 
 <!-- Miercoles 24 de Febrero hasta las 11:59. A.M - **ANTES DE LA CLASE!** -->
 
 {% include notification.html
 message= "**RECORDAR** en caso de
 **NO** entregar el trabajo luego de esta fecha se le
-calificara sobre 4 hasta las 11:59 p.m del lunes 5 de
+calificara sobre 4 hasta las 11:59 p.m del lunes 12 de
 abril. En caso de no subir la entrega para esa fecha el trabajo
 queda en **0**"
 status="is-danger"
