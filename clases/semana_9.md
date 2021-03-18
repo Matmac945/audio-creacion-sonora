@@ -22,26 +22,12 @@ _15 de marzo del 2021_
 
 - Entrega melodias y Armonias
 
-<div class='columns'>
-    <div class='column'>
-    {% include button.html
+{% include button.html
 message="Grabación de la clase"
-link=""
+link="https://web.microsoftstream.com/video/ad8eca52-b50e-44b7-8cf7-b8135c979118"
 icon="fas fa-file-video"
 style=""
-disabled='true'
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
-%}
-    </div>
-</div>
 
 ---
 
@@ -56,19 +42,27 @@ _17 de marzo del 2021_
 
 #### Resumen
 
+- Tips para convertir melodías, armonías y ritmos que esten en audio a información midi
+- Resolvimos dudas sobre como los acordes, la construccion de las escalas y porque reciben una cualidad (menor o mayor)
+- De donde surgen los modos
+- Modos mayores:
+  - Jónico
+  - Lidio
+  - Mixolidio
+- Ejemplos de melodias y armonias con los 3 modos mayores y cuales son las diferencias significativas con respecto a la escala mayor (jónico)
+
 <div class='columns'>
     <div class='column'>
     {% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/MODOS-20210317_120814-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
-disabled='true'
 %}
     </div>
     <div class='column'>
     {% include button.html
-message="Diapositivas de la clase"
+message="Guía para entender los modos"
 link=""
 icon="far fa-file-powerpoint"
 style=""
@@ -81,7 +75,10 @@ disabled='true'
 
 ### Videos
 
-{% include youtube.html videos='8i7K9GYzbIY'%}
+{% include youtube.html video='e9ay6zMICw8'%}
+
+{% include youtube.html video='8i7K9GYzbIY'%}
+
 {% include notification.html
 message='En caso de tener preguntas al respecto de la tématica de la clase enviar un correo a: **matias.macias@upb.edu.co**
 Con todo el gusto intentare resolver todas sus dudas'

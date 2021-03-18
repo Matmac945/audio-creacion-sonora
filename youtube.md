@@ -105,20 +105,25 @@ tema relacionado con la creación y manipulación audio y sonidos.
             ><strong>Bedroom Producers Blog:</strong> Reviews y tutoriales de los mejores softwares y VST gratuitos</a
         >
     </li>
-        <li>
+    <li>
         <a
-            class="has-text-dark"
-            href="https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw"
-            target="_blank"
-            ><strong>8 Bit Music Theory:</strong>Decomposicion y análisis de la teoria musical detras de las bandas sonoras de videojuegos</a
-        >
+        class="has-text-dark"
+        href="https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw"
+        target="_blank"
+        ><strong>8 Bit Music Theory:</strong>Decomposicion y análisis de la teoria musical detras de lasbandassonorasde videojuegos</a>
     </li>
-    </li>
-        <li>
+    <li>
         <a
-            class="has-text-dark"
-            href="https://www.youtube.com/channel/UCcscSHEC5tA1aypzmKvcN0A"
-            target="_blank"
-            ><strong>Music Radar Clan:</strong>Análisis del impacto, influencias e historia de generos y artistas</a>
+        class="has-text-dark"
+        href="https://www.youtube.com/channel/UCcscSHEC5tA1aypzmKvcN0A"
+        target="_blank"
+        ><strong>Music Radar Clan:</strong>Análisis del impacto, influencias e historia de generos y artistas</a>
+    </li>
+    <li>
+        <a
+        class="has-text-dark"
+        href="https://www.youtube.com/channel/UCtMq9D0KrMR93NQfuotUoKA"
+        target="_blank"
+        ><strong>Awesome Acoustics</strong>Explicacion de fenomenos acústicos y los procedimientos técnicos detras del estudio de la relación entre el sonido y el espacio</a>
     </li>
 </ul>
