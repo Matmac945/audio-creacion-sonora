@@ -18,6 +18,7 @@ html.is-animating .transition-fade {
 	text-decoration: underline;
 	font-size: large;
 }
+
 @media only screen and (min-width: 768px) {
 	.bg-img {
 		background-image: url('{{ site.baseurl }}/img/undraw_happy_music.svg');

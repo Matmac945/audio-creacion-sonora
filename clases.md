@@ -130,7 +130,7 @@ _Marzo 15 al 19_
 {: .has-text-grey-light}
 <!-- prettier-ignore-end -->
 
-- **Entrega II Melodía y Armonia**
+- **[Entrega II Melodía y Armonia](/audio-creacion-sonora/entregas/armonia_melodia/)**
 
 - Introducción a los modos MAYORES:
   - Jónico
@@ -163,6 +163,10 @@ icon='fas fa-info'%}
 _Abril 5 al 9_
 {: .has-text-grey-light}
 <!-- prettier-ignore-end -->
+
+- Juegos de repaso de teoria músical
+
+- **[Entrega III Variaciones](/audio-creacion-sonora/entregas/variaciones/)**
 
 <!--  -->
 <!-- #### [Semana 12](semana_12) -->

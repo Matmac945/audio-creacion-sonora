@@ -60,6 +60,7 @@ message="TABLA PARA LA ENTREGA"
 link="https://docs.google.com/spreadsheets/d/1uuZOdC44RGaI8P29ksCaNb9oMW98HtTNmmQ2bfCSdvk/edit?usp=sharing"
 icon="fas fa-link"
 style="is-outlined is-fullwidth is-danger"
+modifier='is-light'
 %}
 
 {% include notification.html
@@ -68,8 +69,7 @@ respecto a la tabla de excel y no con respecto a la fecha de subida del
 video a YouTube, así mismo se considera que la eestá
 terminada una vez se publica el link del videotabla, y no
 cuando el video es subido a la plataforma."
-status="is-warning"
-modifier='is-light'%}
+status="is-warning"%}
 
 ---
 
