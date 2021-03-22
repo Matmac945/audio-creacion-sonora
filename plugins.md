@@ -90,5 +90,5 @@ En caso de necesitar más opciones de VST o DAW gratuitos recomiendo ir a:
 - **[Looperman](https://www.looperman.com/)** Libreria de loops gratuita
 - **[Cymatics](https://cymatics.fm/pages/free-download-vault)** Todos los paquetes de samples gratuitos
 - **[tune-craft](https://www.tunecraft-sounds.com/free/)** Paquetes de samples, loops y presets gratuitos
-- **[Zapsplat](https://www.zapsplat.com/)** Efectos de sonido y musica royalty freey creative commons
+- **[Zapsplat](https://www.zapsplat.com/)** Efectos de sonido y musica royalty free y creative commons
 - **[AubitSound](https://www.aubitsound.com/free-download-library)** Samples gratuitos

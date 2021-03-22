@@ -18,6 +18,12 @@ _5 de abril del 2021_
 
 <!-- ignore-prettier-end -->
 
+- Repaso de teoria musical
+- Competencia Kahoot:
+  - 1er puesto: 0.5 extra y sorpresa
+  - 2do puesto: 0.3 extra
+  - 3er puesto: 0.2 extra
+
 #### Resumen
 
 <div class='columns'>
@@ -53,6 +59,10 @@ _7 de abril del 2021_
 <!-- ignore-prettier-end -->
 
 #### Resumen
+
+Introducción a la producción musical
+
+Efectos, edición y mezcla y master
 
 <div class='columns'>
     <div class='column'>
