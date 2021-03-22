@@ -127,19 +127,19 @@ Ambas páginas estan en ingles pero son estan llenas de ejemplos y recursos supr
 
 ---
 
-##### Explicacion sobre que es el pulso, el ritmo y los compases
+- Explicación sobre que es el pulso, el ritmo y los compases
 
 {% include youtube.html video='faBivRMi2LY'%}
 
-##### Ejemplo de como entender la estructura en una pieza músical. _Ver minuto **5:30**_
+- Ejemplo de como entender la estructura en una pieza músical. _Ver minuto **5:30**_
 
 {% include youtube.html video='7FSAG-UpAS8?t=330'%}
 
-##### Porque tenemos 12 notas músicales
+- Porqué tenemos 12 notas músicales
 
 {% include youtube.html video='P7iC-fbdKmQ'%}
 
-##### Qué es una nota músical, un punto de vista físico
+- Qué es una nota músical, un punto de vista físico
 
 {% include youtube.html video='xcHbm0vXFFE'%}
 

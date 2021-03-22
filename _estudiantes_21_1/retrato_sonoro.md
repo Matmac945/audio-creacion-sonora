@@ -28,13 +28,13 @@ status='is-primary'
 modifier='is-light'
 icon='far fa-eye'
 %}
-<br />
+
 {%include button.html
 message='Enunciado Completo'
 link='/audio-creacion-sonora/entregas/retrato_sonoro/'
 status='is-success'
 icon='fas fa-external-link-alt'%}
-<br />
+
 Para este primer proyecto de clase los estudiantes debian planear y producir una pieza sonora bajo el enunciado de un "Retrato Sonoro" y subirlo a YouTube con la opción de acompañar la entrega con un video o imagen de su elección.
 
 El proceso de creación era totalmente libre, lo único que los estudiantes debian cumplir era una duración minima de 2 minutos.

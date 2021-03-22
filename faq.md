@@ -39,13 +39,10 @@ En caso de quere saber sobre latencia puede leer el post de [audiomidilab](https
 message ="Mientras más **pequeño** sea este número **menor** sera la latencia, pero **mayor** sera la carga en la CPU del computador y mientras más **grande** sea este valor **mayor** sera la latencia pero **menor** sera la carga en la CPU, permitiendo utilizar más plugins sin necesidad de congelar o renderizar pistas"
 icon = ""
 %}
-<br />
 
 - Mi recomendación es utilizar un **Buffer Size** entre **64** y **128** samples para grabar y componer, pero al momento de hacer la mezcla y el master utilizar un **Buffer Size** de **2048** o el valor más alto que el driver permita elegir para aprovechar al máximo los recursos del computacionales del equipo.
 
   Tambien puede acceder al panel de configuración de la interface desde el menu de preferencias del DAW. Para acceder a este menu abra su DAW, entre a las preferencias `ctrl + ,` en ableton live o ir a `opciones > preferencias` y ubicar la pestaña de audio en la pestaña de "Driver" seleccionar "ASIO", en la pestaña "Dispositivo de Audio (Audio Device)" seleccionar su interface `E.j: Focusrite 2i2`, una vez seleccionado el Driver y el Dispositivo de Audio hacer click en el botón de "Hardware Setup" y seleccionar un Buffer Size apropiado.
-  <br />
-  <br />
 
 - ### Windows sin interface
 
@@ -76,6 +73,7 @@ icon = ""
 message="**RECORDAR** entre **MENOR** sea el **Buffer Size**, menor sera la latencia pero **MAYOR** sera la carga sobre la **CPU**. Siempre buscar un balance entreresponsividad y calidad del sonido"
 status="is-primary"
 icon="fas fa-balance-scale"
+modifier='is-light'
 %}
 
 ---

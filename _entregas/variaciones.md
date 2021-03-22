@@ -84,8 +84,6 @@ madifier="is-light"
 icon='fas fa-info-circle'
 %}
 
-<br />
-
 {% include notification.html
 message= "**IMPORTANTE** si no siguen las indicaciones de nomenclatura se **rebajara un 0.2** de la nota final por cada archivo mal nombrado"
 status="is-warning"

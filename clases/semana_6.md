@@ -22,6 +22,7 @@ _22 de febrero del 2021_
 message='Clase CANCELADA   :('
 status='is-danger'
 icon=''
+modifier='is-light'
 %}
 
 ---

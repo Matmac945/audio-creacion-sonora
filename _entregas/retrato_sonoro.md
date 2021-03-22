@@ -61,8 +61,6 @@ icon="fas fa-link"
 style="is-outlined is-fullwidth is-danger"
 %}
 
-<br />
-
 {% include notification.html
 message= "💡 **NOTA!** El tiempo de entrega se cuenta con
 respecto a la tabla de excel y no con respecto a la fecha de subida del

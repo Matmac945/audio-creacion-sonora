@@ -20,7 +20,11 @@ _22 de marzo del 2021_
 
 #### Resumen
 
-- Entrega melodias y Armonias
+{% include notification.html
+message='Festivo, no hay clase... 😢'
+status='is-info'
+icon='fas fa-info'
+modifier='is-light'%}
 
 <div class='columns'>
     <div class='column'>

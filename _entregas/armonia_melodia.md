@@ -28,7 +28,6 @@ Pueden utilizar el DAW o editor midi de su preferencia, pero deben de tener en c
 message='Descargar ejemplo'
 link="https://www.dropbox.com/s/8s4hntfysyyo7m1/Ejemplo%20Armonia%20y%20Melodia.mid?dl=1"
 icon=''%}
-<br/>
 
 {% include notification.html
 message = "Esta entrega vale el **20%** de la nota final del curso"
@@ -51,6 +50,7 @@ Marzo. En caso de no subir la entrega para esa fecha la nota
 queda en **0**"
 status="is-danger"
 icon="fas fa-exclamation-triangle"
+modifier='is-light'
 %}
 
 ### Formato
@@ -75,7 +75,7 @@ status="is-light"
 madifier="is-light"
 icon='fas fa-info-circle'
 %}
-<br />
+
 {% include notification.html
 message= "**IMPORTANTE** si no siguen las indicaciones de nomenclatura se **rebajara un 0.2** de la nota final por cada archivo mal nombrado"
 status="is-warning"

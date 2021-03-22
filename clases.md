@@ -32,8 +32,8 @@ _Enero 25 al 29_
 message=" Las clases esta semana fueron canceladas"
 status="is-danger"
 icon=""
+modifier='is-light'
 %}
-<br />
 
 #### [Semana 3](semana_3)
 
@@ -73,7 +73,8 @@ _Febrero 15 al 19_
 message=" La clase del dia 17 de febrero fue cancelada"
 status="is-danger"
 icon=""
-%}<br />
+modifier='is-light'
+%}
 
 #### [Semana 6](semana_6)
 
@@ -86,7 +87,8 @@ _Febrero 22 al 26_
 message=" La clase del dia 22 de febrero fue cancelada"
 status="is-danger"
 icon=""
-%}<br />
+modifier='is-light'
+%}
 
 - **Entrega I Retrato Sonoro**
 
@@ -154,7 +156,6 @@ message=' **_Marzo 29 al 2 de abril_**  receso por semana santa **NO** hay clase
 status='is-info'
 modifier='is-light'
 icon='fas fa-info'%}
-<br />
 
 #### [Semana 11](semana_11)
 

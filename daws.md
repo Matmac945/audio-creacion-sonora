@@ -36,7 +36,7 @@ message= " **Pros**:
   modifier="is-light"
   icon="far fa-thumbs-up"
   %}
-  <br />
+
   {% include notification.html
   message= " **Cons**:
 
@@ -49,8 +49,6 @@ message= " **Pros**:
   status="is-danger"
   icon="far fa-thumbs-down"
   %}
-
-<br />
 
 {% include button.html
   message="Descargar LMMS"
@@ -82,7 +80,6 @@ message= " **Pros**:
   icon="far fa-thumbs-up"
   %}
 
-  <br />
   {% include notification.html
   message= " **Cons**:
 
@@ -94,16 +91,12 @@ message= " **Pros**:
   icon="far fa-thumbs-down"
   %}
 
-<br />
-
 {% include button.html
   message="Descargar Waveform Free"
   link="https://www.tracktion.com/products/waveform-free"
   icon=''
   style="is-outlined is-fullwidth"
 %}
-
-<br />
 
 {% include button.html
   message="Playlist de tutoriales"
@@ -133,7 +126,6 @@ message= " **Pros**:
   modifier="is-light"
   icon="far fa-thumbs-up"
   %}
-  <br />
 
 {% include notification.html
 message= " **Cons**:
@@ -146,8 +138,6 @@ message= " **Cons**:
   status="is-danger"
   icon="far fa-thumbs-down"
   %}
-
-<br />
 
 {% include button.html
   message="Descargar ohmstudio"
@@ -217,8 +207,6 @@ message= " **Pros**:
     icon="far fa-thumbs-down"
     %}
 
-<br />
-
 {% include button.html
   message="Descargar Bandlab Cakewalk"
   link="https://www.bandlab.com/products/cakewalk"
@@ -248,8 +236,6 @@ message= " **Pros**:
   icon="far fa-thumbs-up"
   %}
 
-<br />
-
 {% include notification.html
 message= " **Cons**:
 
@@ -258,7 +244,6 @@ status="is-danger"
 modifier="is-light"
 icon="far fa-thumbs-down"
 %}
-<br />
 
 {% include button.html
   message="Tutoriales MPC Beats"
@@ -267,7 +252,7 @@ icon="far fa-thumbs-down"
   status='is-dark'
   style="is-outlined is-fullwidth"
 %}
-<br />
+
 {% include button.html
   message="Descargar MPC Beats"
   link="https://www.akaipro.com/mpc-beats"
@@ -297,10 +282,8 @@ message= " **Pros**:
   icon="far fa-thumbs-up"
   %}
 
-<br />
-  
 {% include notification.html
-    message= " **Cons**:
+message= " **Cons**:
 
 - No es compatible con plugins externos
 - Performance es un mas bajo que si un DAW nativo
@@ -310,7 +293,6 @@ message= " **Pros**:
   modifier="is-light"
   icon="far fa-thumbs-down"
   %}
-  <br />
 
 {% include button.html
   message="Probar Bandlab"
@@ -356,8 +338,6 @@ message= " **Pros**:
   icon="far fa-thumbs-up"
   %}
 
-<br />
-
 {% include notification.html
 message= " **Cons**:
 
@@ -368,7 +348,6 @@ message= " **Cons**:
   modifier="is-light"
   icon="far fa-thumbs-down"
   %}
-  <br />
 
 {% include button.html
   message="Descargar Pro Tools First"
@@ -394,8 +373,6 @@ message= " **Pros**:
   icon="far fa-thumbs-up"
   %}
 
-<br />
-
 {% include notification.html
 message= " **Cons**:
 
@@ -406,7 +383,6 @@ message= " **Cons**:
   modifier="is-light"
   icon="far fa-thumbs-down"
   %}
-  <br />
 
 {% include button.html
   message="Descargar Studio One Prime"
@@ -447,7 +423,6 @@ message= " **Pros**:
   modifier="is-light"
   icon="far fa-thumbs-up"
   %}
-  <br />
 
 {% include notification.html
 message= " **Cons**:
@@ -460,8 +435,6 @@ message= " **Cons**:
   status="is-danger"
   icon="far fa-thumbs-down"
   %}
-
-<br />
 
 {% include button.html
   message="GarageBand macOS AppStore"
