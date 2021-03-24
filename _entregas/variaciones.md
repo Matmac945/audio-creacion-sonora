@@ -31,6 +31,11 @@ Las melodías tienen que ser reconocibles, pero se deben percibir los cambios y 
 - Buen manejo de la tonalidad y las escalas y hace un uso apropiado de estos recursos **30%**
 - Describe y entiende con propiedad las diferencias entre tonalidad y escala y puede explicar con confianza las variaciones realizadas a la melodía y armonía **40%**
 
+{% include button.html
+message='Descargar ejemplo de variaciones con modos'
+link='https://www.dropbox.com/sh/wb3qilidelduqwf/AAA6lyb6gFesXVNztF4dLBdIa?dl=1'
+icon=''%}
+
 {% include notification.html
 message = "Esta entrega vale el **20%** de la nota final del curso"
 status="is-info"
@@ -42,14 +47,14 @@ icon="fas fa-rocket"
 
 ### Fecha
 
-Lunes 5 de abril del 2019
+Lunes 7 de abril del 2021
 
 <!-- Miercoles 24 de Febrero hasta las 11:59. A.M - **ANTES DE LA CLASE!** -->
 
 {% include notification.html
 message= "**RECORDAR** en caso de
 **NO** entregar el trabajo luego de esta fecha se le
-calificara sobre 4 hasta las 11:59 p.m del lunes 12 de
+calificara sobre 4 hasta las 11:59 p.m del miercoles 14 de
 abril. En caso de no subir la entrega para esa fecha el trabajo
 queda en **0**"
 status="is-danger"
