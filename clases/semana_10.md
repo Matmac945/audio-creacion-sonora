@@ -60,26 +60,13 @@ _24 de marzo del 2021_
 
 #### Resumen
 
-<div class='columns'>
-    <div class='column'>
-    {% include button.html
+{% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210324_120627-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
 disabled='true'
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
-%}
-    </div>
-</div>
 
 ---
 
