@@ -57,3 +57,7 @@ disabled='true'
 ### Videos
 
 {% include youtube.html video='KxWQ-oR7Q_Y' %}
+
+Este segundo video es un excelente ejemplo de como diferentes compositores realizan un trabajo de produccion y composicion.
+
+{% include youtube.html vide='EPlN_ev6Qk4' %}
