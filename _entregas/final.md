@@ -60,4 +60,8 @@ disabled='true'
 
 Este segundo video es un excelente ejemplo de como diferentes compositores realizan un trabajo de produccion y composicion.
 
-{% include youtube.html vide='EPlN_ev6Qk4' %}
+{% include youtube.html video='EPlN_ev6Qk4' %}
+
+Aqui Christian Henson fundador de Spitfire hace una disección completa de su composicion y enseña como el usa spitfire LABS en un entorno de produccion musical profesional. Toda la producción esta hecha con sonidos y plugins gratuitos!
+
+{% include youtube.html video='7Q_MgT92erw' %}
