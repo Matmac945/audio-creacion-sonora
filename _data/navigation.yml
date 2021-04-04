@@ -38,6 +38,8 @@
       link: /entregas/final/
     - name: Retratos sonoros de los estudiantes
       link: /estudiantes_21_1/retrato_sonoro/
+    - name: Final de los estudiantes
+      link: /estudiantes_21_1/final/
 - name: Recursos
   link: /recursos_gratuitos/
   dropdown:
