@@ -102,4 +102,8 @@ icon="fas fa-exclamation-triangle"
 
 {% include youtube.html video='TIfcc5IZu-g'%}
 
+En este video se dan 7 técnicas de para _"mejorar"_ las progresiones de acordes que hayan creado.
+
+{% include youtube.html video='rUwh459aGfo'%}
+
 <!-- ### Ejemplos de retratos sonoros -->

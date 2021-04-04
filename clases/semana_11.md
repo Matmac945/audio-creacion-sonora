@@ -18,13 +18,15 @@ _5 de abril del 2021_
 
 <!-- ignore-prettier-end -->
 
+#### Resumen
+
 - Repaso de teoria musical
 - Competencia Kahoot:
   - 1er puesto: 0.5 extra y sorpresa
   - 2do puesto: 0.3 extra
   - 3er puesto: 0.2 extra
 
-#### Resumen
+El proposito de esta clase es dar una revisión a todos los temas de teoria musical vista durante el curso y resolver las dudas que hayan quedado en el camino. Asi mismo afianzar un poco más este contenido para comenzar la producción del final.
 
 <div class='columns'>
     <div class='column'>
@@ -38,10 +40,10 @@ disabled='true'
     </div>
     <div class='column'>
     {% include button.html
-message="Diapositivas de la clase"
+message="Kahoot"
 link=""
-icon="far fa-file-powerpoint"
-style=""
+icon="fas fa-link"
+style="is-warning"
 disabled='true'
 %}
     </div>
@@ -60,30 +62,15 @@ _7 de abril del 2021_
 
 #### Resumen
 
-Introducción a la producción musical
+Entrega variaciones
 
-Efectos, edición y mezcla y master
-
-<div class='columns'>
-    <div class='column'>
-    {% include button.html
+{% include button.html
 message="Grabación de la clase"
 link=""
 icon="fas fa-file-video"
 style=""
 disabled='true'
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
-%}
-    </div>
-</div>
 
 ---
 
