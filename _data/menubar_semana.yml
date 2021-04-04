@@ -21,21 +21,21 @@
     - name: Semana 10
       link: /clases/semana_10/
     - name: Semana 11
-      link: /clases/semana_11
+      link: /clases/semana_11/
     # - name: Semana 12
-    #   link: /clases/semana_12
+    #   link: /clases/semana_12/
     # - name: Semana 13
-    #   link: /clases/semana_13
+    #   link: /clases/semana_13/
     # - name: Semana 14
-    #   link: /clases/semana_14
+    #   link: /clases/semana_14/
     # - name: Semana 15
-    #   link: /clases/semana_15
+    #   link: /clases/semana_15/
     # - name: Semana 16
-    #   link: /clases/semana_16
+    #   link: /clases/semana_16/
     # - name: Semana 17
-    #   link: /clases/semana_17
+    #   link: /clases/semana_17/
     # - name: Semana 18
-    #   link: /clases/semana_18
+    #   link: /clases/semana_18/
 - label: Entregas
   items:
     - name: Retrato Sonoro
