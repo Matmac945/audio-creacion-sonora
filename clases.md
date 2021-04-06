@@ -168,14 +168,36 @@ _Abril 5 al 9_
 
 - **[Entrega III Variaciones](/audio-creacion-sonora/entregas/variaciones/)**
 
-<!--  -->
-<!-- #### [Semana 12](semana_12) -->
+#### [Semana 12](semana_12)
+
+<!-- prettier-ignore-start -->
+_Abril 12 al 16_
+{: .has-text-grey-light}
+<!-- prettier-ignore-end -->
+
+- Introduccion a la producción musical
+
 <!--  -->
 <!-- #### [Semana 13](semana_13) -->
+<!-- prettier-ignore-start -->
+<!-- _Abril 19 al 23_
+{: .has-text-grey-light} -->
+<!-- prettier-ignore-end -->
+
 <!--  -->
 <!-- #### [Semana 14](semana_14) -->
+<!-- prettier-ignore-start -->
+<!-- _Abril 26 al 30_
+{: .has-text-grey-light} -->
+<!-- prettier-ignore-end -->
+
 <!--  -->
 <!-- #### [Semana 15](semana_15) -->
+<!-- prettier-ignore-start -->
+<!-- _Mayo 3 al 7_
+{: .has-text-grey-light} -->
+<!-- prettier-ignore-end -->
+
 <!--  -->
 <!-- #### [Semana 16](semana_16) -->
 <!--  -->

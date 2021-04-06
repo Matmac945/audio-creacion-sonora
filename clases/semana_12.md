@@ -9,11 +9,11 @@ menubar: menubar_semana
 
 ---
 
-### Lunes - clase 13
+### Lunes - clase 19
 
 <!-- ignore-prettier-start -->
 
-_15 de marzo del 2021_
+_12 de abril del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
@@ -45,11 +45,11 @@ disabled='true'
 
 ---
 
-### Miercoles - clase 14
+### Miercoles - clase 20
 
 <!-- ignore-prettier-start -->
 
-_17 de marzo del 2021_
+_14 de abril del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->

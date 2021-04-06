@@ -106,4 +106,8 @@ En este video se dan 7 técnicas de para _"mejorar"_ las progresiones de acordes
 
 {% include youtube.html video='rUwh459aGfo'%}
 
+Efectos emocionales de los modos
+
+{% include youtube.html video='8i7K9GYzbIY'%}
+
 <!-- ### Ejemplos de retratos sonoros -->

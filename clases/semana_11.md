@@ -9,7 +9,7 @@ menubar: menubar_semana
 
 ---
 
-### Lunes - clase 13
+### Lunes - clase 17
 
 <!-- ignore-prettier-start -->
 
@@ -49,7 +49,7 @@ style="is-warning"
 
 ---
 
-### Miercoles - clase 14
+### Miercoles - clase 18
 
 <!-- ignore-prettier-start -->
 
