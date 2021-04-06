@@ -32,7 +32,7 @@ El proposito de esta clase es dar una revisión a todos los temas de teoria musi
     <div class='column'>
     {% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210405_120454-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
 disabled='true'
@@ -40,8 +40,8 @@ disabled='true'
     </div>
     <div class='column'>
     {% include button.html
-message="Kahoot"
-link=""
+message="Kahoot WIP"
+link="https://create.kahoot.it/share/creacion-sonora/18b2b594-11ee-4f1c-9113-3360d7d6def2"
 icon="fas fa-link"
 style="is-warning"
 disabled='true'
