@@ -35,7 +35,6 @@ message="Grabación de la clase"
 link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210405_120454-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
-disabled='true'
 %}
     </div>
     <div class='column'>
@@ -44,7 +43,6 @@ message="Kahoot WIP"
 link="https://create.kahoot.it/share/creacion-sonora/18b2b594-11ee-4f1c-9113-3360d7d6def2"
 icon="fas fa-link"
 style="is-warning"
-disabled='true'
 %}
     </div>
 </div>
@@ -64,14 +62,25 @@ _7 de abril del 2021_
 
 Entrega variaciones
 
-{% include button.html
+<div class='columns'>
+    <div class='column'>
+    {% include button.html
 message="Grabación de la clase"
 link=""
 icon="fas fa-file-video"
 style=""
 disabled='true'
 %}
-
+    </div>
+    <div class='column'>
+    {% include button.html
+message="Enunciado de la entrega"
+link="/audio-creacion-sonora/entregas/variaciones/"
+icon="fas fa-link"
+style="is-success"
+%}
+    </div>
+</div>
 ---
 
 {% include notification.html

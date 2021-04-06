@@ -61,7 +61,7 @@ style=""
 <div class='column'>
 {% include button.html
 message="Entregas"
-link="/entregas/estudiantes_21_1/retrato_sonoro"
+link="/audio-creacion-sonora/estudiantes_21_1/retrato_sonoro"
 icon="fas fa-seedling"
 status='is-success'
 style=""
