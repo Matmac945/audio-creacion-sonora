@@ -20,7 +20,7 @@ _12 de abril del 2021_
 
 #### Resumen
 
-- Entrega melodias y Armonias
+- Introducción a la producción musical
 
 <div class='columns'>
     <div class='column'>
@@ -76,6 +76,11 @@ disabled='true'
 %}
     </div>
 </div>
+
+### Videos
+
+{% include youtube.html video="x7uQReA6o8M" %}
+{% include youtube.html video="AXnVp2zLTYY" %}
 
 ---
 
