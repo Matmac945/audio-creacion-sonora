@@ -20,28 +20,15 @@ _12 de abril del 2021_
 
 #### Resumen
 
+- Revisión de entregas
 - Introducción a la producción musical
 
-<div class='columns'>
-    <div class='column'>
-    {% include button.html
+{% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/RecordingsIntroduccion%20a%20la%20produccion%20musical-20210412_121729-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?web=1"
 icon="fas fa-file-video"
 style=""
-disabled='true'
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
-%}
-    </div>
-</div>
 
 ---
 
@@ -56,26 +43,18 @@ _14 de abril del 2021_
 
 #### Resumen
 
-<div class='columns'>
-    <div class='column'>
-    {% include button.html
+- Deconstrucción de una sesión
+- Creación de lineas de bajo, acordes y primer acercamiento a:
+  - Modulaciones
+  - Automatizaciones
+  - Flujos de trabajo de composición
+
+{% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210414_120810-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?web=1"
 icon="fas fa-file-video"
 style=""
-disabled='true'
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
-%}
-    </div>
-</div>
 
 ### Videos
 

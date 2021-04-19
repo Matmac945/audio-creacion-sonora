@@ -20,7 +20,21 @@ _19 de abril del 2021_
 
 #### Resumen
 
-- Entrega melodias y Armonias
+- Síntesis:
+  - Que es la _Síntesis_
+  - Compopnentes de un sintetizador
+  - Tipos de síntesis:
+    - Aditiva
+    - Substractiva
+    - AM/FM
+    - Physical modeling
+    - Granular
+  - Diferencia entre síntesis y sampler
+
+{% include notification.html
+message=" **SUGERENCIA**: ir la pagina de ableton para aprender de síntesis y hacer los tutoriales para entender como funciona la síntesis con ejercicios prácticos."
+modifier="is-light"
+icon="far fa-lightbulb"%}
 
 <div class='columns'>
     <div class='column'>
@@ -34,11 +48,10 @@ disabled='true'
     </div>
     <div class='column'>
     {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
+message="Ejercicios de práctica"
+link="https://learningsynths.ableton.com/es"
+icon="fas fa-dumbbell"
+style="is-warning"
 %}
     </div>
 </div>

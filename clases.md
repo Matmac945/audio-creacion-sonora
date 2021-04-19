@@ -177,12 +177,30 @@ _Abril 12 al 16_
 
 - Introduccion a la producción musical
 
-<!--  -->
-<!-- #### [Semana 13](semana_13) -->
+- Analizis de un proyecto y vision general de conceptos:
+  - Modulación
+  - Balance
+  - Composición
+  - Flujos de trabajo
+  - Diseño de soniido
+
+#### [Semana 13](semana_13)
+
 <!-- prettier-ignore-start -->
-<!-- _Abril 19 al 23_
-{: .has-text-grey-light} -->
+_Abril 19 al 23_
+{: .has-text-grey-light}
 <!-- prettier-ignore-end -->
+
+- Síntesis:
+  - Que es la _Síntesis_
+  - Compopnentes de un sintetizador
+  - Tipos de síntesis:
+    - Aditiva
+    - Substractiva
+    - AM/FM
+    - Physical modeling
+    - Granular
+  - Diferencia entre síntesis y sampler
 
 <!--  -->
 <!-- #### [Semana 14](semana_14) -->
