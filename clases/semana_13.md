@@ -30,6 +30,7 @@ _19 de abril del 2021_
     - Physical modeling
     - Granular
   - Diferencia entre síntesis y sampler
+- Tipos (formatos de sintetizadores):
 
 {% include notification.html
 message=" **SUGERENCIA**: ir la pagina de ableton para aprender de síntesis y hacer los tutoriales para entender como funciona la síntesis con ejercicios prácticos."
@@ -69,6 +70,15 @@ _21 de abril del 2021_
 
 #### Resumen
 
+- Diseño de sonido:
+  - Porque es importante
+  - Trucos y técnicas
+  - Flujos de trabajo para el diseño de sonido y la producción de música
+- Samplear de Sintetizadores virtuales
+- Warp Modes en Ableton Live
+- Modulación y automatizaciones en sonidos
+- Efectos de sonido
+
 <div class='columns'>
     <div class='column'>
     {% include button.html
@@ -89,6 +99,20 @@ disabled='true'
 %}
     </div>
 </div>
+
+### Videos
+
+{%include youtube.html video="GXQHiozYGTE"%}
+{%include youtube.html video="R30L1fIKzpU"%}
+{%include youtube.html video="vvBl3YUBUyY"%}
+Primer video de la serie sobre síntesis de Reverb.com.
+{%include youtube.html video="xyVFIPtOsm8"%}
+{% include button.html
+message="Playlist Completa _Intro To Synthesis_"
+link="https://www.youtube.com/watch?v=xyVFIPtOsm8&list=PLHL1h7OSy4scVqd8DtnsxHIJdNvtw7ST0"
+icon="fas fa-file-video"
+style="is-warnimn"
+%}
 
 ---
 
