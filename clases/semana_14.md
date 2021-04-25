@@ -13,14 +13,14 @@ menubar: menubar_semana
 
 <!-- ignore-prettier-start -->
 
-_15 de marzo del 2021_
+_26 de abril del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-- Entrega melodias y Armonias
+- Sampling, Samplers y diseño de sonido
 
 <div class='columns'>
     <div class='column'>
@@ -49,12 +49,14 @@ disabled='true'
 
 <!-- ignore-prettier-start -->
 
-_17 de marzo del 2021_
+_28 de abril del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
+
+- La mazcla
 
 <div class='columns'>
     <div class='column'>

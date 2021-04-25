@@ -200,14 +200,24 @@ _Abril 19 al 23_
     - AM/FM
     - Physical modeling
     - Granular
-  - Diferencia entre síntesis y sampler
+- Warping modes y casos de uso
+- Modulaciones en Reaper
 
-<!--  -->
-<!-- #### [Semana 14](semana_14) -->
+#### [Semana 14](semana_14)
+
 <!-- prettier-ignore-start -->
-<!-- _Abril 26 al 30_
-{: .has-text-grey-light} -->
+_Abril 26 al 30_
+{: .has-text-grey-light}
 <!-- prettier-ignore-end -->
+
+- Sampling, samplers:
+  - MPC Beats
+  - Drum racks
+  - Impulse
+  - Kontakt
+- Principios de Mezcla:
+  - Balance
+  - Planeación
 
 <!--  -->
 <!-- #### [Semana 15](semana_15) -->
