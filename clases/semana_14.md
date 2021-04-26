@@ -56,7 +56,7 @@ _28 de abril del 2021_
 
 #### Resumen
 
-- La mazcla
+- La mezcla
 
 <div class='columns'>
     <div class='column'>

@@ -3,10 +3,37 @@ layout: page_mod_wide
 title: Preguntas frecuentes
 subtitle: con respecto al DAW, plugins y producción musical en general
 menubar_toc: true
+hero_image: ../img/faq/faq_banner_3.jpg
+hero_darken: true
 toc_title: INDICE
 ---
 
-## No puedo cargar samples en Ableton Live
+# 📝Aclaraciónes
+
+La mejor guía para solucionar problemas con cualquier programa es dirigirse directamente al manual del usuario. En la mayoria de los casos el problema que se esta viviendo el equipo de desarrollo ya encontro una solución y esta se encuentra registrada en el manual.
+
+En esta sección se daran referencias a links con soluciones a problemas comunes que se puede enfrentar un estudiante durante el desarrollo del curso, pero en caso de no encontrar su problema listado en esta página intente hacer una busqueda en google describiendo su problema, preferiblemente en ingles ya que suele obtener mejores resultados. Si todavia sigue sin encuentrar una solución a su problema escriba un correo a **matias.macias@upb.edu.co**.
+
+<div class="columns">
+<div class="column">
+{% include button.html
+  message="Manual de usuario - REAPER"
+  link="https://www.reaper.fm/userguide.php"
+  icon="fas fa-link"
+  status="is-success"
+%}
+</div>
+<div class="column">
+{% include button.html
+  message="Manual de usuario - Ableton Live"
+  link="https://help.ableton.com/hc/en-us/articles/206769450-Live-Manual"
+  icon="fas fa-link"
+  status="is-dark"
+%}
+</div>
+</div>
+
+## Problemas al cargar samples en Ableton Live
 
 En algunas ocasiones cuando intentamos cargar archivos de musica a Ableton Live recibiremos el siguiente mensaje:
 
@@ -21,9 +48,34 @@ En este caso lo mejor es seguir la [guía](https://help.ableton.com/hc/en-us/art
   status="is-dark"
 %}
 
+## Problemas para cargar videos en Ableton Live en Windows
+
+Es muy común encontrarso con problemas al momento de intentar cargar,reproducir o exportar videos con Ableton Live, ya que windows no viene preparado con todos los codecs necesarios para manejar este flujo de trabajo. La guía completa para configurar Windows con los codecs necesarios y como solucionar los problemas más comunes se encuentran en el manual de usuario de Ableton Live.
+
+En los links de abajo puede llegar a las secciones específicas del manual que le ayudaran a solucionar los problemas relacionados con el trabajo con video en Ableton Live
+
+<div class="columns">
+<div class="column">
+{% include button.html
+  message="Trabajando con video en Ableton Live"
+  link="https://help.ableton.com/hc/en-us/articles/209773125-Using-Video"
+  icon="fas fa-link"
+  status="is-dark"
+%}
+</div>
+<div class="column">
+{% include button.html
+  message="Solucionar problemas con los videos en Ableton Live"
+  link="https://help.ableton.com/hc/en-us/articles/360002133319-Troubleshooting-issues-with-Video"
+  icon="fas fa-link"
+  status="is-dark"
+%}
+</div>
+</div>
+
 ## Latencia
 
-Si esta teniendo problemas de latencia _(un retardo en el tiempo entre oprimir una tecla del piano o hablar por el micrófono y el momento en el cual se reproduce el sonido a traves de los audifonos o parlantes)_. Si esta utilizando windows y no tiene una interface de audio lo más probable es que este problema sea a causa de los drivers de que esta utilizando, por suerte tiene una solucion sencilla y solo reuiqere instalar un driver gratuito y configurarlo correctamente.
+Si esta teniendo problemas de latencia _(un retardo en el tiempo entre oprimir una tecla del piano o hablar por el micrófono y el momento en el cual se reproduce el sonido a traves de los audifonos o parlantes)_. Si esta utilizando windows y no tiene una interface de audio lo más probable es que este problema sea a causa de los drivers de que esta utilizando, por suerte tiene una solución sencilla y solo reuiqere instalar un driver gratuito y configurarlo correctamente.
 
 Por otro lado si utilizando OSX lo mas probables es que el problema este en la configuración de su DAW y la solución es aun más sencilla ya que no requiere descargar ningún software externo y es solo cambiar un par de opciones dentro de las preferencias de su DAW.
 

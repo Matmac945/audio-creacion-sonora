@@ -20,7 +20,7 @@ _15 de marzo del 2021_
 
 #### Resumen
 
-- Entrega melodias y Armonias
+- Retroalimentación sobre el curso
 
 <div class='columns'>
     <div class='column'>

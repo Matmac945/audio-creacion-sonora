@@ -20,8 +20,6 @@ _15 de marzo del 2021_
 
 #### Resumen
 
-- Entrega melodias y Armonias
-
 <div class='columns'>
     <div class='column'>
     {% include button.html
