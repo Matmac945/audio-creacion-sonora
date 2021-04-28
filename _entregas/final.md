@@ -19,7 +19,7 @@ Preparar una presentacion sobre el trabajo de musicalizacion y sonorización de 
 - Objetivos narrativos y emocionales
 - Teoria músical aplicada a la hora de componer la pieza
 - Técnicas utilizadas (mezcla y/o diseño sonoro)
-- Por qué las decisiones que tomo son las apropiadas para el video en cuestion
+- Por qué las decisiones que tomo sobre la música son las apropiadas para el video que eligio
 
 La presentación tiene una duración aproximada 8 minutos, 5 de presentación y 3 de preguntas realizadas por los estudiantes o el profesor.
 
@@ -48,10 +48,10 @@ Entrega del proyecto de Reaper o Ableton Live en el cual se realizo el trabajo f
 
 En caso de utilizar sintetizadores o plugins 3rd party diferentes a los incluidos en la página del curso, el estudiante debe de _congelar_ o renderizar la pistas en el proyecto y guardar una version que se pueda abrir en cualquier computador independiente de los plugins que esten instalados.
 
-Subir video a Youtube del trabajo final realizado por el estudiante.
+Subir a Youtube el video del proyecto final.
 
-- Duracion minima 2:30 min
-- Link del video se debe de ingresar en la tabla de google a la cual se puede acceder con el boton de abajo **ANTES** de la hora
+- Duración mínima 2:30 min
+- Link del video se debe de ingresar en la tabla de Google Sheets.
 - La entrega se realizara en el orden de la lista!
 
 ### Rúbricas:
@@ -65,9 +65,10 @@ Subir video a Youtube del trabajo final realizado por el estudiante.
 message="**IMPORTANTE 🚨**:
 
 - En caso de que la carpeta no contenga los archivos necesarios para ver el proyecto, **la entrega pasa automaticamente a ser calificada sobre 3**
-- Esta entrega **NO** tiene plazo extra, aquel estudiante que no entregue el final en la fecha indicada quedara con un **0.0** en el final
-- El video debe de estar en youtube y funcional a la hora de la entrega, en caso de no poder reproducir el video, el estudiante tiene el tiempo de la clase para solucionar el problema, en caso de que no lo logre resolver la situación el trabajo queda en **0.0**
+- Esta entrega **NO** tiene plazo extra, estudiante que no entregue el final en la fecha y hora indicada se le calificara con un **0.0** en el **40%** del curso.
+- El video debe de estar en Youtube a la hora de la entrega, en caso de no poder reproducir el video, el estudiante tiene el tiempo de la clase para solucionar el problema, en caso de que no lo logre resolver la situación el trabajo queda en **0.0**
 - Trabajo que se envie de forma incorrecta tendra una penalización de -0.5 en la nota final
+- La presentación debe de contener en la última diapositiva un link al video de Youtube
   "
   status="is-danger"
   icon="fas fa-info"
@@ -84,21 +85,40 @@ icon="fas fa-rocket"
 
 ### Fecha
 
-_Semana de finales, fecha exacta esta por definir_
+**Miercoles 19 de mayo del 2021 a las 12 p.m**
 
 ### Formato
 
-Publicar video con el Final en YouTube y pegar el link
+Publicar video con del proyecto final en YouTube y pegar el link
 del video en la celda correspondiente junto a su nombre en la
 siguiente tabla.
 
+La sesión debe de estar en un archivo .zip nombrado con el nombre de cada estudiante `matias_matias_final.zip` y dentro debe de contener todos los samples utilizados durante la producción, las sesión y las diapositivas utilizadas en la presentación en formato PDF.
+
+{%include notification.html
+message="**NOTA:** Todas las pistas que utilicen plugins de terceros que no esten incluidos en las recomendaciones del curso deberan de estar renderizadas."
+icon=""
+modifier="is-light"%}
+
+<div class="columns">
+<div class="column">
 {% include button.html
-message="TABLA PARA LA ENTREGA"
+message="AGREGAR LINK DE YOUTUBE"
 link="https://docs.google.com/spreadsheets/d/1k0dTZTnIsHELf4R5Ziu10da8uDB56Nanr6HXfO58KLM/edit?usp=sharing"
-icon="fas fa-link"
-style="is-outlined is-fullwidth is-danger"
-disabled='true'
+icon="fab fa-youtube"
+style="is-outlined is-danger"
+disabled="true"
 %}
+</div>
+<div class="column">
+{% include button.html
+message="SESIÓN COMPLETA"
+link="https://forms.gle/HDVp2cxKgSnAVGCQ8"
+icon="fas fa-upload"
+disabled="true"
+%}
+</div>
+</div>
 
 ---
 
