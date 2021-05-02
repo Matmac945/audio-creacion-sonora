@@ -61,6 +61,7 @@ link="https://docs.google.com/spreadsheets/d/1uuZOdC44RGaI8P29ksCaNb9oMW98HtTNmm
 icon="fas fa-link"
 style="is-outlined is-fullwidth is-danger"
 modifier='is-light'
+disabled="true"
 %}
 
 {% include notification.html

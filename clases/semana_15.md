@@ -13,14 +13,14 @@ menubar: menubar_semana
 
 <!-- ignore-prettier-start -->
 
-_15 de marzo del 2021_
+_3 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-- Entrega melodias y Armonias
+- Mezcla 1
 
 <div class='columns'>
     <div class='column'>
@@ -49,12 +49,14 @@ disabled='true'
 
 <!-- ignore-prettier-start -->
 
-_17 de marzo del 2021_
+_5 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
+
+- Mezcla 2
 
 <div class='columns'>
     <div class='column'>

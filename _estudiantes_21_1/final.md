@@ -19,7 +19,7 @@ _mayo del 2021_
 #### Enunciado del trabajo
 
 {% include notification.html
-message=''
+message='Componer, producir la banda sonora de un video con una duración minima de 2:30 min el cual puede ser pero no esta limitado a: un trailer, un corto, una sección de una pelicula o serie.'
 status='is-primary'
 modifier='is-light'
 icon='far fa-eye'

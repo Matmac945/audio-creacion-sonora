@@ -211,25 +211,47 @@ _Abril 26 al 30_
 <!-- prettier-ignore-end -->
 
 - Sampling, samplers:
+
   - MPC Beats
   - Drum racks
   - Impulse
   - Kontakt
-- Principios de Mezcla:
-  - Balance
-  - Planeación
 
-<!--  -->
-<!-- #### [Semana 15](semana_15) -->
+- De Loop a canción
+
+  - Técnicas para convertir un loop, compuesto por varios instrumentos a una canción completa:
+
+#### [Semana 15](semana_15)
+
 <!-- prettier-ignore-start -->
-<!-- _Mayo 3 al 7_
-{: .has-text-grey-light} -->
+
+_Mayo 3 al 7_
+{: .has-text-grey-light}
+
+- Mezcla
+- Mezcla 2
 <!-- prettier-ignore-end -->
 
 <!--  -->
-<!-- #### [Semana 16](semana_16) -->
+
+#### [Semana 16](semana_16)
+
+_Mayo 10 al 14_
+{: .has-text-grey-light}
+
+- Masterización
+- Asesoria de trabajos finales y exploración de areas afines a la Creación Sonora
+
 <!--  -->
-<!-- #### [Semana 17](semana_17) -->
+
+#### [Semana 17](semana_17)
+
+_Mayo 17 al 21_
+{: .has-text-grey-light}
+
+- Revisión y retro alimentación del curso
+- Miercoles 21 de Mayo [ENTREGA IV FINAL](/audio-creacion-sonora/entregas/final/)
+
 <!--  -->
 <!-- #### [Semana 18](semana_18) -->
 <!--  -->

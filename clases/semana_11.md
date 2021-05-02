@@ -36,15 +36,17 @@ link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Docume
 icon="fas fa-file-video"
 style=""
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Kahoot WIP"
-link="https://create.kahoot.it/share/creacion-sonora/18b2b594-11ee-4f1c-9113-3360d7d6def2"
-icon="fas fa-link"
-style="is-warning"
+</div>
+<div class='column'>
+
+{% include button.html
+  message="Kahoot WIP"
+  link="https://create.kahoot.it/share/creacion-sonora/18b2b594-11ee-4f1c-9113-3360d7d6def2"
+  icon="fas fa-link"
+  status="is-dark"
 %}
-    </div>
+
+</div>
 </div>
 
 ---
@@ -66,10 +68,9 @@ Entrega variaciones
     <div class='column'>
     {% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Entrega%20Variaciones-20210407_121041-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
-disabled='true'
 %}
     </div>
     <div class='column'>
@@ -77,9 +78,12 @@ disabled='true'
 message="Enunciado de la entrega"
 link="/audio-creacion-sonora/entregas/variaciones/"
 icon="fas fa-link"
-style="is-success"
+style="is-success is-outlined"
+
 %}
-    </div>
+
+</div>
+
 </div>
 
 ### Videos

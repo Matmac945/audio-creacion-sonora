@@ -31,6 +31,12 @@
       link: /clases/semana_13/
     - name: Semana 14
       link: /clases/semana_14/
+    - name: Semana 15
+      link: /clases/semana_15/
+    - name: Semana 16
+      link: /clases/semana_16/
+    - name: Semana 17
+      link: /clases/semana_17/
 - name: Entregas
   link: /entregas/
   dropdown:

@@ -13,12 +13,14 @@ menubar: menubar_semana
 
 <!-- ignore-prettier-start -->
 
-_15 de marzo del 2021_
+_10 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
+
+- Masterización
 
 <div class='columns'>
     <div class='column'>
@@ -47,12 +49,14 @@ disabled='true'
 
 <!-- ignore-prettier-start -->
 
-_17 de marzo del 2021_
+_12 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
+
+- Areas afines a la creación sonora y asesorias sobre la entrega final
 
 <div class='columns'>
     <div class='column'>

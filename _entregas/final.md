@@ -12,9 +12,15 @@ image: /audio-creacion-sonora/img/jpg/final.jpg
 
 ---
 
-### Enunciado parte I- Presentación:
+### Enunciado
 
-Preparar una presentacion sobre el trabajo de musicalizacion y sonorización de la pieza audiovisual en la cual se explique:
+Componer, producir la banda sonora de un video con una duración minima de 2:30 min el cual puede ser pero no esta limitado a: un trailer, un corto, una sección de una pelicula o serie.
+
+Todo el componente sonoro debe de ser compuesto y producido por el estudiante y para soportar el trabajo debera de entregar la sesión en ableton live o Reaper y hacer una presentacion en la cual se cuenta el proceso creativo que siguio para llegar al producto final.
+
+### Entrega parte I- Presentación:
+
+Preparar una presentación sobre el trabajo de musicalización y sonorización de la pieza audiovisual en la cual se explique:
 
 - Objetivos narrativos y emocionales
 - Teoria músical aplicada a la hora de componer la pieza
@@ -23,7 +29,7 @@ Preparar una presentacion sobre el trabajo de musicalizacion y sonorización de 
 
 La presentación tiene una duración aproximada 8 minutos, 5 de presentación y 3 de preguntas realizadas por los estudiantes o el profesor.
 
-La presentacion debe de estar acompañada por un apoyo visual, y no es valido unicamente abrir la sesion de Ableton Live o Reaper.
+La presentación debe de estar acompañada por un apoyo visual, y no es valido únicamente abrir la sesión de Ableton Live o Reaper.
 
 ### Rúbricas:
 
@@ -42,11 +48,11 @@ icon="fas fa-rocket"
 
 ---
 
-### Enunciado parte II - Producción Sonora:
+### Entrega parte II - Producción Sonora:
 
 Entrega del proyecto de Reaper o Ableton Live en el cual se realizo el trabajo final, un link al video a youtube, y todos los samples y sonidos utilizados en la producción.
 
-En caso de utilizar sintetizadores o plugins 3rd party diferentes a los incluidos en la página del curso, el estudiante debe de _congelar_ o renderizar la pistas en el proyecto y guardar una version que se pueda abrir en cualquier computador independiente de los plugins que esten instalados.
+En caso de utilizar sintetizadores o plugins 3rd party diferentes a los incluidos en la página del curso, el estudiante debe de _congelar_ o renderizar la pistas en el proyecto y guardar una versión que se pueda abrir en cualquier computador independiente de los plugins que esten instalados.
 
 Subir a Youtube el video del proyecto final.
 

@@ -13,7 +13,7 @@ menubar: menubar_semana
 
 <!-- ignore-prettier-start -->
 
-_15 de marzo del 2021_
+_17 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
@@ -49,32 +49,38 @@ disabled='true'
 
 <!-- ignore-prettier-start -->
 
-_17 de marzo del 2021_
+_19 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
+{%include notification.html
+message="**Entrega Final**  🎉🎉🎉"
+status="is-success"
+icon="far fa-calendar-check"
+modifier="is-light"%}
+
 <div class='columns'>
-    <div class='column'>
-    {% include button.html
-message="Grabación de la clase"
-link=""
-icon="fas fa-file-video"
-style=""
-disabled='true'
+<div class='column'>
+{% include button.html
+  message="Grabación de la clase"
+  link=""
+  icon="fas fa-file-video"
+  style=""
+  disabled='true'
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
+</div>
+
+<div class='column'>
+{% include button.html
+  message="Entregas finales"
+  link="/audio-creacion-sonora/estudiantes_21_1/final/"
+  icon="fas fa-file-video"
+  style="is-success is-outlined"
 %}
-    </div>
+</div>
 </div>
 
 ---
