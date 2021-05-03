@@ -149,7 +149,9 @@ _Marzo 22 al 26_
   - Dórico
   - Frigio
   - Eólico
-  - _Locrio_\*
+  - _Locrio_
+
+#### [Semana 11](semana_11)
 
 {% include notification.html
 message=' **_Marzo 29 al 2 de abril_**  receso por semana santa **NO** hay clases!. Descansen :)'
@@ -157,7 +159,7 @@ status='is-info'
 modifier='is-light'
 icon='fas fa-info'%}
 
-#### [Semana 11](semana_11)
+#### [Semana 12](semana_12)
 
 <!-- prettier-ignore-start -->
 _Abril 5 al 9_
@@ -168,23 +170,23 @@ _Abril 5 al 9_
 
 - **[Entrega III Variaciones](/audio-creacion-sonora/entregas/variaciones/)**
 
-#### [Semana 12](semana_12)
+#### [Semana 13](semana_13)
 
 <!-- prettier-ignore-start -->
 _Abril 12 al 16_
 {: .has-text-grey-light}
 <!-- prettier-ignore-end -->
 
-- Introduccion a la producción musical
+- Introducción a la producción musical
 
-- Analizis de un proyecto y vision general de conceptos:
+- Análisis de un proyecto y vision general de conceptos:
   - Modulación
   - Balance
   - Composición
   - Flujos de trabajo
   - Diseño de soniido
 
-#### [Semana 13](semana_13)
+#### [Semana 14](semana_14)
 
 <!-- prettier-ignore-start -->
 _Abril 19 al 23_
@@ -203,7 +205,7 @@ _Abril 19 al 23_
 - Warping modes y casos de uso
 - Modulaciones en Reaper
 
-#### [Semana 14](semana_14)
+#### [Semana 15](semana_15)
 
 <!-- prettier-ignore-start -->
 _Abril 26 al 30_
@@ -221,20 +223,19 @@ _Abril 26 al 30_
 
   - Técnicas para convertir un loop, compuesto por varios instrumentos a una canción completa:
 
-#### [Semana 15](semana_15)
+#### [Semana 16](semana_16)
 
 <!-- prettier-ignore-start -->
-
 _Mayo 3 al 7_
 {: .has-text-grey-light}
+<!-- prettier-ignore-end -->
 
 - Mezcla
 - Mezcla 2
-<!-- prettier-ignore-end -->
 
 <!--  -->
 
-#### [Semana 16](semana_16)
+#### [Semana 17](semana_17)
 
 _Mayo 10 al 14_
 {: .has-text-grey-light}
@@ -244,14 +245,10 @@ _Mayo 10 al 14_
 
 <!--  -->
 
-#### [Semana 17](semana_17)
+#### [Semana 18](semana_18)
 
 _Mayo 17 al 21_
 {: .has-text-grey-light}
 
 - Revisión y retro alimentación del curso
 - Miercoles 21 de Mayo [ENTREGA IV FINAL](/audio-creacion-sonora/entregas/final/)
-
-<!--  -->
-<!-- #### [Semana 18](semana_18) -->
-<!--  -->

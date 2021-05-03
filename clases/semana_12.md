@@ -1,6 +1,6 @@
 ---
 layout: page_mod
-title: Semana 12
+title: Semana 11
 hide_hero: true
 menubar: menubar_semana
 ---
@@ -9,57 +9,87 @@ menubar: menubar_semana
 
 ---
 
-### Lunes - clase 19
+### Lunes - clase 17
 
 <!-- ignore-prettier-start -->
 
-_12 de abril del 2021_
+_5 de abril del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-- Revisión de entregas
-- Introducción a la producción musical
+- Repaso de teoria musical
+- Competencia Kahoot:
+  - 1er puesto: 0.5 extra y sorpresa
+  - 2do puesto: 0.3 extra
+  - 3er puesto: 0.2 extra
 
-{% include button.html
+El proposito de esta clase es dar una revisión a todos los temas de teoria musical vista durante el curso y resolver las dudas que hayan quedado en el camino. Asi mismo afianzar un poco más este contenido para comenzar la producción del final.
+
+<div class='columns'>
+    <div class='column'>
+    {% include button.html
 message="Grabación de la clase"
-link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/RecordingsIntroduccion%20a%20la%20produccion%20musical-20210412_121729-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?web=1"
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210405_120454-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
 %}
+</div>
+<div class='column'>
+
+{% include button.html
+  message="Kahoot WIP"
+  link="https://create.kahoot.it/share/creacion-sonora/18b2b594-11ee-4f1c-9113-3360d7d6def2"
+  icon="fas fa-link"
+  status="is-dark"
+%}
+
+</div>
+</div>
 
 ---
 
-### Miercoles - clase 20
+### Miercoles - clase 18
 
 <!-- ignore-prettier-start -->
 
-_14 de abril del 2021_
+_7 de abril del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-- Deconstrucción de una sesión
-- Creación de lineas de bajo, acordes y primer acercamiento a:
-  - Modulaciones
-  - Automatizaciones
-  - Flujos de trabajo de composición
+Entrega variaciones
 
-{% include button.html
+<div class='columns'>
+    <div class='column'>
+    {% include button.html
 message="Grabación de la clase"
-link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210414_120810-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?web=1"
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Entrega%20Variaciones-20210407_121041-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
 %}
+    </div>
+    <div class='column'>
+    {% include button.html
+message="Enunciado de la entrega"
+link="/audio-creacion-sonora/entregas/variaciones/"
+icon="fas fa-link"
+style="is-success is-outlined"
+
+%}
+
+</div>
+
+</div>
 
 ### Videos
 
-{% include youtube.html video="x7uQReA6o8M" %}
-{% include youtube.html video="AXnVp2zLTYY" %}
+Este es un resumen de la teoria musical que sugiero ver luego de todo el contenido visto hasta este punto del curso.
+{%include youtube.html video="rgaTLrZGlk0"%}
 
 ---
 

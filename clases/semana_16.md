@@ -1,26 +1,26 @@
 ---
 layout: page_mod
-title: Semana 16
+title: Semana 15
 hide_hero: true
 menubar: menubar_semana
 ---
 
-## Semana 16
+## Semana 15
 
 ---
 
-### Lunes - clase 27
+### Lunes - clase 25
 
 <!-- ignore-prettier-start -->
 
-_10 de mayo del 2021_
+_3 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-- Masterización
+- Mezcla 1
 
 <div class='columns'>
     <div class='column'>
@@ -45,18 +45,18 @@ disabled='true'
 
 ---
 
-### Miercoles - clase 28
+### Miercoles - clase 26
 
 <!-- ignore-prettier-start -->
 
-_12 de mayo del 2021_
+_5 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-- Areas afines a la creación sonora y asesorias sobre la entrega final
+- Mezcla 2
 
 <div class='columns'>
     <div class='column'>

@@ -1,26 +1,26 @@
 ---
 layout: page_mod
-title: Semana 6
+title: Semana 16
 hide_hero: true
 menubar: menubar_semana
 ---
 
-## Semana 9
+## Semana 16
 
 ---
 
-### Lunes - clase 29
+### Lunes - clase 27
 
 <!-- ignore-prettier-start -->
 
-_17 de mayo del 2021_
+_10 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-- Retroalimentación sobre el curso
+- Masterización
 
 <div class='columns'>
     <div class='column'>
@@ -45,42 +45,38 @@ disabled='true'
 
 ---
 
-### Miercoles - clase 30
+### Miercoles - clase 28
 
 <!-- ignore-prettier-start -->
 
-_19 de mayo del 2021_
+_12 de mayo del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-{%include notification.html
-message="**Entrega Final**  🎉🎉🎉"
-status="is-success"
-icon="far fa-calendar-check"
-modifier="is-light"%}
+- Areas afines a la creación sonora y asesorias sobre la entrega final
 
 <div class='columns'>
-<div class='column'>
-{% include button.html
-  message="Grabación de la clase"
-  link=""
-  icon="fas fa-file-video"
-  style=""
-  disabled='true'
+    <div class='column'>
+    {% include button.html
+message="Grabación de la clase"
+link=""
+icon="fas fa-file-video"
+style=""
+disabled='true'
 %}
-</div>
-
-<div class='column'>
-{% include button.html
-  message="Entregas finales"
-  link="/audio-creacion-sonora/estudiantes_21_1/final/"
-  icon="fas fa-file-video"
-  style="is-success is-outlined"
+    </div>
+    <div class='column'>
+    {% include button.html
+message="Diapositivas de la clase"
+link=""
+icon="far fa-file-powerpoint"
+style=""
+disabled='true'
 %}
-</div>
+    </div>
 </div>
 
 ---

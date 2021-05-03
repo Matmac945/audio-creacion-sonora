@@ -1,6 +1,6 @@
 ---
 layout: page_mod
-title: Semana 13
+title: Semana 12
 hide_hero: true
 menubar: menubar_semana
 ---
@@ -9,95 +9,57 @@ menubar: menubar_semana
 
 ---
 
-### Lunes - clase 21
+### Lunes - clase 19
 
 <!-- ignore-prettier-start -->
 
-_19 de abril del 2021_
+_12 de abril del 2021_
 {: .has-text-grey-light}
 
 <!-- ignore-prettier-end -->
 
 #### Resumen
 
-- Síntesis:
-  - Que es la _Síntesis_
-  - Compopnentes de un sintetizador
-  - Tipos de síntesis:
-    - Aditiva
-    - Substractiva
-    - AM/FM
-    - Physical modeling
-    - Granular
-  - Diferencia entre síntesis y sampler
-- Tipos (formatos de sintetizadores):
-
-{% include notification.html
-message=" **SUGERENCIA**: ir la pagina de ableton para aprender de síntesis y hacer los tutoriales para entender como funciona la síntesis con ejercicios prácticos."
-modifier="is-light"
-icon="far fa-lightbulb"%}
-
-<div class='columns'>
-    <div class='column'>
-    {% include button.html
-message="Grabación de la clase"
-link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210419_121052-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?web=1"
-icon="fas fa-file-video"
-style=""
-%}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Ejercicios de práctica"
-link="https://learningsynths.ableton.com/es"
-icon="fas fa-dumbbell"
-style="is-warning"
-%}
-    </div>
-</div>
-
----
-
-### Miercoles - clase 22
-
-<!-- ignore-prettier-start -->
-
-_21 de abril del 2021_
-{: .has-text-grey-light}
-
-<!-- ignore-prettier-end -->
-
-#### Resumen
-
-- Sintetizadores modulares
-- Síntesis FM
-- Sintesis granular
-- Ableton Warping Modes:
-  - Casos de uso de los diferentes warping modes
-  - Audio elástico en Reaper
-- Modulación en Reaper
-- Samplear de Sintetizadores virtuales
+- Revisión de entregas
+- Introducción a la producción musical
 
 {% include button.html
 message="Grabación de la clase"
-link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210421_121205-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?web=1"
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/RecordingsIntroduccion%20a%20la%20produccion%20musical-20210412_121729-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?web=1"
+icon="fas fa-file-video"
+style=""
+%}
+
+---
+
+### Miercoles - clase 20
+
+<!-- ignore-prettier-start -->
+
+_14 de abril del 2021_
+{: .has-text-grey-light}
+
+<!-- ignore-prettier-end -->
+
+#### Resumen
+
+- Deconstrucción de una sesión
+- Creación de lineas de bajo, acordes y primer acercamiento a:
+  - Modulaciones
+  - Automatizaciones
+  - Flujos de trabajo de composición
+
+{% include button.html
+message="Grabación de la clase"
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210414_120810-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?web=1"
 icon="fas fa-file-video"
 style=""
 %}
 
 ### Videos
 
-{%include youtube.html video="GXQHiozYGTE"%}
-{%include youtube.html video="R30L1fIKzpU"%}
-{%include youtube.html video="vvBl3YUBUyY"%}
-Primer video de la serie sobre síntesis de Reverb.com.
-{%include youtube.html video="xyVFIPtOsm8"%}
-{% include button.html
-message="Playlist Completa _Intro To Synthesis_"
-link="https://www.youtube.com/watch?v=xyVFIPtOsm8&list=PLHL1h7OSy4scVqd8DtnsxHIJdNvtw7ST0"
-icon="fas fa-file-video"
-style="is-warnimn"
-%}
+{% include youtube.html video="x7uQReA6o8M" %}
+{% include youtube.html video="AXnVp2zLTYY" %}
 
 ---
 

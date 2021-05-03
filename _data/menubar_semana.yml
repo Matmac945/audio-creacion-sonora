@@ -34,6 +34,9 @@
       link: /clases/semana_16/
     - name: Semana 17
       link: /clases/semana_17/
+    - name: Semana 18
+      link: /clases/semana_18/
+
 - label: Entregas
   items:
     - name: Retrato Sonoro
