@@ -20,16 +20,20 @@ _3 de mayo del 2021_
 
 #### Resumen
 
-- Mezcla 1
+- Mezcla:
+  - Buenas prácticas para iniciar una mezcla
+  - Balance, definición y atención al detalle
+  - Sidechaining para abrir espacio
+  - Compresión, ecualización y automatización de parrametros
+  - Como utilizar el paneo para dar más apertura a la mezcla
 
 <div class='columns'>
     <div class='column'>
     {% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210503_124016-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
-disabled='true'
 %}
     </div>
     <div class='column'>
