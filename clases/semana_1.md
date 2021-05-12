@@ -32,7 +32,6 @@ message="Grabación de la clase"
 link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210118_120431-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 %}
-<br />
 
 ---
 
@@ -95,7 +94,7 @@ Ejemplos de piezas sonoras vistas en clase:
 ---
 
 {% include notification.html
-message='En caso de tener preguntas al respecto de la tématica de la clase enviar un correo a: **matias.macias@upb.edu.co**
+message='En caso de tener preguntas al respecto de la tématica de la clase enviar un correo a: **[matias.macias@upb.edu.co](mailto:matias.macias@upb.edu.co)**
 Con todo el gusto intentare resolver todas sus dudas'
 status='is-primary'
 modifier='is-light is-rounded'

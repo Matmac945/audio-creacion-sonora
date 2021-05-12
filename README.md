@@ -1,10 +1,46 @@
-# Creación Sonora Website
+# Creación Sonora
 
 Página Web para el curso de Creación Sonora.
 
 Esta página web es generada con Jekyll y utiliza una versión modificada de [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
 
-## Modificaciones
+## Contenidos del curso
+
+Creación Sonora es un curso introductorio a la producción musical, enfocado a principiantes o personas que quieran estructurar conocimientos previos en el area.
+
+Los contenidos del curso incluyen:
+
+- Visión generla a que es el audio y el sonido
+- Qué es el midi
+- Qué es un DAW
+- Teoria músical básica:
+  - Rítmo
+  - Melodía
+  - Armonía
+  - Tonalidades
+  - Escalas
+  - Modos
+- Síntesis y diseño de sonido:
+  - Substractiva
+  - Aditiva
+  - FM
+- Sampling
+- Grabación
+- Mezcla:
+  - Ecualización
+  - Compresión
+  - Efectos
+- Master
+
+**NOTA**: _Dada la naturaleza introductoria y generalista del curso los estudiantes pueden utilizar el DAW de su preferencia pero, las actividades y demostraciones en clase se realizan con la última versión Ableton Live o Reaper._
+
+---
+
+## Modificaciones al tema
+
+_Marzo 22 2021_
+
+- Inclusión del objeto de la clase de `block` al button y al include para facilitar la organización del layout
 
 _Febrero 25 2021_
 
@@ -30,7 +66,8 @@ Botón con icono
 El boton recibe iconos de font awesome, y utiliza los "estados" y "estilos" de la clase botones de **[BULMA.IO](https://bulma.io/documentation/elements/button/)**
 
 ```liquid
-{% include button.html message='Download'
+{% include button.html
+message='Download'
 icon='fas fa-download'
 status='is-success'
 style='is-outlined'%}

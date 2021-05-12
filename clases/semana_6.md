@@ -22,6 +22,7 @@ _22 de febrero del 2021_
 message='Clase CANCELADA   :('
 status='is-danger'
 icon=''
+modifier='is-light'
 %}
 
 ---
@@ -60,7 +61,7 @@ style=""
 <div class='column'>
 {% include button.html
 message="Entregas"
-link="/entregas/estudiantes_21_1/retrato_sonoro"
+link="/audio-creacion-sonora/estudiantes_21_1/retrato_sonoro"
 icon="fas fa-seedling"
 status='is-success'
 style=""

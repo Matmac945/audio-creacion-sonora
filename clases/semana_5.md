@@ -51,7 +51,7 @@ style=""
     </div>
 </div>
 
-<br />
+---
 
 #### Videos
 
@@ -80,6 +80,7 @@ _17 de febrero del 2021_
 message="**Clase cancelada**"
 status="is-danger"
 icon=""
+modifier='is-light'
 %}
 
 ---
