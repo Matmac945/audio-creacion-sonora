@@ -113,7 +113,6 @@ message="AGREGAR LINK DE YOUTUBE"
 link="https://docs.google.com/spreadsheets/d/1k0dTZTnIsHELf4R5Ziu10da8uDB56Nanr6HXfO58KLM/edit?usp=sharing"
 icon="fab fa-youtube"
 style="is-outlined is-danger"
-disabled="true"
 %}
 </div>
 <div class="column">
@@ -121,7 +120,6 @@ disabled="true"
 message="SESIÓN COMPLETA"
 link="https://forms.gle/HDVp2cxKgSnAVGCQ8"
 icon="fas fa-upload"
-disabled="true"
 %}
 </div>
 </div>

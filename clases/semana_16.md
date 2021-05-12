@@ -27,25 +27,12 @@ _3 de mayo del 2021_
   - Compresión, ecualización y automatización de parrametros
   - Como utilizar el paneo para dar más apertura a la mezcla
 
-<div class='columns'>
-    <div class='column'>
-    {% include button.html
+{% include button.html
 message="Grabación de la clase"
 link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20210503_124016-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
-%}
-    </div>
-</div>
 
 ---
 
@@ -60,28 +47,27 @@ _5 de mayo del 2021_
 
 #### Resumen
 
-- Mezcla 2
+- Mezcla 2:
+  - Como saber cuando la mecla ya esta lista
+  - Mas tips para mejorar el diseño de sonido
+  - Darle punch o _"golpe"_ a una bateria
+  - Darle mas profundida a los instrumentos con efectos como reverb y delay
+  - Automatizaciones y buenas prácticas para automatizar.
+  - Sub-mixes y grupos
+  - Nivel de volumen óptimo para la mezcla
 
-<div class='columns'>
-    <div class='column'>
-    {% include button.html
+{% include button.html
 message="Grabación de la clase"
-link=""
+link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Mezcla%202-20210505_123038-Meeting%20Recording.mp4?web=1"
 icon="fas fa-file-video"
 style=""
-disabled='true'
 %}
-    </div>
-    <div class='column'>
-    {% include button.html
-message="Diapositivas de la clase"
-link=""
-icon="far fa-file-powerpoint"
-style=""
-disabled='true'
-%}
-    </div>
-</div>
+
+#### Videos
+
+Como escuchar la compresion, una de las cosas mas dificiles de hacer y este video de kush after hours tiene una de las mejores explicaciones que yo haya encontrado hasta ahora.
+
+{%include youtube.html video='K0XGXz6SHco'%}
 
 ---
 
