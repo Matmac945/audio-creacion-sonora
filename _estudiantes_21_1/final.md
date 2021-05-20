@@ -4,10 +4,10 @@ subtitle: Mayo 2021
 layout: page_mod_wide
 description: Final para el curso de creacion sonora semestre 1 2021
 hide_hero: true
-image: /audio-creacion-sonora/img/jpg/estudiantes_21_1_final.jpg
+image: /audio-creacion-sonora/img/entregas/estudiantes_21_1_final.jpg
 ---
 
-## Retrato Sonoro - 2021 - 1
+## Final - 2021 - 1
 
 <!-- ignore-prettier-start -->
 

@@ -4,7 +4,7 @@ subtitle: 24 de febrero del 2021
 layout: page_mod_wide
 description: creacion libre de una pieza sonora
 hide_hero: true
-image: /audio-creacion-sonora/img/jpg/estudiantes_21_1_retrato.jpg
+image: /audio-creacion-sonora/img/entregas/estudiantes_21_1_retrato.jpg
 ---
 
 ## Retrato Sonoro - 2021 - 1

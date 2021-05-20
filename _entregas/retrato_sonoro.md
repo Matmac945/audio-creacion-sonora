@@ -5,7 +5,7 @@ layout: page_mod_wide
 description: creacion libre de una pieza sonora
 hide_hero: true
 menubar: entregas_menubar
-image: /audio-creacion-sonora/img/jpg/retrato_sonoro.jpg
+image: /audio-creacion-sonora/img/entregas/retrato_sonoro.jpg
 ---
 
 # Entrega 1 - Retrato Sonoro

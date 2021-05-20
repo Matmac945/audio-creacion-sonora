@@ -2,7 +2,7 @@
 layout: page_mod_wide
 title: Plugins VST
 subtitle: Gratuitos
-hero_image: ../img/jpg/plugins_small.jpg
+hero_image: ../img/recursos/plugins_small.jpg
 hero_darken: true
 menubar_toc: true
 toc_title: INDICE
@@ -26,7 +26,7 @@ En caso de necesitar más opciones de VST o DAW gratuitos recomiendo ir a:
 
 - [Tutorial](/{{ site.baseurl }}/midi/2021/02/02/smartphone-como-controlador-midi/) para poder configurar el celular correctamente como controlador midi -->
 
-## Controladores MIDI con el smartphone
+## 📳 Controladores MIDI con el smartphone
 
 ### IOS
 
@@ -38,7 +38,7 @@ En caso de necesitar más opciones de VST o DAW gratuitos recomiendo ir a:
 - [Pocket MIDI controller](https://play.google.com/store/apps/details?id=com.humtools.midikontrol&hl=es_419&gl=US) La version incluye teclado, pads y knobs mapeables
 - [Teclado MIDI](https://play.google.com/store/apps/details?id=com.dreamhoundstudios.keyboard&hl=es_419&gl=US) Teclado MIDI completamente funcional
 
-## Instrumentos
+## 🎹 Instrumentos
 
 - [Piano One](https://neovst.com/piano-one/) VST de piano
 - [Surge](https://surge-synthesizer.github.io/) Sintetizador
@@ -56,7 +56,7 @@ En caso de necesitar más opciones de VST o DAW gratuitos recomiendo ir a:
 - [Komplete Start](https://www.native-instruments.com/es/products/komplete/bundles/komplete-start/) Suite de instrumentos y efectos para la producción músical
 - [Sine Player](https://www.orchestraltools.com/sinefactory) Sampler de orquesta, hay que subscribirse para obtener los plugins
 
-## Efectos
+## 🧬 Efectos
 
 - [Klevgrand](https://klevgrand.se/)
   - [FreeAmp](https://klevgrand.se/products/freeamp) Saturador y compresor
@@ -82,7 +82,7 @@ En caso de necesitar más opciones de VST o DAW gratuitos recomiendo ir a:
 - [TAL-Vocoder](https://tal-software.com/products/tal-vocoder) Emulador de vocoder vintage
 - [Sphere](https://www.sonicbits.com/sphere.html) Reverb
 
-## Samples y Loops
+## 🎼 Samples y Loops
 
 - **[Freesound.org](https://freesound.org/)** Libreria de sonidos gratuitos
 - **[Soundible](https://soundbible.com/)** Libreria de sonidos gratuitos

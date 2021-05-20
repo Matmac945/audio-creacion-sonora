@@ -5,7 +5,7 @@ author: Matías Macías Gómez, Jose Ricardo Zapata Phd.
 date: 2021-03-05 2:00:00
 hero_image: /audio-creacion-sonora/img/jpg/reaper_small.jpg
 hero_darken: true
-image: ../img/jpg/reaper_small.jpg
+image: ../img/posts/reaper_small.jpg
 menubar_toc: true
 toc_title: INDICE
 categories: produccion-musical

@@ -5,7 +5,7 @@ layout: page_mod_wide
 description: variaciones rítmicas, melódicas y armónicas sobre las melodías y armonias previamente creadas
 hide_hero: true
 menubar: entregas_menubar
-image: /audio-creacion-sonora/img/jpg/variaciones.png
+image: /audio-creacion-sonora/img/entregas/variaciones.png
 ---
 
 # Entrega 3 - Variaciones

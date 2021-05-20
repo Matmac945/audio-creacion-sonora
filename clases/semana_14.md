@@ -85,6 +85,8 @@ _21 de abril del 2021_
   style=""
 %}
 
+---
+
 ### Videos
 
 {%include youtube.html video="GXQHiozYGTE"%}

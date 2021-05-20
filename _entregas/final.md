@@ -5,7 +5,7 @@ layout: page_mod_wide
 description: Proyecto final para el curso de Creación Sonoro 2021-10
 hide_hero: true
 menubar: entregas_menubar
-image: /audio-creacion-sonora/img/jpg/final.jpg
+image: /audio-creacion-sonora/img/entregas/final.jpg
 ---
 
 # Entrega 4 - Final

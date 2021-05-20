@@ -5,7 +5,7 @@ author: Matías Macías Gómez
 date: 2021-01-26 9:17:00
 hero_image: /audio-creacion-sonora/img/jpg/ableton_small.jpg
 hero_darken: true
-image: ../img/jpg/ableton_small.jpg
+image: ../img/posts/ableton_small.jpg
 menubar_toc: true
 toc_title: INDICE
 categories: produccion-musical

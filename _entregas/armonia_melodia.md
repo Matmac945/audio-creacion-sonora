@@ -5,7 +5,7 @@ layout: page_mod_wide
 description: Composicion de una melodia y una armonía
 hide_hero: true
 menubar: entregas_menubar
-image: /audio-creacion-sonora/img/jpg/armonia_melodia.jpg
+image: /audio-creacion-sonora/img/entregas/armonia_melodia.jpg
 ---
 
 # Entrega 2 - Melodía y Armonía
