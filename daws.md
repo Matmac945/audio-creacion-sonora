@@ -2,7 +2,7 @@
 layout: page_mod_wide
 title: Digital Audio Workstations
 subtitle: Gratuitos
-hero_image: ../img/jpg/daws_post_banner.jpg
+hero_image: ../img/recursos/daws_post_banner.jpg
 hero_darken: true
 menubar_toc: true
 toc_title: INDICE
