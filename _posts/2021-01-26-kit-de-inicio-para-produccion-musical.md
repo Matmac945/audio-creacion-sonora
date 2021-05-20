@@ -3,7 +3,7 @@ layout: post
 title: 'Software gratuito para iniciarse en la producción musical'
 author: Matías Macías Gómez
 date: 2021-01-26 9:17:00
-hero_image: /audio-creacion-sonora/img/jpg/ableton_small.jpg
+hero_image: /audio-creacion-sonora/img/posts/ableton_small.jpg
 hero_darken: true
 image: ../img/posts/ableton_small.jpg
 menubar_toc: true
