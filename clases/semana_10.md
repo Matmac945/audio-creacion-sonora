@@ -80,6 +80,8 @@ icon="fas fa-file-video"
 style=""
 %}
 
+---
+
 #### Videos
 
 Estos son los videos de los modos griegos por Jaime altozano, aunque ya los he compartido en semanas anteriores la repeticion de conceptos y el nuevo entendimiento obtenido acera de ellos es bastante util para afianzar los conocimientos.

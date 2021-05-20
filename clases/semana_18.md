@@ -50,7 +50,17 @@ modifier="is-light"%}
 <div class='columns'>
 <div class='column'>
 {% include button.html
-  message="Grabación de la clase"
+  message="Entrega final parte 1"
+  link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Documents/General/Recordings/Final_1-20210519_132748-Meeting%20Recording.mp4?web=1"
+  icon="fas fa-file-video"
+  style=""
+  disabled='true'
+%}
+</div>
+
+<div class='column'>
+{% include button.html
+  message="Entrega final parte 2"
   link=""
   icon="fas fa-file-video"
   style=""

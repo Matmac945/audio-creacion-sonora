@@ -4,24 +4,24 @@ hide_hero: true
 show_sidebar: true
 ---
 
-## Canales de YouTube recomendados
+## Canales de Youtube recomendados
 
 ---
 
 En mi opinion una de las mejores maneras de mantenerse
-inspirado, aprender nuevas tecnicas y abrir un poco el abanico
-de posibilidades para la produccion de audio y musica es
-aprendiendo de otros productores.
+inspirado, aprender nuevas tecnicas y abrir un el abanico
+de posibilidades creativas y técnicas para la producción de audio y música es
+aprendiendo de otros músicos, ingenieros y productores.
 
 Por suerte ya no tenemos que visitar estudios, o la casa de
 otros músicos para poder aprender de ellos como utilizan sus
-herramientas, sus trucos y sus "secretos" para conseguir ese sonido
-que los caracteriza.
+herramientas, sus flujos de trabajo y sus "secretos" para conseguir un sonido
+profesional y competitivo.
 
 Esta es una lista (no tiene un orden específico) de mis canales de
 youtube favoritos sobre: síntesis, producción musical, teoria
 músical, ingenieria de sonido, diseño de sonido y cualquier otro
-tema relacionado con la creación y manipulación audio y sonidos.
+tema relacionado con la creación, manipulación y producción audio y sonidos.
 
 <ul>
     <li>
@@ -125,5 +125,19 @@ tema relacionado con la creación y manipulación audio y sonidos.
         href="https://www.youtube.com/channel/UCtMq9D0KrMR93NQfuotUoKA"
         target="_blank"
         ><strong>Awesome Acoustics</strong>Explicacion de fenomenos acústicos y los procedimientos técnicos detras del estudio de la relación entre el sonido y el espacio</a>
+    </li>
+    <li>
+        <a
+        class="has-text-dark"
+        href="https://www.youtube.com/c/Reverb/videos"
+        target="_blank"
+        ><strong>Reverb: </strong> Temas variados sobre hardware, softwares, conceptos musicales y tutoriales</a>
+    </li>
+    <li>
+        <a
+        class="has-text-dark"
+        href="https://www.youtube.com/c/ValerioVelardoTheSoundofAI/videos"
+        target="_blank"
+        ><strong>Sound of AI: </strong> Todo lo relacionado con sonido, música e inteligencia artificial</a>
     </li>
 </ul>

@@ -57,7 +57,7 @@
 - name: Recursos
   link: /recursos_gratuitos/
   dropdown:
-    - name: Videos
+    - name: Canales de Youtube
       link: /youtube/
     - name: DAW Gratuitos
       link: /daws/

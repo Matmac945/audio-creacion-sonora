@@ -53,20 +53,6 @@ style=""
 
 ---
 
-#### Videos
-
-Explicación de qué son los **Intervalos**, las **Escalas Músicales** y las **Tonalidadades** por Jaime Altozano
-{% include youtube.html video='KbIRXKP6GfY' %}
-{% include youtube.html video='OdYIS8KXdFI' %}
-{% include youtube.html video='o6aOC3rERF0' %}
-
-Este video de Paul Davis explica la diferencia entre escala y tonalidad. Es un concepto facil de confundir y una explicación extra no sobra
-{% include youtube.html video="aV5gUNOYMfU" %}
-
-<!-- #### Bibliografia -->
-
----
-
 ### Miercoles
 
 <!-- ignore-prettier-start -->
@@ -82,6 +68,18 @@ status="is-danger"
 icon=""
 modifier='is-light'
 %}
+
+---
+
+#### Videos
+
+Explicación de qué son los **Intervalos**, las **Escalas Músicales** y las **Tonalidadades** por Jaime Altozano
+{% include youtube.html video='KbIRXKP6GfY' %}
+{% include youtube.html video='OdYIS8KXdFI' %}
+{% include youtube.html video='o6aOC3rERF0' %}
+
+Este video de Paul Davis explica la diferencia entre escala y tonalidad. Es un concepto facil de confundir y una explicación extra no sobra
+{% include youtube.html video="aV5gUNOYMfU" %}
 
 ---
 

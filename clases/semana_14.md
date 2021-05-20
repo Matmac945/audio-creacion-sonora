@@ -95,10 +95,10 @@ _21 de abril del 2021_
 Primer video de la serie sobre síntesis de Reverb.com.
 {%include youtube.html video="xyVFIPtOsm8"%}
 {% include button.html
-  message="Playlist Completa _Intro To Synthesis_"
+  message="**Playlist** _\"Intro To Synthesis\"_"
   link="https://www.youtube.com/watch?v=xyVFIPtOsm8&list=PLHL1h7OSy4scVqd8DtnsxHIJdNvtw7ST0"
-  icon="fas fa-file-video"
-  style="is-warnimn"
+  icon="fab fa-youtube"
+  style="is-danger is-outlined"
 %}
 
 ---

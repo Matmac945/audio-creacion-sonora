@@ -86,6 +86,8 @@ style="is-success is-outlined"
 
 </div>
 
+---
+
 ### Videos
 
 Este es un resumen de la teoria musical que sugiero ver luego de todo el contenido visto hasta este punto del curso.

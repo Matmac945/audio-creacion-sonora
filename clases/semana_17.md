@@ -56,6 +56,8 @@ link="https://upbeduco.sharepoint.com/sites/CreacinSonora2021-10/Shared%20Docume
 icon="fas fa-file-video"
 %}
 
+---
+
 #### Videos
 
 Primer video de la Serie sobre el Mastering realizada por Izotope, famosos por su plugin Ozone el cual esta enfocado en esta parte del proceso de la producción musical

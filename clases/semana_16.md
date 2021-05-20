@@ -63,6 +63,8 @@ icon="fas fa-file-video"
 style=""
 %}
 
+---
+
 #### Videos
 
 Como escuchar la compresion, una de las cosas mas dificiles de hacer y este video de kush after hours tiene una de las mejores explicaciones que yo haya encontrado hasta ahora.

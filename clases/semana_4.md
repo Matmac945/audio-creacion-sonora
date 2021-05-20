@@ -123,9 +123,9 @@ Ambas páginas estan en ingles pero son estan llenas de ejemplos y recursos supr
   </div>
 </div>
 
-#### Videos
-
 ---
+
+#### Videos
 
 - Explicación sobre que es el pulso, el ritmo y los compases
 

@@ -70,9 +70,9 @@ icon=""
 </div>
 </div>
 
-### Videos
-
 ---
+
+### Videos
 
 Entrevista a John cage
 {% include youtube.html video='Hj7rq-gEzgo' %}
