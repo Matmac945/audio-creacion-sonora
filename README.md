@@ -2,19 +2,19 @@
 
 Creación Sonora es un curso introductorio a la producción musical, con un enfoque generalista busca brindarle a los estudiantes todas las herramientas, técnicas y flujos de trabajo necesarios para llevar a cabo un proyecto músical de principio a fin.
 
-### Pre-requisitos
+## Pre-requisitos
 
 El curso no tiene ningun tipo de pre-requisito, pero conocimientos básicos de teoria músical o experiencia trabajandon con software de edición de audio y/o video son altamente recomendables.
 
-### Contenidos del curso:
+## Contenidos del curso:
 
-- El audio, el sonido y la música:
+- **El audio, el sonido y la música:**
   - Qué es el sonido
   - Qué es el audio
   - Qué entendemos como música
-- Qué es y cuales son las funcionalidades básicas de un DAW (Ableton Live y Reaper)
-- Qué es y para que sirve el midi
-- Teoria músical básica:
+- **Qué es y cuales son las funcionalidades básicas de un DAW (Ableton Live y Reaper)**
+- **Qué es y para que sirve el midi**
+- **Teoria músical básica:**
   - Componentes principales de la música
     - Ritmo
     - Melodía
@@ -23,7 +23,7 @@ El curso no tiene ningun tipo de pre-requisito, pero conocimientos básicos de t
     - Tonalidades
     - Escalas
     - Modos
-- Introducción a la síntesis y bases del diseño de sonido:
+- **Introducción a la síntesis y bases del diseño de sonido:**
 
   - Síntesis:
     - Substractiva
@@ -31,13 +31,13 @@ El curso no tiene ningun tipo de pre-requisito, pero conocimientos básicos de t
     - FM
     - Granular
   - Edición y efectos de audio:
-    - Warping modes (Ableton Live)
+    - Warping modes _(Ableton Live)_
     - Uso creativo de efectos de audio
     - Modulaciones y automatizaciones
     - Sampling como tecnica de diseño de sonido
 
-- Mezcla
-- Master:
+- **Mezcla**
+- **Master**
 
 Matías Macías Gómez, Universidad Pontificia Bolivariana, Facultad TIC, 2021
 
