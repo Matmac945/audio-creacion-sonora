@@ -1,42 +1,53 @@
 # Creación Sonora
 
-Página Web para el curso de Creación Sonora.
+Creación Sonora es un curso introductorio a la producción musical, con un enfoque generalista busca brindarle a los estudiantes todas las herramientas, técnicas y flujos de trabajo necesarios para llevar a cabo un proyecto músical de principio a fin.
 
-Esta página web es generada con Jekyll y utiliza una versión modificada de [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
+### Pre-requisitos
 
-## Contenidos del curso
+El curso no tiene ningun tipo de pre-requisito, pero conocimientos básicos de teoria músical o experiencia trabajandon con software de edición de audio y/o video son altamente recomendables.
 
-Creación Sonora es un curso introductorio a la producción musical, enfocado a principiantes o personas que quieran estructurar conocimientos previos en el area.
+### Contenidos del curso:
 
-Los contenidos del curso incluyen:
-
-- Visión generla a que es el audio y el sonido
-- Qué es el midi
-- Qué es un DAW
+- El audio, el sonido y la música:
+  - Qué es el sonido
+  - Qué es el audio
+  - Qué entendemos como música
+- Qué es y cuales son las funcionalidades básicas de un DAW (Ableton Live y Reaper)
+- Qué es y para que sirve el midi
 - Teoria músical básica:
-  - Rítmo
-  - Melodía
-  - Armonía
-  - Tonalidades
-  - Escalas
-  - Modos
-- Síntesis y diseño de sonido:
-  - Substractiva
-  - Aditiva
-  - FM
-- Sampling
-- Grabación
-- Mezcla:
-  - Ecualización
-  - Compresión
-  - Efectos
-- Master
+  - Componentes principales de la música
+    - Ritmo
+    - Melodía
+    - Armonía
+  - Introducción a la teoria musical
+    - Tonalidades
+    - Escalas
+    - Modos
+- Introducción a la síntesis y bases del diseño de sonido:
 
-**NOTA**: _Dada la naturaleza introductoria y generalista del curso los estudiantes pueden utilizar el DAW de su preferencia pero, las actividades y demostraciones en clase se realizan con la última versión Ableton Live o Reaper._
+  - Síntesis:
+    - Substractiva
+    - Aditiva
+    - FM
+    - Granular
+  - Edición y efectos de audio:
+    - Warping modes (Ableton Live)
+    - Uso creativo de efectos de audio
+    - Modulaciones y automatizaciones
+    - Sampling como tecnica de diseño de sonido
+
+- Mezcla
+- Master:
+
+Matías Macías Gómez, Universidad Pontificia Bolivariana, Facultad TIC, 2021
 
 ---
 
-## Modificaciones al tema
+Esta página web es generada con Jekyll y utiliza una versión modificada de [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
+
+---
+
+## Modificaciones al tema de Jekyll
 
 _Marzo 22 2021_
 
