@@ -10,3 +10,6 @@ vendor/
 
 # Ignore prettier ignore file
 .prettierignore
+
+# Referall codes
+refer.txt

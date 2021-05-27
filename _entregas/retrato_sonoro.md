@@ -49,12 +49,13 @@ icon="fas fa-exclamation-triangle"
 modifier='is-light'
 %}
 
-### Formato
+<!-- ### Formato
 
 Publicar video con el Retrato Sonoro en YouTube y pegar el link
 del video en la celda correspondiente junto a su nombre en la
-siguiente tabla.
+siguiente tabla. -->
 
+<!--
 {% include button.html
 message="TABLA PARA LA ENTREGA"
 link="https://docs.google.com/spreadsheets/d/1uuZOdC44RGaI8P29ksCaNb9oMW98HtTNmmQ2bfCSdvk/edit?usp=sharing"
@@ -62,15 +63,15 @@ icon="fas fa-link"
 style="is-outlined is-fullwidth is-danger"
 modifier='is-light'
 disabled="true"
-%}
+%} -->
 
-{% include notification.html
+<!-- {% include notification.html
 message= "💡 **NOTA!** El tiempo de entrega se cuenta con
 respecto a la tabla de excel y no con respecto a la fecha de subida del
-video a YouTube, así mismo se considera que la eestá
-terminada una vez se publica el link del videotabla, y no
+video a YouTube, así mismo se considera que la entrega está
+terminada una vez se publica el link del video en la tabla, y no
 cuando el video es subido a la plataforma."
-status="is-warning"%}
+status="is-warning"%} -->
 
 ---
 
