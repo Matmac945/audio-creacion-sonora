@@ -39,6 +39,11 @@ El curso no tiene ningun tipo de pre-requisito, pero conocimientos básicos de t
 - **Mezcla**
 - **Master**
 
+#### Referencias y herramientas plataformas
+- [Ableton Classroom Support](https://www.ableton.com/en/classroom/support/)
+- [Learnin Music](https://learningmusic.ableton.com/)
+- [Learning Synthesis](https://learningsynths.ableton.com/)
+
 Matías Macías Gómez, Universidad Pontificia Bolivariana, Facultad TIC, 2021
 
 ---
