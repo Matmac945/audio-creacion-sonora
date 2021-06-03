@@ -92,3 +92,7 @@ En caso de necesitar más opciones de VST o DAW gratuitos recomiendo ir a:
 - **[tune-craft](https://www.tunecraft-sounds.com/free/)** Paquetes de samples, loops y presets gratuitos
 - **[Zapsplat](https://www.zapsplat.com/)** Efectos de sonido y musica royalty free y creative commons
 - **[AubitSound](https://www.aubitsound.com/free-download-library)** Samples gratuitos
+
+## 📚 Educativo
+
+- **[Ableton Learning Page](https://www.ableton.com/en/live/learn-live/)** Flujos de trabajo, setups y explicacion de cada una de las funciones de Ableton Live

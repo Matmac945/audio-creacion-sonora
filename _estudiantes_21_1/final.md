@@ -19,17 +19,12 @@ _mayo del 2021_
 #### Enunciado del trabajo
 
 {% include notification.html
-message='Componer, producir la banda sonora de un video con una duración minima de 2:30 min el cual puede ser pero no esta limitado a: un trailer, un corto, una sección de una pelicula o serie.'
+message='***Componer y Producir*** la banda sonora de un video con una duración minima de **2:30 min** el cual puede ser pero no esta limitado a: un trailer, un corto, una sección de una pelicula o serie.
+Todo el componente sonoro debe de ser compuesto y producido por el estudiante y para soportar el trabajo debera de entregar la sesión en ableton live o Reaper y hacer una presentacion en la cual se cuenta el proceso creativo que siguio para llegar al producto final.'
 status='is-primary'
 modifier='is-light'
 icon='far fa-eye'
 %}
-
-<!-- _"Crear una pieza sonora libre con una duración aproximada de 3
-minutos. La pieza puede ser pero no esta limitada a una
-composición músical, un paisaje sonoro, una compilación de
-canciones o cualquier otro tipo de expresion sonora que se pueda
-digitalizar y exportar en formato **.mp3 o .Wav**"_ -->
 
 {%include button.html
 message='Enunciado Completo'
@@ -47,8 +42,19 @@ Durante la muestra de sus piezas cada estudiante se toma unos minutos para conta
 
 ### Entregas
 
+<div class='columns'>
+<div class='column'>
 {% include button.html
 message='Playlist de los Finales'
 link='https://www.youtube.com/playlist?list=PL86vQHuRh3K0aa-sFa9u8jbPACLSxPsmt'
 status='is-danger'
 icon='fab fa-youtube'%}
+</div>
+<div class='column'>
+<!-- {% include button.html
+message='Enunciado de la Entrega'
+link='/audio-creacion-sonora/entregas/final/'
+status='is-danger'
+icon='fas fa-external-link-alt'%} -->
+</div>
+</div>
