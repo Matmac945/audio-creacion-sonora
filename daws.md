@@ -9,7 +9,7 @@ toc_title: INDICE
 ---
 
 <!-- prettier-ignore-start -->
-## **Digital Audio Workstations Gratuitos**
+## **(DAW) Digital Audio Workstations Gratuitos**
 {: .has-text-centered}
 <!-- prettier-ignore-end -->
 
@@ -17,7 +17,7 @@ toc_title: INDICE
 
 ![lmms](../img/recursos/lmms.png)
 
-LMMS es un software opensource cuyos instrumentos virtuales ofrecen buenas posibilidades a la hora de hacer música de "8 bits" o chiptune, pero a la hora de hacer producciones más complejas presenta limitaciones en el flujo de trabajo ya que si se requiere grabar sonidos tiene que hacerse desde un software externo y luego importar las grabaciones a la sesion.
+LMMS es un software Open Source cuyos instrumentos virtuales ofrecen buenas posibilidades a la hora de hacer música de "8 bits" o "chiptune", pero a la hora de hacer producciones más complejas presenta limitaciones en el flujo de trabajo ya que si se requiere grabar sonidos tiene que hacerse desde un software externo y luego importar las grabaciones a la sesion.
 
 Ofrece un buen sequenciador midi y aunque en mi opinion la interface podria mejorar y no se ajusta muy bien a monitores HDPi, luego de unos minutos usando el programa es facil saber donde se encuentran las cosas, siempre y cuando se tenga experiencia previa trabajando con otros DAW.
 
@@ -63,7 +63,7 @@ message= " **Pros**:
 
 ![waveform](../img/recursos/waveform.png)
 
-En mi opinion el **mejor DAW gratuito multiplataforma disponible en Febrero del 2021**.<br />
+En mi opinion **El Mejor DAW Gratuito multiplataforma disponible en Febrero del 2021**.<br />
 Permite llevar a cabo todas las funciones necesarias a la hora de producir música o audio profesional
 
 {% include notification.html
@@ -112,10 +112,10 @@ message= " **Pros**:
 
 ![omhstudio](../img/recursos/ohmstudio.jpg)
 
-Omhstudio es un DAW cuya principal caracteristica diferenciadora es el hecho de que permite el trabajo collaborativo remoto en la misma sesion en tiempo real.
-Yo no puedo hablar de esta funcion ya que nunca la he utilizado, pero la página web y los intrumentos VST que el instalador sugiere descargar estan muy desactualizados lo cual da la sensacion de ser un proyecto abandonado, o con poco soporte por lo cual en caso de encontrarse con algún problema no esperaria mucho contenido o ayuda para resolverlo.
+Omhstudio es un DAW cuya principal caracteristica diferenciadora es el hecho de que permite el trabajo colaborativo remoto en la misma sesion en tiempo real.
+Yo no puedo hablar de esta funcion ya que nunca la he utilizado, pero la página web y los intrumentos VST que el instalador recomienda descargar estan muy desactualizados, lo cual da la sensacion de ser un proyecto abandonado o con poco soporte por lo cual en caso de encontrarse con algún problema no esperaria mucho contenido o ayuda para resolverlo.
 
-Otra desventaja es que solo permite el uso conectado en linea y cuando se intenta trabjar _"offline"_ te dice que es un _"feature"_ que sigue en desarrollo 🤷‍♂️.
+Otra desventaja es que solo permite el su uso conectado ientras se esta conectado a internet y si se intenta trabajar _"offline"_ lanza un mensaje de error que dice que es esta funcionalidad _"sigue en desarrollo"_ 🤷‍♂️.
 
 {% include notification.html
 message= " **Pros**:
@@ -184,7 +184,7 @@ icon="far fa-thumbs-up"
 
 ![Imagen de Cakewalk](../img/recursos/cakewalk.png)
 
-Antes llamado SONAR antes de ser adquirido cpor Bandlab, Cakewalk es un DAW completo, con soporte de VST y VST3, un paquete de efectos muy buenos para comenzar a producir música
+Cakewalk es un DAW completo, con soporte para VST y VST3 y un buen paquete de efectos para comenzar a producir.
 
 {% include notification.html
 message= " **Pros**:
@@ -220,16 +220,14 @@ message= " **Pros**:
 
 ![Imagen de MPC Beats](../img/recursos/mpc-beats.png)
 
-MPC Beats es un software que permite la creacion de beats con paquetes de sonido pre-producidos, el flujo de trbajo del software esta claramente dise;o para funcionar en conjunto con un controlador midi Akai, y aunque tiene como superficie de control predefinida el Ableton Push 2 en mi opinion la integracion es menos que ideal, el software no te da pistas de como estan organizados los sonidos en la superficie de control del push y ninguno de los knobs funciona por defecto.
-
-Aun con esta integración un poco pobre, la creacion de pistas y la exploracion de ritmos o "beats" es uno de los factores más interesantes de este software, es realmente divertido abrir los presets incluidos y explorar los sonidos mientras se practican las tecnicas de finger drumming, siendo esta la principal herramienta para crear las pistas ya que el software esta basado en un diseño de sampler, en el cual yo cargo samples en los diferentes canales y con un controlador midi los activo.
+MPC Beats es un software que permite la creacion de beats con paquetes de samples, el flujo de trabajo del software esta diseñado para funcionar en conjunto con un controlador MIDI tipo sampler.
 
 {% include notification.html
 message= " **Pros**:
 
 - Pistas para instrumentos MIDI ilimitadas
-- Buenos paquetes de sonidos
-- Tutoriales disponibles en la pagina akai para aprender a utilizar el software
+- Buenos paquetes de samples
+- Tutoriales disponibles en la pagina Akai para aprender a utilizar el software
   "
   status="is-success"
   modifier="is-light"
@@ -402,13 +400,13 @@ message= " **Cons**:
 
 ![garageband](../img/recursos/garageband.jpg)
 
-Lo más probables es que si tienes un MacBook, iPad o iPhone lo más probable es que ya tengas GarageBand instalado en tu dispositivo o la hayas tenido instalada en el en algún momento.
+Si tienes un MacBook, iPad o iPhone lo más probable es que ya tengas GarageBand instalado en tu dispositivo o la hayas tenido instalada en algún momento.
 
-GarageBand es probablemente la aplicaciones multiplataforma gratuita más completa del mercado, permite utilizar interfaces de audio y controladores midi, por usb o bluetooth sin importar el dispositivo en el cual se este ejecutando. Tiene una gran seleccion de instrumentos virtuales de fabrica y se puede expandir aun más descargando paquetes oficiales ofrecidos por apple.
+GarageBand es probablemente la aplicacion movil gratuita más completa del mercado, permite utilizar interfaces de audio y controladores midi, por usb o bluetooth sin importar el dispositivo en el cual se este ejecutando. Tiene una gran seleccion de instrumentos virtuales de fabrica y se puede expandir aun más descargando paquetes oficiales ofrecidos por apple.
 
-Tiene un flujo de trabajo muy parecido al de Logic Pro X siendo este el siguiente paso obvio para cualquier persona que utilice garageBand y quiera migrar a un software más "profesional"
+Tiene un flujo de trabajo muy parecido al de Logic Pro X siendo este el siguiente paso obvio para cualquier persona que utilice GarageBand y quiera migrar a un software más "profesional"
 
-Realmente el único problema es que no permite la integración con plugins VST, pero con la seleccion de instrumentos y de efectos que ofrece no creo que esto sea ningun problema para principiantes que se esten iniciando en el mundo de la producción musical o músicos experimentados que quieran hacer demos y componer ideas rapidas en su celular o tablet.
+Realmente el único problema es que no permite la integración con plugins VST, pero con la seleccion de instrumentos y efectos que ofrece esta limitacion no deberia ser un problema para principiantes que se esten iniciando en el mundo de la producción musical o músicos experimentados que quieran hacer demos y componer ideas rapidas en su iPhone o iPad.
 
 {% include notification.html
 message= " **Pros**:
